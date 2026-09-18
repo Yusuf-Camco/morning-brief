@@ -1,0 +1,6 @@
+[*.cs]
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = error
+dotnet_style_namespace_match_folder = false
+dotnet_diagnostic.IDE0160.severity = none

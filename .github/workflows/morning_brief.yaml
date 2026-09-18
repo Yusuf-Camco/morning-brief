@@ -42,3 +42,10 @@ jobs:
           git add state/sent-stories.json
           git diff --staged --quiet || git commit -m "State: $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Alert on failure
+        if: failure()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d text="⚠️ Morning brief workflow failed — ${{ github.run_id }}"

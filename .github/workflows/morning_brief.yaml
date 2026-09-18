@@ -1,0 +1,44 @@
+name: Morning Brief
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: morning-brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Build
+        run: dotnet build --configuration Release
+
+      - name: Run brief
+        env:
+          RUN_ONCE: "true"
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: dotnet bin/Release/net10.0/morning-brief.dll --run-once
+
+      - name: Commit state
+        run: |
+          git config user.name "morning-brief"
+          git config user.email "noreply@github.com"
+          git add state/sent-stories.json
+          git diff --staged --quiet || git commit -m "State: $(date -u +%Y-%m-%d)"
+          git push

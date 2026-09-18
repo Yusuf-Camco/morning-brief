@@ -43,6 +43,7 @@ builder.Services.AddSingleton<ISentStoryStore, SentStoryStore>();
 builder.Services.AddSingleton<IBriefWriter, BriefWriter>();
 builder.Services.AddSingleton<IFeedReader, FeedReader>();
 builder.Services.AddSingleton<IStoryClusterer, StoryClusterer>();
+builder.Services.AddSingleton<MorningBriefFunction>();
 
 if (!string.IsNullOrEmpty(Environment.GetEnvironmentVariable("APPLICATIONINSIGHTS_CONNECTION_STRING")))
 {

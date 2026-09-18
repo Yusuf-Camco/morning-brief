@@ -44,7 +44,7 @@ public sealed class SentStoryStore(TableServiceClient tableService, ILogger<Sent
                 await table.UpsertEntityAsync(new SentStory
                 {
                     RowKey = Guid.NewGuid().ToString("n"),
-                    Tokens = string.Join(' ', StoryClusterer.TokenizeTitle(cluster.Primary.Title)),
+                    Tokens = string.Join(' ', ClusterTokens(cluster)),
                     SentAt = DateTimeOffset.UtcNow
                 }, cancellationToken: ct);
             }
@@ -54,4 +54,9 @@ public sealed class SentStoryStore(TableServiceClient tableService, ILogger<Sent
             logger.LogError(ex, "Could not record sent stories; tomorrow may repeat today's brief.");
         }
     }
+
+    private static HashSet<string> ClusterTokens(StoryCluster cluster) =>
+    cluster.Sources
+        .SelectMany(s => StoryClusterer.TokenizeTitle(s.Title))
+        .ToHashSet();
 }

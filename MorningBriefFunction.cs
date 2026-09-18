@@ -13,12 +13,12 @@ public sealed class MorningBriefFunction(
     IHttpClientFactory httpClientFactory,
     ILogger<MorningBriefFunction> logger)
 {
-    private const double DuplicateThreshold = 0.55;
+    private const double DuplicateThreshold = 0.40;
 
     [Function(nameof(MorningBriefFunction))]
-    public async Task Run(
-        [TimerTrigger("0 0 6 * * *", RunOnStartup = true)] TimerInfo timer,
-        CancellationToken ct)
+    public Task Run([TimerTrigger("0 0 6 * * *")] TimerInfo timer, CancellationToken ct) => Execute(ct);
+
+    public async Task Execute(CancellationToken ct)
     {
         var token = Environment.GetEnvironmentVariable("TELEGRAM_BOT_TOKEN")
             ?? throw new InvalidOperationException("TELEGRAM_BOT_TOKEN not configured.");
@@ -55,8 +55,7 @@ public sealed class MorningBriefFunction(
         var seen = await sentStore.GetRecentAsync(DateTimeOffset.UtcNow.AddDays(-3), ct);
 
         var fresh = clusters
-            .Where(c => !seen.Any(s =>
-                StoryClusterer.Jaccard(StoryClusterer.TokenizeTitle(c.Primary.Title), s) >= DuplicateThreshold))
+            .Where(c => !seen.Any(s => StoryClusterer.Jaccard(c.Tokens, s) >= DuplicateThreshold))
             .ToList();
 
         logger.LogInformation("{Fresh} of {Total} stories are new.", fresh.Count, clusters.Count);

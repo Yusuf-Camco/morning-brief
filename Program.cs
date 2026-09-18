@@ -7,6 +7,7 @@ using Microsoft.Extensions.Hosting;
 using OpenTelemetry;
 using MorningBrief;
 using Microsoft.Extensions.Options;
+using Azure.Data.Tables;
 
 var builder = FunctionsApplication.CreateBuilder(args);
 
@@ -34,6 +35,11 @@ builder.Services.AddHttpClient(nameof(BriefWriter), client =>
     options.CircuitBreaker.SamplingDuration = TimeSpan.FromSeconds(60);
     options.TotalRequestTimeout.Timeout = TimeSpan.FromMinutes(3);
 });
+builder.Services.AddSingleton(new TableServiceClient(
+    Environment.GetEnvironmentVariable("AzureWebJobsStorage")
+        ?? throw new InvalidOperationException("AzureWebJobsStorage not configured.")));
+
+builder.Services.AddSingleton<ISentStoryStore, SentStoryStore>();
 builder.Services.AddSingleton<IBriefWriter, BriefWriter>();
 builder.Services.AddSingleton<IFeedReader, FeedReader>();
 builder.Services.AddSingleton<IStoryClusterer, StoryClusterer>();

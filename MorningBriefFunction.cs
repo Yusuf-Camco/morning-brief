@@ -8,10 +8,13 @@ namespace MorningBrief;
 public sealed class MorningBriefFunction(
     IFeedReader feedReader,
     IStoryClusterer clusterer,
+    ISentStoryStore sentStore,
     IBriefWriter briefWriter,
     IHttpClientFactory httpClientFactory,
     ILogger<MorningBriefFunction> logger)
 {
+    private const double DuplicateThreshold = 0.55;
+
     [Function(nameof(MorningBriefFunction))]
     public async Task Run(
         [TimerTrigger("0 0 6 * * *", RunOnStartup = true)] TimerInfo timer,
@@ -49,7 +52,22 @@ public sealed class MorningBriefFunction(
             return;
         }
 
-        var stories = await briefWriter.WriteAsync(clusters, ct);
+        var seen = await sentStore.GetRecentAsync(DateTimeOffset.UtcNow.AddDays(-3), ct);
+
+        var fresh = clusters
+            .Where(c => !seen.Any(s =>
+                StoryClusterer.Jaccard(StoryClusterer.TokenizeTitle(c.Primary.Title), s) >= DuplicateThreshold))
+            .ToList();
+
+        logger.LogInformation("{Fresh} of {Total} stories are new.", fresh.Count, clusters.Count);
+
+        if (fresh.Count == 0)
+        {
+            logger.LogInformation("Nothing new since last brief.");
+            return;
+        }
+
+        var stories = await briefWriter.WriteAsync(fresh, ct);
         var text = Format(stories);
 
         var client = httpClientFactory.CreateClient();
@@ -66,6 +84,7 @@ public sealed class MorningBriefFunction(
             return;
         }
 
+        await sentStore.RecordAsync(fresh, ct);
         logger.LogInformation("Brief delivered.");
     }
 

@@ -14,7 +14,7 @@ public sealed class StoryClusterer : IStoryClusterer
     public IReadOnlyList<StoryCluster> Cluster(IReadOnlyList<NewsItem> items)
     {
         var tokenized = items
-            .Select(i => (Item: i, Tokens: Tokenize(i.Title)))
+            .Select(i => (Item: i, Tokens: TokenizeTitle(i.Title)))
             .Where(x => x.Tokens.Count >= 3)
             .ToList();
 
@@ -43,14 +43,13 @@ public sealed class StoryClusterer : IStoryClusterer
         return clusters;
     }
 
-    private static HashSet<string> Tokenize(string title)
-    {
-        return [.. new string([.. title.ToLowerInvariant().Select(c => char.IsLetterOrDigit(c) ? c : ' ')])
-        .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-        .Where(t => t.Length > 1 && !Stopwords.Contains(t))];
-    }
+    public static HashSet<string> TokenizeTitle(string title) =>
+        new string(title.ToLowerInvariant().Select(c => char.IsLetterOrDigit(c) ? c : ' ').ToArray())
+            .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+            .Where(t => t.Length > 1 && !Stopwords.Contains(t))
+            .ToHashSet();
 
-    private static double Jaccard(HashSet<string> a, HashSet<string> b)
+    public static double Jaccard(HashSet<string> a, HashSet<string> b)
     {
         var intersection = a.Count <= b.Count ? a.Count(b.Contains) : b.Count(a.Contains);
         var union = a.Count + b.Count - intersection;

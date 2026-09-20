@@ -2,7 +2,7 @@ name: Morning Brief
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "23 3 * * *"
   workflow_dispatch:
 
 permissions:

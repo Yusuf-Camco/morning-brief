@@ -331,5 +331,165 @@
       "suspects"
     ],
     "SentAt": "2026-09-19T09:06:51.7626923+00:00"
+  },
+  {
+    "Tokens": [
+      "german",
+      "chancellor",
+      "merz",
+      "calls",
+      "state",
+      "election",
+      "disaster",
+      "his",
+      "party",
+      "vows",
+      "stay",
+      "friedrich",
+      "office",
+      "cdu",
+      "elections",
+      "stands",
+      "ground",
+      "loses",
+      "germany",
+      "another"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0265829+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "macron",
+      "canada",
+      "carney",
+      "announce",
+      "plans",
+      "build",
+      "stronger",
+      "ties",
+      "closer",
+      "trump",
+      "tensions",
+      "dot",
+      "off",
+      "talk",
+      "partnership",
+      "hail",
+      "chapter",
+      "symbolic",
+      "archipelago",
+      "meeting",
+      "replay",
+      "st",
+      "pierre",
+      "miquelon"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0267518+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "china",
+      "discuss",
+      "ai",
+      "safety",
+      "plan",
+      "ahead",
+      "trump",
+      "xi",
+      "summit",
+      "defining",
+      "global",
+      "leadership",
+      "dialogue",
+      "mechanism",
+      "trade",
+      "opening",
+      "communication",
+      "channel"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0267861+00:00"
+  },
+  {
+    "Tokens": [
+      "ice",
+      "agent",
+      "shoots",
+      "man",
+      "texas",
+      "traffic",
+      "stop",
+      "city",
+      "officials",
+      "say",
+      "officer",
+      "wounds",
+      "austin"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0268099+00:00"
+  },
+  {
+    "Tokens": [
+      "eighteen",
+      "suspects",
+      "extradited",
+      "us",
+      "haitian",
+      "president",
+      "2021",
+      "killing",
+      "18",
+      "haiti",
+      "being",
+      "florida",
+      "trial",
+      "accused"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0268331+00:00"
+  },
+  {
+    "Tokens": [
+      "kogi",
+      "declares",
+      "three",
+      "day",
+      "mourning",
+      "former",
+      "governor",
+      "ibrahim",
+      "idris",
+      "nigeria"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0268447+00:00"
+  },
+  {
+    "Tokens": [
+      "nine",
+      "killed",
+      "plateau",
+      "communities",
+      "troops",
+      "arrest",
+      "11",
+      "suspects",
+      "nigeria"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0268649+00:00"
+  },
+  {
+    "Tokens": [
+      "seven",
+      "ethiopian",
+      "rebel",
+      "groups",
+      "form",
+      "alliance",
+      "armed",
+      "forge",
+      "against",
+      "government"
+    ],
+    "SentAt": "2026-09-21T09:06:25.0268731+00:00"
   }
 ]

@@ -1,201 +1,6 @@
 [
   {
     "Tokens": [
-      "dozens",
-      "suspected",
-      "illegal",
-      "miners",
-      "die",
-      "nigerian",
-      "custody",
-      "police",
-      "order",
-      "probe",
-      "37",
-      "nscdc",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-18T13:47:45.5122181+00:00"
-  },
-  {
-    "Tokens": [
-      "species",
-      "wild",
-      "cat",
-      "identified",
-      "bolivia",
-      "first",
-      "more",
-      "than",
-      "100",
-      "years",
-      "discovered",
-      "time",
-      "century"
-    ],
-    "SentAt": "2026-09-18T13:47:45.512437+00:00"
-  },
-  {
-    "Tokens": [
-      "un",
-      "experts",
-      "say",
-      "grounds",
-      "believe",
-      "us",
-      "committed",
-      "war",
-      "crimes",
-      "iran",
-      "strikes",
-      "may",
-      "have",
-      "mission"
-    ],
-    "SentAt": "2026-09-18T13:47:45.5124705+00:00"
-  },
-  {
-    "Tokens": [
-      "russian",
-      "hybrid",
-      "attacks",
-      "against",
-      "europe",
-      "intensifying",
-      "macron",
-      "replay",
-      "orders",
-      "plan",
-      "counter",
-      "protect",
-      "france",
-      "critical",
-      "infrastructure"
-    ],
-    "SentAt": "2026-09-18T13:47:45.5125137+00:00"
-  },
-  {
-    "Tokens": [
-      "police",
-      "begin",
-      "operation",
-      "move",
-      "migrants",
-      "ceuta",
-      "beaches",
-      "hundreds",
-      "still",
-      "off",
-      "spanish",
-      "enclave"
-    ],
-    "SentAt": "2026-09-18T13:47:45.5125346+00:00"
-  },
-  {
-    "Tokens": [
-      "three",
-      "dead",
-      "eight",
-      "injured",
-      "philippines",
-      "school",
-      "shooting",
-      "students",
-      "killed"
-    ],
-    "SentAt": "2026-09-18T13:47:45.5125501+00:00"
-  },
-  {
-    "Tokens": [
-      "british",
-      "man",
-      "detained",
-      "india",
-      "nearly",
-      "nine",
-      "years",
-      "granted",
-      "bail",
-      "sikh",
-      "arrest"
-    ],
-    "SentAt": "2026-09-18T13:47:45.5125698+00:00"
-  },
-  {
-    "Tokens": [
-      "20",
-      "feared",
-      "trapped",
-      "taraba",
-      "mining",
-      "pit",
-      "collapse",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-18T13:47:45.5125836+00:00"
-  },
-  {
-    "Tokens": [
-      "japan",
-      "raises",
-      "interest",
-      "rate",
-      "31",
-      "year",
-      "high",
-      "curb",
-      "rising",
-      "prices",
-      "rates",
-      "impact"
-    ],
-    "SentAt": "2026-09-18T14:00:19.7358328+00:00"
-  },
-  {
-    "Tokens": [
-      "south",
-      "korea",
-      "will",
-      "not",
-      "send",
-      "military",
-      "support",
-      "us",
-      "war",
-      "iran",
-      "defying",
-      "trump",
-      "pressure",
-      "rejecting",
-      "korean",
-      "leader",
-      "he",
-      "troops"
-    ],
-    "SentAt": "2026-09-18T14:00:19.7359311+00:00"
-  },
-  {
-    "Tokens": [
-      "british",
-      "woman",
-      "rescued",
-      "shoot",
-      "out",
-      "between",
-      "malawi",
-      "police",
-      "kidnappers",
-      "left",
-      "two",
-      "dead",
-      "who",
-      "kidnapped",
-      "shootout"
-    ],
-    "SentAt": "2026-09-18T14:00:19.7359649+00:00"
-  },
-  {
-    "Tokens": [
       "denmark",
       "deal",
       "gives",
@@ -1079,5 +884,152 @@
       "attack"
     ],
     "SentAt": "2026-09-25T08:56:23.231404+00:00"
+  },
+  {
+    "Tokens": [
+      "iran",
+      "has",
+      "given",
+      "us",
+      "concrete",
+      "seven",
+      "day",
+      "plan",
+      "reopen",
+      "strait",
+      "hormuz",
+      "offers",
+      "deal",
+      "days",
+      "war",
+      "live",
+      "tehran",
+      "within",
+      "proposes",
+      "trump",
+      "reportedly",
+      "rejects"
+    ],
+    "SentAt": "2026-09-26T08:42:47.726611+00:00"
+  },
+  {
+    "Tokens": [
+      "white",
+      "house",
+      "bars",
+      "cnn",
+      "travelling",
+      "trump",
+      "air",
+      "force",
+      "one",
+      "upcoming",
+      "trip",
+      "blocks",
+      "latest",
+      "escalation",
+      "news",
+      "media"
+    ],
+    "SentAt": "2026-09-26T08:42:47.7267532+00:00"
+  },
+  {
+    "Tokens": [
+      "bangkok",
+      "roads",
+      "submerged",
+      "flood",
+      "disaster",
+      "declared",
+      "canals",
+      "full",
+      "declares"
+    ],
+    "SentAt": "2026-09-26T08:42:47.7267691+00:00"
+  },
+  {
+    "Tokens": [
+      "bangkok",
+      "declares",
+      "disaster",
+      "heavy",
+      "rains",
+      "spark",
+      "flooding",
+      "zone",
+      "declared",
+      "across",
+      "rain",
+      "triggers"
+    ],
+    "SentAt": "2026-09-26T08:42:47.7267885+00:00"
+  },
+  {
+    "Tokens": [
+      "robbie",
+      "williams",
+      "sings",
+      "fans",
+      "outside",
+      "hotel",
+      "show",
+      "cancelled",
+      "peru",
+      "surprise",
+      "singalong",
+      "gig"
+    ],
+    "SentAt": "2026-09-26T08:42:47.7268007+00:00"
+  },
+  {
+    "Tokens": [
+      "iran",
+      "pitches",
+      "us",
+      "seven",
+      "day",
+      "end",
+      "war",
+      "unga",
+      "proposes",
+      "plan"
+    ],
+    "SentAt": "2026-09-26T08:42:47.7268167+00:00"
+  },
+  {
+    "Tokens": [
+      "supreme",
+      "court",
+      "allows",
+      "trump",
+      "use",
+      "controversial",
+      "database",
+      "check",
+      "voter",
+      "citizenship",
+      "us",
+      "verification",
+      "system"
+    ],
+    "SentAt": "2026-09-26T08:42:47.7268302+00:00"
+  },
+  {
+    "Tokens": [
+      "takeaways",
+      "trump",
+      "xi",
+      "state",
+      "visit",
+      "pageantry",
+      "pandas",
+      "lots",
+      "pomp",
+      "little",
+      "progress",
+      "end",
+      "dc"
+    ],
+    "SentAt": "2026-09-26T08:42:47.7268458+00:00"
   }
 ]

@@ -1,144 +1,6 @@
 [
   {
     "Tokens": [
-      "denmark",
-      "deal",
-      "gives",
-      "us",
-      "permanent",
-      "control",
-      "security",
-      "greenland",
-      "trump",
-      "reach",
-      "annexation",
-      "threats",
-      "settled",
-      "less",
-      "he",
-      "struck",
-      "take",
-      "build",
-      "military",
-      "presence",
-      "claims",
-      "island",
-      "expand"
-    ],
-    "SentAt": "2026-09-19T09:06:51.7624425+00:00"
-  },
-  {
-    "Tokens": [
-      "google",
-      "gemini",
-      "ai",
-      "hacks",
-      "three",
-      "other",
-      "companies",
-      "during",
-      "security",
-      "test",
-      "hacked",
-      "then",
-      "stops",
-      "model"
-    ],
-    "SentAt": "2026-09-19T09:06:51.7625816+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "threats",
-      "demolish",
-      "kennedy",
-      "center",
-      "sparks",
-      "protest",
-      "thousands",
-      "closure",
-      "fears",
-      "set",
-      "institution",
-      "judge",
-      "can",
-      "lawsuits",
-      "target",
-      "voter",
-      "intimidation"
-    ],
-    "SentAt": "2026-09-19T09:06:51.7626108+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "he",
-      "banning",
-      "cnn",
-      "politico",
-      "white",
-      "house",
-      "can",
-      "ban",
-      "news",
-      "outlets",
-      "doesn",
-      "like",
-      "bans",
-      "ms",
-      "now",
-      "media",
-      "msnow"
-    ],
-    "SentAt": "2026-09-19T09:06:51.7626547+00:00"
-  },
-  {
-    "Tokens": [
-      "brazilian",
-      "police",
-      "capture",
-      "suspected",
-      "serial",
-      "killer",
-      "disguised",
-      "woman",
-      "carrying",
-      "baby"
-    ],
-    "SentAt": "2026-09-19T09:06:51.7626663+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "signs",
-      "sweeping",
-      "russia",
-      "sanctions",
-      "bill",
-      "ukraine",
-      "war"
-    ],
-    "SentAt": "2026-09-19T09:06:51.762682+00:00"
-  },
-  {
-    "Tokens": [
-      "uproar",
-      "niger",
-      "state",
-      "37",
-      "die",
-      "custody",
-      "nigeria",
-      "imposes",
-      "24",
-      "hour",
-      "curfew",
-      "suspects"
-    ],
-    "SentAt": "2026-09-19T09:06:51.7626923+00:00"
-  },
-  {
-    "Tokens": [
       "german",
       "chancellor",
       "merz",
@@ -1031,5 +893,164 @@
       "dc"
     ],
     "SentAt": "2026-09-26T08:42:47.7268458+00:00"
+  },
+  {
+    "Tokens": [
+      "two",
+      "mass",
+      "shootings",
+      "south",
+      "africa",
+      "leave",
+      "27",
+      "dead",
+      "least",
+      "people",
+      "killed",
+      "african",
+      "townships",
+      "police",
+      "say"
+    ],
+    "SentAt": "2026-09-27T09:22:57.6225663+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "rejects",
+      "day",
+      "plan",
+      "reopen",
+      "strait",
+      "hormuz",
+      "iran",
+      "seven",
+      "peace",
+      "deal",
+      "calls",
+      "iranian",
+      "not",
+      "acceptable",
+      "cease",
+      "fire",
+      "proposal"
+    ],
+    "SentAt": "2026-09-27T09:22:57.6227274+00:00"
+  },
+  {
+    "Tokens": [
+      "spain",
+      "housing",
+      "crisis",
+      "protest",
+      "87",
+      "year",
+      "old",
+      "woman",
+      "evicted",
+      "thousands",
+      "madrid",
+      "against",
+      "urges",
+      "spaniards",
+      "fight",
+      "avoid",
+      "same",
+      "fate",
+      "march",
+      "eviction"
+    ],
+    "SentAt": "2026-09-27T09:22:57.6227801+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "praises",
+      "young",
+      "people",
+      "energy",
+      "commitment",
+      "huge",
+      "open",
+      "air",
+      "mass",
+      "paris",
+      "photos",
+      "leo",
+      "draws",
+      "hundreds",
+      "thousands",
+      "crowds",
+      "cheer",
+      "he",
+      "leads",
+      "celebrates",
+      "before",
+      "700",
+      "000",
+      "xiv",
+      "front",
+      "800",
+      "central"
+    ],
+    "SentAt": "2026-09-27T09:22:57.622817+00:00"
+  },
+  {
+    "Tokens": [
+      "uk",
+      "police",
+      "evacuate",
+      "homes",
+      "near",
+      "air",
+      "base",
+      "used",
+      "us",
+      "make",
+      "arrests",
+      "major",
+      "incident",
+      "forces"
+    ],
+    "SentAt": "2026-09-27T09:22:57.6228355+00:00"
+  },
+  {
+    "Tokens": [
+      "northern",
+      "ireland",
+      "protesters",
+      "block",
+      "catholic",
+      "area",
+      "before",
+      "orange",
+      "order",
+      "march",
+      "court",
+      "allows",
+      "through"
+    ],
+    "SentAt": "2026-09-27T09:22:57.6228466+00:00"
+  },
+  {
+    "Tokens": [
+      "only",
+      "diplomacy",
+      "can",
+      "solve",
+      "conflict",
+      "iran",
+      "trump",
+      "rejects",
+      "peace",
+      "plan",
+      "iranian",
+      "minister",
+      "negotiation",
+      "end",
+      "hormuz",
+      "deal"
+    ],
+    "SentAt": "2026-09-27T09:22:57.6228652+00:00"
   }
 ]

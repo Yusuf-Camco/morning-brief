@@ -1,166 +1,6 @@
 [
   {
     "Tokens": [
-      "german",
-      "chancellor",
-      "merz",
-      "calls",
-      "state",
-      "election",
-      "disaster",
-      "his",
-      "party",
-      "vows",
-      "stay",
-      "friedrich",
-      "office",
-      "cdu",
-      "elections",
-      "stands",
-      "ground",
-      "loses",
-      "germany",
-      "another"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0265829+00:00"
-  },
-  {
-    "Tokens": [
-      "france",
-      "macron",
-      "canada",
-      "carney",
-      "announce",
-      "plans",
-      "build",
-      "stronger",
-      "ties",
-      "closer",
-      "trump",
-      "tensions",
-      "dot",
-      "off",
-      "talk",
-      "partnership",
-      "hail",
-      "chapter",
-      "symbolic",
-      "archipelago",
-      "meeting",
-      "replay",
-      "st",
-      "pierre",
-      "miquelon"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0267518+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "china",
-      "discuss",
-      "ai",
-      "safety",
-      "plan",
-      "ahead",
-      "trump",
-      "xi",
-      "summit",
-      "defining",
-      "global",
-      "leadership",
-      "dialogue",
-      "mechanism",
-      "trade",
-      "opening",
-      "communication",
-      "channel"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0267861+00:00"
-  },
-  {
-    "Tokens": [
-      "ice",
-      "agent",
-      "shoots",
-      "man",
-      "texas",
-      "traffic",
-      "stop",
-      "city",
-      "officials",
-      "say",
-      "officer",
-      "wounds",
-      "austin"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0268099+00:00"
-  },
-  {
-    "Tokens": [
-      "eighteen",
-      "suspects",
-      "extradited",
-      "us",
-      "haitian",
-      "president",
-      "2021",
-      "killing",
-      "18",
-      "haiti",
-      "being",
-      "florida",
-      "trial",
-      "accused"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0268331+00:00"
-  },
-  {
-    "Tokens": [
-      "kogi",
-      "declares",
-      "three",
-      "day",
-      "mourning",
-      "former",
-      "governor",
-      "ibrahim",
-      "idris",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0268447+00:00"
-  },
-  {
-    "Tokens": [
-      "nine",
-      "killed",
-      "plateau",
-      "communities",
-      "troops",
-      "arrest",
-      "11",
-      "suspects",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0268649+00:00"
-  },
-  {
-    "Tokens": [
-      "seven",
-      "ethiopian",
-      "rebel",
-      "groups",
-      "form",
-      "alliance",
-      "armed",
-      "forge",
-      "against",
-      "government"
-    ],
-    "SentAt": "2026-09-21T09:06:25.0268731+00:00"
-  },
-  {
-    "Tokens": [
       "canadian",
       "province",
       "sues",
@@ -1052,5 +892,141 @@
       "deal"
     ],
     "SentAt": "2026-09-27T09:22:57.6228652+00:00"
+  },
+  {
+    "Tokens": [
+      "serbia",
+      "president",
+      "resigns",
+      "run",
+      "prime",
+      "minister",
+      "populist",
+      "aleksandar",
+      "vu\u010Di\u0107",
+      "longtime",
+      "vucic",
+      "post",
+      "serbian",
+      "expected",
+      "october",
+      "elections"
+    ],
+    "SentAt": "2026-09-28T09:57:41.8891235+00:00"
+  },
+  {
+    "Tokens": [
+      "arrested",
+      "near",
+      "base",
+      "used",
+      "suspicion",
+      "preparing",
+      "terrorist",
+      "act",
+      "air",
+      "terrorism",
+      "raf",
+      "fairford",
+      "uk",
+      "police",
+      "arrest"
+    ],
+    "SentAt": "2026-09-28T09:57:41.8892375+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "far",
+      "right",
+      "national",
+      "rally",
+      "gains",
+      "ground",
+      "senate",
+      "vote",
+      "surges",
+      "elections",
+      "forms",
+      "group",
+      "first",
+      "time"
+    ],
+    "SentAt": "2026-09-28T09:57:41.889265+00:00"
+  },
+  {
+    "Tokens": [
+      "police",
+      "probe",
+      "terror",
+      "incident",
+      "near",
+      "raf",
+      "base",
+      "used",
+      "iran",
+      "war",
+      "what",
+      "we",
+      "know",
+      "possible",
+      "plot",
+      "fairford",
+      "air",
+      "uk"
+    ],
+    "SentAt": "2026-09-28T09:57:41.8892829+00:00"
+  },
+  {
+    "Tokens": [
+      "presidency",
+      "tries",
+      "assuage",
+      "concerns",
+      "tinubu",
+      "fails",
+      "return",
+      "announced",
+      "nigeria",
+      "home",
+      "hale",
+      "hearty"
+    ],
+    "SentAt": "2026-09-28T09:57:41.8893106+00:00"
+  },
+  {
+    "Tokens": [
+      "mambilla",
+      "how",
+      "premium",
+      "times",
+      "investigation",
+      "helped",
+      "nigeria",
+      "defeat",
+      "leno",
+      "adesanya",
+      "paris",
+      "tribunal"
+    ],
+    "SentAt": "2026-09-28T09:57:41.8893247+00:00"
+  },
+  {
+    "Tokens": [
+      "russian",
+      "strikes",
+      "kill",
+      "eight",
+      "injure",
+      "dozens",
+      "across",
+      "ukraine",
+      "attacks",
+      "moscow",
+      "vows",
+      "continue",
+      "war"
+    ],
+    "SentAt": "2026-09-28T09:57:41.8893401+00:00"
   }
 ]

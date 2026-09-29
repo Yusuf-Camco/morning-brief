@@ -1,161 +1,6 @@
 [
   {
     "Tokens": [
-      "canadian",
-      "province",
-      "sues",
-      "openai",
-      "tumbler",
-      "ridge",
-      "school",
-      "shooting",
-      "canada",
-      "bc",
-      "chatgpt",
-      "role",
-      "british",
-      "columbia",
-      "sam",
-      "altman",
-      "mass"
-    ],
-    "SentAt": "2026-09-22T08:39:41.9424039+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "strikes",
-      "alleged",
-      "drug",
-      "boats",
-      "could",
-      "crimes",
-      "against",
-      "humanity",
-      "un",
-      "may",
-      "constitute",
-      "expert",
-      "criminal"
-    ],
-    "SentAt": "2026-09-22T08:39:41.9425409+00:00"
-  },
-  {
-    "Tokens": [
-      "watch",
-      "what",
-      "expect",
-      "un",
-      "general",
-      "assembly",
-      "2026",
-      "when",
-      "who",
-      "speaking",
-      "africa",
-      "know",
-      "ahead"
-    ],
-    "SentAt": "2026-09-22T08:39:41.942572+00:00"
-  },
-  {
-    "Tokens": [
-      "police",
-      "officer",
-      "wounded",
-      "shooting",
-      "near",
-      "synagogue",
-      "yom",
-      "kippur",
-      "shot",
-      "outside",
-      "ontario",
-      "during",
-      "man",
-      "exchange",
-      "gunfire",
-      "injured"
-    ],
-    "SentAt": "2026-09-22T08:39:41.9425972+00:00"
-  },
-  {
-    "Tokens": [
-      "infantino",
-      "he",
-      "open",
-      "talks",
-      "about",
-      "fifa",
-      "reform",
-      "letter",
-      "football",
-      "chiefs",
-      "world",
-      "cup",
-      "controversy"
-    ],
-    "SentAt": "2026-09-22T08:39:41.942616+00:00"
-  },
-  {
-    "Tokens": [
-      "major",
-      "us",
-      "outlets",
-      "boycott",
-      "shared",
-      "trump",
-      "coverage",
-      "protest",
-      "media",
-      "ban",
-      "tv",
-      "networks",
-      "suspend",
-      "white",
-      "house",
-      "pool"
-    ],
-    "SentAt": "2026-09-22T08:39:41.9426626+00:00"
-  },
-  {
-    "Tokens": [
-      "least",
-      "four",
-      "people",
-      "killed",
-      "japan",
-      "typhoon",
-      "dujuan",
-      "triggers",
-      "heavy",
-      "rain",
-      "landslides",
-      "brings",
-      "record",
-      "killing"
-    ],
-    "SentAt": "2026-09-22T08:39:41.9426813+00:00"
-  },
-  {
-    "Tokens": [
-      "uk",
-      "refuel",
-      "saudi",
-      "jets",
-      "help",
-      "counter",
-      "houthi",
-      "attacks",
-      "give",
-      "support",
-      "attempt",
-      "fighters"
-    ],
-    "SentAt": "2026-09-22T08:39:41.9426942+00:00"
-  },
-  {
-    "Tokens": [
       "sri",
       "lanka",
       "court",
@@ -1028,5 +873,142 @@
       "war"
     ],
     "SentAt": "2026-09-28T09:57:41.8893401+00:00"
+  },
+  {
+    "Tokens": [
+      "openai",
+      "scraps",
+      "rollout",
+      "model",
+      "safety",
+      "concerns",
+      "release",
+      "internal",
+      "testing",
+      "latest",
+      "ai",
+      "cancels",
+      "artificial",
+      "intelligence"
+    ],
+    "SentAt": "2026-09-29T09:58:07.8512042+00:00"
+  },
+  {
+    "Tokens": [
+      "argentina",
+      "threatens",
+      "legal",
+      "action",
+      "against",
+      "uk",
+      "falkland",
+      "islands",
+      "oil",
+      "exploration",
+      "milei",
+      "falklands",
+      "project",
+      "sue"
+    ],
+    "SentAt": "2026-09-29T09:58:07.8513423+00:00"
+  },
+  {
+    "Tokens": [
+      "british",
+      "terror",
+      "plot",
+      "suspects",
+      "freed",
+      "bail",
+      "men",
+      "released",
+      "suspected",
+      "trump",
+      "surprised",
+      "uk",
+      "granted",
+      "alleged",
+      "airbase"
+    ],
+    "SentAt": "2026-09-29T09:58:07.8513661+00:00"
+  },
+  {
+    "Tokens": [
+      "iran",
+      "expects",
+      "response",
+      "ceasefire",
+      "plan",
+      "already",
+      "rejected",
+      "trump",
+      "us",
+      "tuesday",
+      "reopen",
+      "strait",
+      "hormuz"
+    ],
+    "SentAt": "2026-09-29T09:58:07.851384+00:00"
+  },
+  {
+    "Tokens": [
+      "airline",
+      "operators",
+      "threaten",
+      "nationwide",
+      "shutdown",
+      "union",
+      "disruptions",
+      "nigeria"
+    ],
+    "SentAt": "2026-09-29T09:58:07.8513959+00:00"
+  },
+  {
+    "Tokens": [
+      "hurricane",
+      "polo",
+      "makes",
+      "landfall",
+      "mexico",
+      "pacific",
+      "coast",
+      "could",
+      "bring",
+      "flooding",
+      "southwest"
+    ],
+    "SentAt": "2026-09-29T09:58:07.8514131+00:00"
+  },
+  {
+    "Tokens": [
+      "russia",
+      "pounds",
+      "ukraine",
+      "kyiv",
+      "deadly",
+      "strike",
+      "academy",
+      "sciences",
+      "strikes",
+      "national",
+      "full",
+      "workers"
+    ],
+    "SentAt": "2026-09-29T09:58:07.8514244+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "prosecutors",
+      "reopen",
+      "case",
+      "alleged",
+      "gang",
+      "rape",
+      "cornell",
+      "university",
+      "investigation"
+    ],
+    "SentAt": "2026-09-29T09:58:07.8514373+00:00"
   }
 ]

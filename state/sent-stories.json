@@ -1,140 +1,6 @@
 [
   {
     "Tokens": [
-      "rogue",
-      "openai",
-      "agent",
-      "infiltrated",
-      "australian",
-      "government",
-      "website",
-      "world",
-      "first",
-      "ai",
-      "breached",
-      "pm"
-    ],
-    "SentAt": "2026-09-24T08:34:46.7900662+00:00"
-  },
-  {
-    "Tokens": [
-      "venezuela",
-      "acting",
-      "leader",
-      "promises",
-      "elections",
-      "right",
-      "moment",
-      "interim",
-      "orderly",
-      "legal",
-      "transition"
-    ],
-    "SentAt": "2026-09-24T08:34:46.7901674+00:00"
-  },
-  {
-    "Tokens": [
-      "judge",
-      "orders",
-      "trump",
-      "white",
-      "house",
-      "restore",
-      "access",
-      "cnn",
-      "ms",
-      "now",
-      "politico",
-      "us",
-      "lifts",
-      "ban"
-    ],
-    "SentAt": "2026-09-24T08:34:46.7901967+00:00"
-  },
-  {
-    "Tokens": [
-      "ethiopia",
-      "tigray",
-      "accuse",
-      "each",
-      "launching",
-      "offensives",
-      "fuelling",
-      "fears",
-      "war",
-      "return",
-      "grow",
-      "region"
-    ],
-    "SentAt": "2026-09-24T08:34:46.790215+00:00"
-  },
-  {
-    "Tokens": [
-      "special",
-      "report",
-      "how",
-      "poverty",
-      "pushing",
-      "plateau",
-      "youths",
-      "children",
-      "hazardous",
-      "work",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-24T08:34:46.7902316+00:00"
-  },
-  {
-    "Tokens": [
-      "nema",
-      "urges",
-      "caution",
-      "flooding",
-      "persists",
-      "anambra",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-24T08:34:46.7902458+00:00"
-  },
-  {
-    "Tokens": [
-      "tinubu",
-      "extended",
-      "vacation",
-      "lawmakers",
-      "ask",
-      "nass",
-      "leadership",
-      "reconvene",
-      "plenary",
-      "decide",
-      "next",
-      "move",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-24T08:34:46.7902621+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "board",
-      "peace",
-      "unveils",
-      "45bn",
-      "plan",
-      "begin",
-      "gaza",
-      "reconstruction",
-      "lays",
-      "out",
-      "month",
-      "faces",
-      "roadblocks"
-    ],
-    "SentAt": "2026-09-24T08:34:46.7902778+00:00"
-  },
-  {
-    "Tokens": [
       "leo",
       "xiv",
       "trying",
@@ -1009,5 +875,151 @@
       "mines"
     ],
     "SentAt": "2026-09-30T09:49:57.540412+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "death",
+      "row",
+      "inmate",
+      "survives",
+      "execution",
+      "attempt",
+      "two",
+      "lethal",
+      "injections",
+      "tennessee",
+      "prisoner",
+      "christa",
+      "pike",
+      "woman",
+      "taken",
+      "hospital",
+      "surviving",
+      "convicted",
+      "killer",
+      "fails",
+      "despite"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5542894+00:00"
+  },
+  {
+    "Tokens": [
+      "swiss",
+      "glaciers",
+      "suffer",
+      "disastrous",
+      "year",
+      "ice",
+      "loss",
+      "threatening",
+      "water",
+      "supplies",
+      "catastrophic",
+      "lose",
+      "heatwaves",
+      "another",
+      "record"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5543797+00:00"
+  },
+  {
+    "Tokens": [
+      "zimbabwe",
+      "tycoon",
+      "wicknell",
+      "chivayo",
+      "wife",
+      "killed",
+      "helicopter",
+      "crash",
+      "lulu",
+      "report",
+      "ruto",
+      "mourns",
+      "dear",
+      "friend"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5544083+00:00"
+  },
+  {
+    "Tokens": [
+      "portugal",
+      "coach",
+      "responds",
+      "ronaldo",
+      "leaves",
+      "camp",
+      "walks",
+      "away",
+      "tensions"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5544175+00:00"
+  },
+  {
+    "Tokens": [
+      "what",
+      "tinubu",
+      "told",
+      "nigerians",
+      "66th",
+      "independence",
+      "anniversary",
+      "full",
+      "text",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5544339+00:00"
+  },
+  {
+    "Tokens": [
+      "plummeting",
+      "israel",
+      "flight",
+      "like",
+      "rollercoaster",
+      "passenger",
+      "passengers",
+      "describe",
+      "harrowing",
+      "flydubai"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5544444+00:00"
+  },
+  {
+    "Tokens": [
+      "hegseth",
+      "announces",
+      "20",
+      "cut",
+      "us",
+      "military",
+      "commanders",
+      "state",
+      "force",
+      "speech",
+      "number",
+      "generals",
+      "admirals"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5544577+00:00"
+  },
+  {
+    "Tokens": [
+      "what",
+      "we",
+      "know",
+      "about",
+      "stabbing",
+      "flydubai",
+      "flight",
+      "israel",
+      "diverted",
+      "clash",
+      "between",
+      "pilots",
+      "don"
+    ],
+    "SentAt": "2026-10-01T10:17:11.5545054+00:00"
   }
 ]

@@ -1,165 +1,6 @@
 [
   {
     "Tokens": [
-      "two",
-      "mass",
-      "shootings",
-      "south",
-      "africa",
-      "leave",
-      "27",
-      "dead",
-      "least",
-      "people",
-      "killed",
-      "african",
-      "townships",
-      "police",
-      "say"
-    ],
-    "SentAt": "2026-09-27T09:22:57.6225663+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "rejects",
-      "day",
-      "plan",
-      "reopen",
-      "strait",
-      "hormuz",
-      "iran",
-      "seven",
-      "peace",
-      "deal",
-      "calls",
-      "iranian",
-      "not",
-      "acceptable",
-      "cease",
-      "fire",
-      "proposal"
-    ],
-    "SentAt": "2026-09-27T09:22:57.6227274+00:00"
-  },
-  {
-    "Tokens": [
-      "spain",
-      "housing",
-      "crisis",
-      "protest",
-      "87",
-      "year",
-      "old",
-      "woman",
-      "evicted",
-      "thousands",
-      "madrid",
-      "against",
-      "urges",
-      "spaniards",
-      "fight",
-      "avoid",
-      "same",
-      "fate",
-      "march",
-      "eviction"
-    ],
-    "SentAt": "2026-09-27T09:22:57.6227801+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "praises",
-      "young",
-      "people",
-      "energy",
-      "commitment",
-      "huge",
-      "open",
-      "air",
-      "mass",
-      "paris",
-      "photos",
-      "leo",
-      "draws",
-      "hundreds",
-      "thousands",
-      "crowds",
-      "cheer",
-      "he",
-      "leads",
-      "celebrates",
-      "before",
-      "700",
-      "000",
-      "xiv",
-      "front",
-      "800",
-      "central"
-    ],
-    "SentAt": "2026-09-27T09:22:57.622817+00:00"
-  },
-  {
-    "Tokens": [
-      "uk",
-      "police",
-      "evacuate",
-      "homes",
-      "near",
-      "air",
-      "base",
-      "used",
-      "us",
-      "make",
-      "arrests",
-      "major",
-      "incident",
-      "forces"
-    ],
-    "SentAt": "2026-09-27T09:22:57.6228355+00:00"
-  },
-  {
-    "Tokens": [
-      "northern",
-      "ireland",
-      "protesters",
-      "block",
-      "catholic",
-      "area",
-      "before",
-      "orange",
-      "order",
-      "march",
-      "court",
-      "allows",
-      "through"
-    ],
-    "SentAt": "2026-09-27T09:22:57.6228466+00:00"
-  },
-  {
-    "Tokens": [
-      "only",
-      "diplomacy",
-      "can",
-      "solve",
-      "conflict",
-      "iran",
-      "trump",
-      "rejects",
-      "peace",
-      "plan",
-      "iranian",
-      "minister",
-      "negotiation",
-      "end",
-      "hormuz",
-      "deal"
-    ],
-    "SentAt": "2026-09-27T09:22:57.6228652+00:00"
-  },
-  {
-    "Tokens": [
       "serbia",
       "president",
       "resigns",
@@ -1006,5 +847,143 @@
       "ships"
     ],
     "SentAt": "2026-10-03T09:16:40.0408689+00:00"
+  },
+  {
+    "Tokens": [
+      "tennessee",
+      "prisons",
+      "chief",
+      "resigns",
+      "failed",
+      "execution",
+      "christa",
+      "pike",
+      "prison",
+      "resign",
+      "top",
+      "official",
+      "resigning",
+      "botched",
+      "who",
+      "oversaw"
+    ],
+    "SentAt": "2026-10-04T09:55:43.8294676+00:00"
+  },
+  {
+    "Tokens": [
+      "tens",
+      "thousands",
+      "protest",
+      "against",
+      "spain",
+      "housing",
+      "crisis",
+      "anger",
+      "streets",
+      "can",
+      "go"
+    ],
+    "SentAt": "2026-10-04T09:55:43.829526+00:00"
+  },
+  {
+    "Tokens": [
+      "who",
+      "pilots",
+      "flydubai",
+      "flight",
+      "mystery",
+      "successfully",
+      "landed",
+      "endangered",
+      "1073"
+    ],
+    "SentAt": "2026-10-04T09:55:43.8295377+00:00"
+  },
+  {
+    "Tokens": [
+      "what",
+      "know",
+      "about",
+      "brazil",
+      "election",
+      "pitting",
+      "lula",
+      "against",
+      "fl\u00E1vio",
+      "bolsonaro",
+      "face",
+      "off",
+      "2026",
+      "presidential",
+      "race"
+    ],
+    "SentAt": "2026-10-04T09:55:43.8295519+00:00"
+  },
+  {
+    "Tokens": [
+      "debris",
+      "found",
+      "plane",
+      "went",
+      "missing",
+      "off",
+      "us",
+      "coast",
+      "guard",
+      "searches",
+      "air",
+      "ambulance",
+      "massachusetts"
+    ],
+    "SentAt": "2026-10-04T09:55:43.8295605+00:00"
+  },
+  {
+    "Tokens": [
+      "houthis",
+      "claim",
+      "strike",
+      "aramco",
+      "site",
+      "yemen",
+      "fighting",
+      "intensifies",
+      "attacks",
+      "facilities",
+      "riyadh"
+    ],
+    "SentAt": "2026-10-04T09:55:43.8295727+00:00"
+  },
+  {
+    "Tokens": [
+      "cornell",
+      "president",
+      "vows",
+      "transparency",
+      "outrage",
+      "fraternity",
+      "rape",
+      "case",
+      "serious",
+      "look",
+      "fraternities",
+      "wake",
+      "allegations"
+    ],
+    "SentAt": "2026-10-04T09:55:43.8295822+00:00"
+  },
+  {
+    "Tokens": [
+      "cornell",
+      "president",
+      "university",
+      "must",
+      "do",
+      "better",
+      "frat",
+      "house",
+      "rape",
+      "allegations"
+    ],
+    "SentAt": "2026-10-04T09:55:43.8295915+00:00"
   }
 ]

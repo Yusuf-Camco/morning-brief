@@ -1,142 +1,6 @@
 [
   {
     "Tokens": [
-      "serbia",
-      "president",
-      "resigns",
-      "run",
-      "prime",
-      "minister",
-      "populist",
-      "aleksandar",
-      "vu\u010Di\u0107",
-      "longtime",
-      "vucic",
-      "post",
-      "serbian",
-      "expected",
-      "october",
-      "elections"
-    ],
-    "SentAt": "2026-09-28T09:57:41.8891235+00:00"
-  },
-  {
-    "Tokens": [
-      "arrested",
-      "near",
-      "base",
-      "used",
-      "suspicion",
-      "preparing",
-      "terrorist",
-      "act",
-      "air",
-      "terrorism",
-      "raf",
-      "fairford",
-      "uk",
-      "police",
-      "arrest"
-    ],
-    "SentAt": "2026-09-28T09:57:41.8892375+00:00"
-  },
-  {
-    "Tokens": [
-      "france",
-      "far",
-      "right",
-      "national",
-      "rally",
-      "gains",
-      "ground",
-      "senate",
-      "vote",
-      "surges",
-      "elections",
-      "forms",
-      "group",
-      "first",
-      "time"
-    ],
-    "SentAt": "2026-09-28T09:57:41.889265+00:00"
-  },
-  {
-    "Tokens": [
-      "police",
-      "probe",
-      "terror",
-      "incident",
-      "near",
-      "raf",
-      "base",
-      "used",
-      "iran",
-      "war",
-      "what",
-      "we",
-      "know",
-      "possible",
-      "plot",
-      "fairford",
-      "air",
-      "uk"
-    ],
-    "SentAt": "2026-09-28T09:57:41.8892829+00:00"
-  },
-  {
-    "Tokens": [
-      "presidency",
-      "tries",
-      "assuage",
-      "concerns",
-      "tinubu",
-      "fails",
-      "return",
-      "announced",
-      "nigeria",
-      "home",
-      "hale",
-      "hearty"
-    ],
-    "SentAt": "2026-09-28T09:57:41.8893106+00:00"
-  },
-  {
-    "Tokens": [
-      "mambilla",
-      "how",
-      "premium",
-      "times",
-      "investigation",
-      "helped",
-      "nigeria",
-      "defeat",
-      "leno",
-      "adesanya",
-      "paris",
-      "tribunal"
-    ],
-    "SentAt": "2026-09-28T09:57:41.8893247+00:00"
-  },
-  {
-    "Tokens": [
-      "russian",
-      "strikes",
-      "kill",
-      "eight",
-      "injure",
-      "dozens",
-      "across",
-      "ukraine",
-      "attacks",
-      "moscow",
-      "vows",
-      "continue",
-      "war"
-    ],
-    "SentAt": "2026-09-28T09:57:41.8893401+00:00"
-  },
-  {
-    "Tokens": [
       "openai",
       "scraps",
       "rollout",
@@ -985,5 +849,161 @@
       "allegations"
     ],
     "SentAt": "2026-10-04T09:55:43.8295915+00:00"
+  },
+  {
+    "Tokens": [
+      "spanish",
+      "pm",
+      "calls",
+      "snap",
+      "election",
+      "spain",
+      "pedro",
+      "sanchez",
+      "housing",
+      "crisis",
+      "s\u00E1nchez",
+      "law",
+      "fails",
+      "pass",
+      "november",
+      "29",
+      "pressure",
+      "mounts"
+    ],
+    "SentAt": "2026-10-05T10:38:11.5765663+00:00"
+  },
+  {
+    "Tokens": [
+      "bolsonaro",
+      "beats",
+      "expectations",
+      "brazil",
+      "vote",
+      "faces",
+      "lula",
+      "runoff",
+      "elections",
+      "head",
+      "between",
+      "presidential",
+      "election",
+      "heads",
+      "ahead",
+      "leads"
+    ],
+    "SentAt": "2026-10-05T10:38:11.5766463+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "air",
+      "force",
+      "removes",
+      "all",
+      "bombers",
+      "british",
+      "military",
+      "base",
+      "raf",
+      "fairford",
+      "following",
+      "security",
+      "incident",
+      "withdrawn",
+      "iran",
+      "backed",
+      "threat",
+      "spokesperson"
+    ],
+    "SentAt": "2026-10-05T10:38:11.5766678+00:00"
+  },
+  {
+    "Tokens": [
+      "nobel",
+      "prize",
+      "medicine",
+      "2026",
+      "awarded",
+      "research",
+      "mysteries",
+      "brain",
+      "goes",
+      "scientists",
+      "activity"
+    ],
+    "SentAt": "2026-10-05T10:38:11.576682+00:00"
+  },
+  {
+    "Tokens": [
+      "how",
+      "spain",
+      "housing",
+      "crisis",
+      "has",
+      "resulted",
+      "early",
+      "general",
+      "election",
+      "pedro",
+      "sanchez",
+      "announces",
+      "snap"
+    ],
+    "SentAt": "2026-10-05T10:38:11.5766947+00:00"
+  },
+  {
+    "Tokens": [
+      "not",
+      "again",
+      "arrest",
+      "us",
+      "marine",
+      "murder",
+      "reignites",
+      "protests",
+      "japan",
+      "okinawa",
+      "arrested",
+      "alleged",
+      "woman"
+    ],
+    "SentAt": "2026-10-05T10:38:11.5767056+00:00"
+  },
+  {
+    "Tokens": [
+      "gunmen",
+      "kill",
+      "one",
+      "injure",
+      "seven",
+      "traders",
+      "plateau",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-05T10:38:11.5767161+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "closes",
+      "up",
+      "500",
+      "schools",
+      "monday",
+      "student",
+      "protests",
+      "shuttered",
+      "sweep",
+      "through",
+      "french",
+      "closed",
+      "continue",
+      "live",
+      "disrupt",
+      "least",
+      "413"
+    ],
+    "SentAt": "2026-10-05T10:38:11.5767351+00:00"
   }
 ]

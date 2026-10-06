@@ -1,143 +1,6 @@
 [
   {
     "Tokens": [
-      "openai",
-      "scraps",
-      "rollout",
-      "model",
-      "safety",
-      "concerns",
-      "release",
-      "internal",
-      "testing",
-      "latest",
-      "ai",
-      "cancels",
-      "artificial",
-      "intelligence"
-    ],
-    "SentAt": "2026-09-29T09:58:07.8512042+00:00"
-  },
-  {
-    "Tokens": [
-      "argentina",
-      "threatens",
-      "legal",
-      "action",
-      "against",
-      "uk",
-      "falkland",
-      "islands",
-      "oil",
-      "exploration",
-      "milei",
-      "falklands",
-      "project",
-      "sue"
-    ],
-    "SentAt": "2026-09-29T09:58:07.8513423+00:00"
-  },
-  {
-    "Tokens": [
-      "british",
-      "terror",
-      "plot",
-      "suspects",
-      "freed",
-      "bail",
-      "men",
-      "released",
-      "suspected",
-      "trump",
-      "surprised",
-      "uk",
-      "granted",
-      "alleged",
-      "airbase"
-    ],
-    "SentAt": "2026-09-29T09:58:07.8513661+00:00"
-  },
-  {
-    "Tokens": [
-      "iran",
-      "expects",
-      "response",
-      "ceasefire",
-      "plan",
-      "already",
-      "rejected",
-      "trump",
-      "us",
-      "tuesday",
-      "reopen",
-      "strait",
-      "hormuz"
-    ],
-    "SentAt": "2026-09-29T09:58:07.851384+00:00"
-  },
-  {
-    "Tokens": [
-      "airline",
-      "operators",
-      "threaten",
-      "nationwide",
-      "shutdown",
-      "union",
-      "disruptions",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-29T09:58:07.8513959+00:00"
-  },
-  {
-    "Tokens": [
-      "hurricane",
-      "polo",
-      "makes",
-      "landfall",
-      "mexico",
-      "pacific",
-      "coast",
-      "could",
-      "bring",
-      "flooding",
-      "southwest"
-    ],
-    "SentAt": "2026-09-29T09:58:07.8514131+00:00"
-  },
-  {
-    "Tokens": [
-      "russia",
-      "pounds",
-      "ukraine",
-      "kyiv",
-      "deadly",
-      "strike",
-      "academy",
-      "sciences",
-      "strikes",
-      "national",
-      "full",
-      "workers"
-    ],
-    "SentAt": "2026-09-29T09:58:07.8514244+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "prosecutors",
-      "reopen",
-      "case",
-      "alleged",
-      "gang",
-      "rape",
-      "cornell",
-      "university",
-      "investigation"
-    ],
-    "SentAt": "2026-09-29T09:58:07.8514373+00:00"
-  },
-  {
-    "Tokens": [
       "morocco",
       "names",
       "first",
@@ -1005,5 +868,144 @@
       "413"
     ],
     "SentAt": "2026-10-05T10:38:11.5767351+00:00"
+  },
+  {
+    "Tokens": [
+      "kenya",
+      "confirms",
+      "first",
+      "ebola",
+      "death",
+      "outbreak",
+      "spreads",
+      "ministry",
+      "health",
+      "imported",
+      "case",
+      "patient",
+      "has",
+      "died",
+      "returns",
+      "drc"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8789006+00:00"
+  },
+  {
+    "Tokens": [
+      "nigeria",
+      "mourns",
+      "32",
+      "killed",
+      "military",
+      "plane",
+      "crashes",
+      "swamp",
+      "helicopter",
+      "onboard",
+      "nigerian",
+      "aviation",
+      "minister"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8790023+00:00"
+  },
+  {
+    "Tokens": [
+      "francis",
+      "halzen",
+      "wins",
+      "nobel",
+      "prize",
+      "physics",
+      "work",
+      "high",
+      "energy",
+      "neutrinos",
+      "space",
+      "awarded",
+      "ice",
+      "research"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8790637+00:00"
+  },
+  {
+    "Tokens": [
+      "separatist",
+      "party",
+      "projected",
+      "win",
+      "quebec",
+      "election",
+      "adding",
+      "test",
+      "canada",
+      "unity",
+      "secessionist",
+      "wins"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8790774+00:00"
+  },
+  {
+    "Tokens": [
+      "russia",
+      "vs",
+      "nigeria",
+      "five",
+      "danger",
+      "men",
+      "super",
+      "eagles",
+      "must",
+      "contain"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8790958+00:00"
+  },
+  {
+    "Tokens": [
+      "military",
+      "aircraft",
+      "crash",
+      "how",
+      "naval",
+      "personnel",
+      "residents",
+      "try",
+      "rescue",
+      "victims",
+      "gov",
+      "aiyedatiwa",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8791827+00:00"
+  },
+  {
+    "Tokens": [
+      "four",
+      "african",
+      "countries",
+      "call",
+      "de",
+      "escalation",
+      "tension",
+      "ethiopia"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8791951+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "threat",
+      "led",
+      "us",
+      "pull",
+      "bombers",
+      "raf",
+      "fairford",
+      "why",
+      "did",
+      "rush",
+      "withdraw",
+      "latest"
+    ],
+    "SentAt": "2026-10-06T10:31:11.8792288+00:00"
   }
 ]

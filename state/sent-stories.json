@@ -1,158 +1,6 @@
 [
   {
     "Tokens": [
-      "morocco",
-      "names",
-      "first",
-      "female",
-      "prime",
-      "minister",
-      "historic",
-      "election",
-      "victory",
-      "named",
-      "winning",
-      "elections",
-      "king",
-      "appoints",
-      "woman"
-    ],
-    "SentAt": "2026-09-30T09:49:57.5401685+00:00"
-  },
-  {
-    "Tokens": [
-      "flight",
-      "dubai",
-      "tel",
-      "aviv",
-      "lands",
-      "safely",
-      "saudi",
-      "arabia",
-      "brawl",
-      "between",
-      "pilots",
-      "diverts",
-      "reported",
-      "feud",
-      "israel",
-      "bound",
-      "diverted"
-    ],
-    "SentAt": "2026-09-30T09:49:57.5403072+00:00"
-  },
-  {
-    "Tokens": [
-      "israel",
-      "bound",
-      "flight",
-      "diverted",
-      "fight",
-      "between",
-      "pilots",
-      "passenger",
-      "plane",
-      "makes",
-      "emergency",
-      "landing",
-      "saudi",
-      "arabia",
-      "reported"
-    ],
-    "SentAt": "2026-09-30T09:49:57.5403239+00:00"
-  },
-  {
-    "Tokens": [
-      "south",
-      "korea",
-      "calls",
-      "apology",
-      "north",
-      "mine",
-      "injures",
-      "three",
-      "soldiers",
-      "tensions",
-      "mount",
-      "demands",
-      "blast"
-    ],
-    "SentAt": "2026-09-30T09:49:57.5403454+00:00"
-  },
-  {
-    "Tokens": [
-      "somali",
-      "pirates",
-      "killed",
-      "oil",
-      "tanker",
-      "crew",
-      "before",
-      "rescue",
-      "official",
-      "tells",
-      "bbc",
-      "five",
-      "members",
-      "hijacked",
-      "officials",
-      "say"
-    ],
-    "SentAt": "2026-09-30T09:49:57.5403634+00:00"
-  },
-  {
-    "Tokens": [
-      "police",
-      "charge",
-      "five",
-      "men",
-      "tinubu",
-      "must",
-      "go",
-      "shirts",
-      "nigeria"
-    ],
-    "SentAt": "2026-09-30T09:49:57.5403776+00:00"
-  },
-  {
-    "Tokens": [
-      "malaysia",
-      "begins",
-      "myanmar",
-      "repatriations",
-      "despite",
-      "warnings",
-      "un",
-      "rights",
-      "groups",
-      "repatriation",
-      "migrants",
-      "war",
-      "torn",
-      "critics"
-    ],
-    "SentAt": "2026-09-30T09:49:57.5403957+00:00"
-  },
-  {
-    "Tokens": [
-      "south",
-      "korea",
-      "demands",
-      "apology",
-      "pyongyang",
-      "landmine",
-      "blasts",
-      "injured",
-      "three",
-      "dmz",
-      "denies",
-      "planting",
-      "mines"
-    ],
-    "SentAt": "2026-09-30T09:49:57.540412+00:00"
-  },
-  {
-    "Tokens": [
       "us",
       "death",
       "row",
@@ -1007,5 +855,171 @@
       "latest"
     ],
     "SentAt": "2026-10-06T10:31:11.8792288+00:00"
+  },
+  {
+    "Tokens": [
+      "kenya",
+      "confirms",
+      "first",
+      "ebola",
+      "case",
+      "virus",
+      "surges",
+      "dr",
+      "congo",
+      "province",
+      "records",
+      "time",
+      "ncdc",
+      "warns",
+      "importation",
+      "risk",
+      "kmpdu",
+      "demands",
+      "urgent",
+      "protection",
+      "health",
+      "workers"
+    ],
+    "SentAt": "2026-10-07T10:24:29.4134591+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "speak",
+      "putin",
+      "about",
+      "plague",
+      "lab",
+      "worker",
+      "death",
+      "russia",
+      "what",
+      "know",
+      "reports",
+      "russian",
+      "we",
+      "rubio",
+      "calls",
+      "more",
+      "open",
+      "us",
+      "un",
+      "urge",
+      "transparency",
+      "will",
+      "reported"
+    ],
+    "SentAt": "2026-10-07T10:24:29.4136205+00:00"
+  },
+  {
+    "Tokens": [
+      "messi",
+      "scores",
+      "emotional",
+      "farewell",
+      "game",
+      "argentina",
+      "head",
+      "coach",
+      "scaloni",
+      "irreplaceable",
+      "lionel",
+      "beat",
+      "benin",
+      "his",
+      "last",
+      "international",
+      "bids",
+      "fans",
+      "finale"
+    ],
+    "SentAt": "2026-10-07T10:24:29.4136577+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "halts",
+      "use",
+      "stun",
+      "grenades",
+      "boy",
+      "hand",
+      "blown",
+      "off",
+      "student",
+      "protests",
+      "police"
+    ],
+    "SentAt": "2026-10-07T10:24:29.41368+00:00"
+  },
+  {
+    "Tokens": [
+      "henri",
+      "kagan",
+      "kenso",
+      "soai",
+      "win",
+      "nobel",
+      "prize",
+      "chemistry",
+      "awarded",
+      "france",
+      "japan"
+    ],
+    "SentAt": "2026-10-07T10:24:29.4137068+00:00"
+  },
+  {
+    "Tokens": [
+      "what",
+      "does",
+      "year",
+      "long",
+      "ceasefire",
+      "gaza",
+      "look",
+      "like",
+      "life",
+      "now"
+    ],
+    "SentAt": "2026-10-07T10:24:29.413716+00:00"
+  },
+  {
+    "Tokens": [
+      "yemen",
+      "houthis",
+      "attack",
+      "aden",
+      "airport",
+      "saudi",
+      "forces",
+      "down",
+      "missile",
+      "near",
+      "riyadh",
+      "fighting",
+      "intensifies"
+    ],
+    "SentAt": "2026-10-07T10:24:29.413735+00:00"
+  },
+  {
+    "Tokens": [
+      "former",
+      "australian",
+      "bishop",
+      "jailed",
+      "sexually",
+      "abusing",
+      "young",
+      "men",
+      "sentenced",
+      "more",
+      "than",
+      "six",
+      "years",
+      "prison",
+      "aboriginal"
+    ],
+    "SentAt": "2026-10-07T10:24:29.4137489+00:00"
   }
 ]

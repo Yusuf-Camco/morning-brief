@@ -1,152 +1,6 @@
 [
   {
     "Tokens": [
-      "us",
-      "death",
-      "row",
-      "inmate",
-      "survives",
-      "execution",
-      "attempt",
-      "two",
-      "lethal",
-      "injections",
-      "tennessee",
-      "prisoner",
-      "christa",
-      "pike",
-      "woman",
-      "taken",
-      "hospital",
-      "surviving",
-      "convicted",
-      "killer",
-      "fails",
-      "despite"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5542894+00:00"
-  },
-  {
-    "Tokens": [
-      "swiss",
-      "glaciers",
-      "suffer",
-      "disastrous",
-      "year",
-      "ice",
-      "loss",
-      "threatening",
-      "water",
-      "supplies",
-      "catastrophic",
-      "lose",
-      "heatwaves",
-      "another",
-      "record"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5543797+00:00"
-  },
-  {
-    "Tokens": [
-      "zimbabwe",
-      "tycoon",
-      "wicknell",
-      "chivayo",
-      "wife",
-      "killed",
-      "helicopter",
-      "crash",
-      "lulu",
-      "report",
-      "ruto",
-      "mourns",
-      "dear",
-      "friend"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5544083+00:00"
-  },
-  {
-    "Tokens": [
-      "portugal",
-      "coach",
-      "responds",
-      "ronaldo",
-      "leaves",
-      "camp",
-      "walks",
-      "away",
-      "tensions"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5544175+00:00"
-  },
-  {
-    "Tokens": [
-      "what",
-      "tinubu",
-      "told",
-      "nigerians",
-      "66th",
-      "independence",
-      "anniversary",
-      "full",
-      "text",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5544339+00:00"
-  },
-  {
-    "Tokens": [
-      "plummeting",
-      "israel",
-      "flight",
-      "like",
-      "rollercoaster",
-      "passenger",
-      "passengers",
-      "describe",
-      "harrowing",
-      "flydubai"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5544444+00:00"
-  },
-  {
-    "Tokens": [
-      "hegseth",
-      "announces",
-      "20",
-      "cut",
-      "us",
-      "military",
-      "commanders",
-      "state",
-      "force",
-      "speech",
-      "number",
-      "generals",
-      "admirals"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5544577+00:00"
-  },
-  {
-    "Tokens": [
-      "what",
-      "we",
-      "know",
-      "about",
-      "stabbing",
-      "flydubai",
-      "flight",
-      "israel",
-      "diverted",
-      "clash",
-      "between",
-      "pilots",
-      "don"
-    ],
-    "SentAt": "2026-10-01T10:17:11.5545054+00:00"
-  },
-  {
-    "Tokens": [
       "flydubai",
       "captain",
       "could",
@@ -1021,5 +875,151 @@
       "aboriginal"
     ],
     "SentAt": "2026-10-07T10:24:29.4137489+00:00"
+  },
+  {
+    "Tokens": [
+      "british",
+      "consulate",
+      "jerusalem",
+      "become",
+      "uk",
+      "mission",
+      "diplomats",
+      "leave",
+      "most",
+      "east",
+      "israel",
+      "miliband",
+      "vital",
+      "services",
+      "remain",
+      "renames",
+      "some",
+      "will",
+      "stay",
+      "open",
+      "ed"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5467316+00:00"
+  },
+  {
+    "Tokens": [
+      "royal",
+      "navy",
+      "serviceman",
+      "accused",
+      "spying",
+      "foreign",
+      "power",
+      "uk",
+      "police",
+      "charge",
+      "member",
+      "working",
+      "service",
+      "charged"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5468093+00:00"
+  },
+  {
+    "Tokens": [
+      "tanker",
+      "hit",
+      "multiple",
+      "projectiles",
+      "gulf",
+      "off",
+      "qatar",
+      "maritime",
+      "agency",
+      "north",
+      "coast",
+      "ukmto"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5468276+00:00"
+  },
+  {
+    "Tokens": [
+      "court",
+      "dismisses",
+      "abba",
+      "kyari",
+      "witness",
+      "strikes",
+      "out",
+      "evidence",
+      "cocaine",
+      "trial",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5468961+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "lebanon",
+      "protecting",
+      "wanted",
+      "syrian",
+      "general",
+      "bbc",
+      "finds",
+      "accused",
+      "atrocities",
+      "protected",
+      "npr",
+      "find"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5469088+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "interrupted",
+      "protesters",
+      "texas",
+      "rally",
+      "donald",
+      "rocked",
+      "repeated",
+      "protests"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5469256+00:00"
+  },
+  {
+    "Tokens": [
+      "south",
+      "korea",
+      "pledges",
+      "legal",
+      "action",
+      "alleged",
+      "fuel",
+      "exports",
+      "russia",
+      "threatens",
+      "if",
+      "shipments",
+      "found",
+      "have",
+      "broken",
+      "law"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5469437+00:00"
+  },
+  {
+    "Tokens": [
+      "outspoken",
+      "indian",
+      "actor",
+      "nana",
+      "patekar",
+      "suddenly",
+      "dies",
+      "75",
+      "acclaimed",
+      "aged"
+    ],
+    "SentAt": "2026-10-08T10:44:40.5469531+00:00"
   }
 ]

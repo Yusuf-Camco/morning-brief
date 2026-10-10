@@ -1,130 +1,6 @@
 [
   {
     "Tokens": [
-      "flydubai",
-      "co",
-      "pilot",
-      "attacked",
-      "axe",
-      "suspected",
-      "terrorist",
-      "attack",
-      "uae",
-      "captain",
-      "official",
-      "crash",
-      "act",
-      "used",
-      "investigators",
-      "say",
-      "planning",
-      "omani"
-    ],
-    "SentAt": "2026-10-03T09:16:40.0407624+00:00"
-  },
-  {
-    "Tokens": [
-      "north",
-      "korea",
-      "fires",
-      "ballistic",
-      "missile",
-      "seoul",
-      "demands",
-      "apology",
-      "launches",
-      "wounded",
-      "soldiers",
-      "tensions",
-      "grow",
-      "border",
-      "mine",
-      "blasts"
-    ],
-    "SentAt": "2026-10-03T09:16:40.0408118+00:00"
-  },
-  {
-    "Tokens": [
-      "russia",
-      "strikes",
-      "second",
-      "major",
-      "bridge",
-      "kyiv",
-      "mayor",
-      "another",
-      "across",
-      "dnipro",
-      "river"
-    ],
-    "SentAt": "2026-10-03T09:16:40.0408254+00:00"
-  },
-  {
-    "Tokens": [
-      "g7",
-      "release",
-      "millions",
-      "barrels",
-      "oil",
-      "diesel",
-      "trump",
-      "threat",
-      "up",
-      "100m",
-      "emergency",
-      "reserves"
-    ],
-    "SentAt": "2026-10-03T09:16:40.0408367+00:00"
-  },
-  {
-    "Tokens": [
-      "ten",
-      "injured",
-      "car",
-      "hits",
-      "crowd",
-      "australia",
-      "horrible",
-      "incident",
-      "crashes",
-      "rugby",
-      "supporters"
-    ],
-    "SentAt": "2026-10-03T09:16:40.0408476+00:00"
-  },
-  {
-    "Tokens": [
-      "riot",
-      "police",
-      "clash",
-      "students",
-      "education",
-      "protests",
-      "rage",
-      "france",
-      "struggles",
-      "quell",
-      "school"
-    ],
-    "SentAt": "2026-10-03T09:16:40.0408615+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "coast",
-      "guard",
-      "intercepted",
-      "ship",
-      "carrying",
-      "fuel",
-      "cuba",
-      "stopped",
-      "ships"
-    ],
-    "SentAt": "2026-10-03T09:16:40.0408689+00:00"
-  },
-  {
-    "Tokens": [
       "tennessee",
       "prisons",
       "chief",
@@ -1023,5 +899,144 @@
       "soweto"
     ],
     "SentAt": "2026-10-09T10:43:24.632432+00:00"
+  },
+  {
+    "Tokens": [
+      "stain",
+      "country",
+      "trump",
+      "criticises",
+      "norway",
+      "nobel",
+      "peace",
+      "prize",
+      "slams",
+      "not",
+      "awarding",
+      "him",
+      "fumes",
+      "snub",
+      "criticizes",
+      "choice",
+      "amounts",
+      "implicit",
+      "rebuke",
+      "calls",
+      "decision",
+      "disgraceful"
+    ],
+    "SentAt": "2026-10-10T09:59:07.6395872+00:00"
+  },
+  {
+    "Tokens": [
+      "three",
+      "men",
+      "found",
+      "guilty",
+      "killing",
+      "australian",
+      "brothers",
+      "their",
+      "american",
+      "friend",
+      "murdering",
+      "us",
+      "mexico",
+      "murders",
+      "surfers",
+      "surfer"
+    ],
+    "SentAt": "2026-10-10T09:59:07.6397013+00:00"
+  },
+  {
+    "Tokens": [
+      "hurricane",
+      "isaias",
+      "downgraded",
+      "making",
+      "landfall",
+      "florida",
+      "weakens",
+      "us",
+      "gulf",
+      "coast",
+      "makes",
+      "hammers"
+    ],
+    "SentAt": "2026-10-10T09:59:07.6397258+00:00"
+  },
+  {
+    "Tokens": [
+      "founder",
+      "india",
+      "cockroach",
+      "movement",
+      "among",
+      "scores",
+      "detained",
+      "ahead",
+      "mass",
+      "protest",
+      "party",
+      "top",
+      "leaders",
+      "detains",
+      "election",
+      "chief",
+      "major"
+    ],
+    "SentAt": "2026-10-10T09:59:07.6397575+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "announces",
+      "deal",
+      "russian",
+      "diesel",
+      "zelensky",
+      "calls",
+      "gift",
+      "putin",
+      "hours",
+      "ukraine",
+      "strikes",
+      "fuel",
+      "site",
+      "zelenskyy",
+      "furious",
+      "buy"
+    ],
+    "SentAt": "2026-10-10T09:59:07.6397803+00:00"
+  },
+  {
+    "Tokens": [
+      "two",
+      "renoir",
+      "paintings",
+      "stolen",
+      "french",
+      "museum",
+      "recovered",
+      "mayor",
+      "authorities",
+      "say"
+    ],
+    "SentAt": "2026-10-10T09:59:07.639809+00:00"
+  },
+  {
+    "Tokens": [
+      "year",
+      "ceasefire",
+      "gaza",
+      "healthcare",
+      "still",
+      "collapsing",
+      "through",
+      "lens",
+      "npr",
+      "reporter"
+    ],
+    "SentAt": "2026-10-10T09:59:07.6398232+00:00"
   }
 ]

@@ -1,144 +1,6 @@
 [
   {
     "Tokens": [
-      "tennessee",
-      "prisons",
-      "chief",
-      "resigns",
-      "failed",
-      "execution",
-      "christa",
-      "pike",
-      "prison",
-      "resign",
-      "top",
-      "official",
-      "resigning",
-      "botched",
-      "who",
-      "oversaw"
-    ],
-    "SentAt": "2026-10-04T09:55:43.8294676+00:00"
-  },
-  {
-    "Tokens": [
-      "tens",
-      "thousands",
-      "protest",
-      "against",
-      "spain",
-      "housing",
-      "crisis",
-      "anger",
-      "streets",
-      "can",
-      "go"
-    ],
-    "SentAt": "2026-10-04T09:55:43.829526+00:00"
-  },
-  {
-    "Tokens": [
-      "who",
-      "pilots",
-      "flydubai",
-      "flight",
-      "mystery",
-      "successfully",
-      "landed",
-      "endangered",
-      "1073"
-    ],
-    "SentAt": "2026-10-04T09:55:43.8295377+00:00"
-  },
-  {
-    "Tokens": [
-      "what",
-      "know",
-      "about",
-      "brazil",
-      "election",
-      "pitting",
-      "lula",
-      "against",
-      "fl\u00E1vio",
-      "bolsonaro",
-      "face",
-      "off",
-      "2026",
-      "presidential",
-      "race"
-    ],
-    "SentAt": "2026-10-04T09:55:43.8295519+00:00"
-  },
-  {
-    "Tokens": [
-      "debris",
-      "found",
-      "plane",
-      "went",
-      "missing",
-      "off",
-      "us",
-      "coast",
-      "guard",
-      "searches",
-      "air",
-      "ambulance",
-      "massachusetts"
-    ],
-    "SentAt": "2026-10-04T09:55:43.8295605+00:00"
-  },
-  {
-    "Tokens": [
-      "houthis",
-      "claim",
-      "strike",
-      "aramco",
-      "site",
-      "yemen",
-      "fighting",
-      "intensifies",
-      "attacks",
-      "facilities",
-      "riyadh"
-    ],
-    "SentAt": "2026-10-04T09:55:43.8295727+00:00"
-  },
-  {
-    "Tokens": [
-      "cornell",
-      "president",
-      "vows",
-      "transparency",
-      "outrage",
-      "fraternity",
-      "rape",
-      "case",
-      "serious",
-      "look",
-      "fraternities",
-      "wake",
-      "allegations"
-    ],
-    "SentAt": "2026-10-04T09:55:43.8295822+00:00"
-  },
-  {
-    "Tokens": [
-      "cornell",
-      "president",
-      "university",
-      "must",
-      "do",
-      "better",
-      "frat",
-      "house",
-      "rape",
-      "allegations"
-    ],
-    "SentAt": "2026-10-04T09:55:43.8295915+00:00"
-  },
-  {
-    "Tokens": [
       "spanish",
       "pm",
       "calls",
@@ -1038,5 +900,169 @@
       "reporter"
     ],
     "SentAt": "2026-10-10T09:59:07.6398232+00:00"
+  },
+  {
+    "Tokens": [
+      "time",
+      "ukraine",
+      "get",
+      "president",
+      "trump",
+      "zelensky",
+      "condemns",
+      "diesel",
+      "deal",
+      "watch",
+      "needs",
+      "blames",
+      "zelenskyy",
+      "prices",
+      "leader",
+      "russia",
+      "rebuking",
+      "oil",
+      "strikes",
+      "should"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8955637+00:00"
+  },
+  {
+    "Tokens": [
+      "twelve",
+      "killed",
+      "more",
+      "than",
+      "300",
+      "injured",
+      "riyadh",
+      "airport",
+      "attack",
+      "least",
+      "12",
+      "hurt",
+      "strike",
+      "saudi",
+      "officials",
+      "say",
+      "people",
+      "wounded",
+      "authorities",
+      "multiple"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8957589+00:00"
+  },
+  {
+    "Tokens": [
+      "world",
+      "condemns",
+      "deadly",
+      "houthi",
+      "attack",
+      "saudi",
+      "arabia",
+      "riyadh",
+      "airport",
+      "twelve",
+      "killed",
+      "hundreds",
+      "injured",
+      "attacked",
+      "again",
+      "days",
+      "strikes"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8957905+00:00"
+  },
+  {
+    "Tokens": [
+      "man",
+      "dies",
+      "entering",
+      "tiger",
+      "enclosure",
+      "england",
+      "wildlife",
+      "park",
+      "attacked",
+      "attack",
+      "yorkshire"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8958133+00:00"
+  },
+  {
+    "Tokens": [
+      "middle",
+      "east",
+      "crisis",
+      "live",
+      "houthis",
+      "warn",
+      "passengers",
+      "against",
+      "using",
+      "saudi",
+      "airport",
+      "deadly",
+      "attack",
+      "riyadh",
+      "renew",
+      "threats",
+      "airports",
+      "prompts",
+      "wave",
+      "condemnation"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8958371+00:00"
+  },
+  {
+    "Tokens": [
+      "delhi",
+      "sees",
+      "more",
+      "protests",
+      "cockroach",
+      "group",
+      "leaders",
+      "released",
+      "india",
+      "braces"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8958485+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "justice",
+      "department",
+      "investigates",
+      "tv",
+      "networks",
+      "trump",
+      "pool",
+      "coverage",
+      "opens",
+      "antitrust",
+      "probe",
+      "halting"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8958679+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "may",
+      "join",
+      "saudi",
+      "strikes",
+      "houthis",
+      "riyadh",
+      "airport",
+      "attack",
+      "weighs",
+      "joining",
+      "fight",
+      "against"
+    ],
+    "SentAt": "2026-10-11T10:08:41.8958895+00:00"
   }
 ]

@@ -1,162 +1,6 @@
 [
   {
     "Tokens": [
-      "spanish",
-      "pm",
-      "calls",
-      "snap",
-      "election",
-      "spain",
-      "pedro",
-      "sanchez",
-      "housing",
-      "crisis",
-      "s\u00E1nchez",
-      "law",
-      "fails",
-      "pass",
-      "november",
-      "29",
-      "pressure",
-      "mounts"
-    ],
-    "SentAt": "2026-10-05T10:38:11.5765663+00:00"
-  },
-  {
-    "Tokens": [
-      "bolsonaro",
-      "beats",
-      "expectations",
-      "brazil",
-      "vote",
-      "faces",
-      "lula",
-      "runoff",
-      "elections",
-      "head",
-      "between",
-      "presidential",
-      "election",
-      "heads",
-      "ahead",
-      "leads"
-    ],
-    "SentAt": "2026-10-05T10:38:11.5766463+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "air",
-      "force",
-      "removes",
-      "all",
-      "bombers",
-      "british",
-      "military",
-      "base",
-      "raf",
-      "fairford",
-      "following",
-      "security",
-      "incident",
-      "withdrawn",
-      "iran",
-      "backed",
-      "threat",
-      "spokesperson"
-    ],
-    "SentAt": "2026-10-05T10:38:11.5766678+00:00"
-  },
-  {
-    "Tokens": [
-      "nobel",
-      "prize",
-      "medicine",
-      "2026",
-      "awarded",
-      "research",
-      "mysteries",
-      "brain",
-      "goes",
-      "scientists",
-      "activity"
-    ],
-    "SentAt": "2026-10-05T10:38:11.576682+00:00"
-  },
-  {
-    "Tokens": [
-      "how",
-      "spain",
-      "housing",
-      "crisis",
-      "has",
-      "resulted",
-      "early",
-      "general",
-      "election",
-      "pedro",
-      "sanchez",
-      "announces",
-      "snap"
-    ],
-    "SentAt": "2026-10-05T10:38:11.5766947+00:00"
-  },
-  {
-    "Tokens": [
-      "not",
-      "again",
-      "arrest",
-      "us",
-      "marine",
-      "murder",
-      "reignites",
-      "protests",
-      "japan",
-      "okinawa",
-      "arrested",
-      "alleged",
-      "woman"
-    ],
-    "SentAt": "2026-10-05T10:38:11.5767056+00:00"
-  },
-  {
-    "Tokens": [
-      "gunmen",
-      "kill",
-      "one",
-      "injure",
-      "seven",
-      "traders",
-      "plateau",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-05T10:38:11.5767161+00:00"
-  },
-  {
-    "Tokens": [
-      "france",
-      "closes",
-      "up",
-      "500",
-      "schools",
-      "monday",
-      "student",
-      "protests",
-      "shuttered",
-      "sweep",
-      "through",
-      "french",
-      "closed",
-      "continue",
-      "live",
-      "disrupt",
-      "least",
-      "413"
-    ],
-    "SentAt": "2026-10-05T10:38:11.5767351+00:00"
-  },
-  {
-    "Tokens": [
       "kenya",
       "confirms",
       "first",
@@ -1064,5 +908,182 @@
       "against"
     ],
     "SentAt": "2026-10-11T10:08:41.8958895+00:00"
+  },
+  {
+    "Tokens": [
+      "children",
+      "among",
+      "139",
+      "dead",
+      "boat",
+      "capsizes",
+      "off",
+      "djibouti",
+      "un",
+      "least",
+      "migrant",
+      "yemen",
+      "people",
+      "including",
+      "15",
+      "100",
+      "migrants",
+      "near"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6044199+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "leo",
+      "have",
+      "surgery",
+      "lump",
+      "found",
+      "lung",
+      "undergo",
+      "nodular",
+      "lesion",
+      "vatican",
+      "xiv",
+      "week",
+      "will",
+      "remove",
+      "growth"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6045038+00:00"
+  },
+  {
+    "Tokens": [
+      "north",
+      "korea",
+      "fires",
+      "multiple",
+      "ballistic",
+      "missiles",
+      "towards",
+      "sea",
+      "continued",
+      "weapons",
+      "tests",
+      "off",
+      "east",
+      "coast",
+      "seoul"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6045288+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "announces",
+      "russia",
+      "ukraine",
+      "energy",
+      "ceasefire",
+      "criticizing",
+      "zelenskyy",
+      "signals",
+      "surprise",
+      "claim",
+      "would",
+      "back",
+      "if",
+      "moscow",
+      "does",
+      "happened",
+      "zelensky",
+      "surprised",
+      "hear",
+      "about",
+      "between",
+      "live",
+      "refuses",
+      "say",
+      "touted",
+      "place"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6045675+00:00"
+  },
+  {
+    "Tokens": [
+      "one",
+      "killed",
+      "when",
+      "riyadh",
+      "airport",
+      "hit",
+      "again",
+      "day",
+      "deadly",
+      "strike",
+      "13",
+      "middle",
+      "east",
+      "crisis",
+      "houthis",
+      "claim",
+      "attacks",
+      "including",
+      "12",
+      "happened"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6045866+00:00"
+  },
+  {
+    "Tokens": [
+      "melbourne",
+      "man",
+      "linked",
+      "flydubai",
+      "attack",
+      "suspect",
+      "rejects",
+      "false",
+      "accusations",
+      "islamic",
+      "leader",
+      "suspected",
+      "hijacker",
+      "condemns"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6045989+00:00"
+  },
+  {
+    "Tokens": [
+      "indian",
+      "opposition",
+      "leaders",
+      "march",
+      "top",
+      "court",
+      "demand",
+      "election",
+      "chief",
+      "resign",
+      "india",
+      "plans",
+      "delhi",
+      "protest"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6046079+00:00"
+  },
+  {
+    "Tokens": [
+      "saudi",
+      "arabia",
+      "dead",
+      "11",
+      "injured",
+      "latest",
+      "attack",
+      "riyadh",
+      "airport",
+      "struck",
+      "again",
+      "yemen",
+      "houthis"
+    ],
+    "SentAt": "2026-10-12T11:03:56.6046197+00:00"
   }
 ]

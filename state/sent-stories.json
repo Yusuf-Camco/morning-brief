@@ -5,145 +5,6 @@
       "confirms",
       "first",
       "ebola",
-      "death",
-      "outbreak",
-      "spreads",
-      "ministry",
-      "health",
-      "imported",
-      "case",
-      "patient",
-      "has",
-      "died",
-      "returns",
-      "drc"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8789006+00:00"
-  },
-  {
-    "Tokens": [
-      "nigeria",
-      "mourns",
-      "32",
-      "killed",
-      "military",
-      "plane",
-      "crashes",
-      "swamp",
-      "helicopter",
-      "onboard",
-      "nigerian",
-      "aviation",
-      "minister"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8790023+00:00"
-  },
-  {
-    "Tokens": [
-      "francis",
-      "halzen",
-      "wins",
-      "nobel",
-      "prize",
-      "physics",
-      "work",
-      "high",
-      "energy",
-      "neutrinos",
-      "space",
-      "awarded",
-      "ice",
-      "research"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8790637+00:00"
-  },
-  {
-    "Tokens": [
-      "separatist",
-      "party",
-      "projected",
-      "win",
-      "quebec",
-      "election",
-      "adding",
-      "test",
-      "canada",
-      "unity",
-      "secessionist",
-      "wins"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8790774+00:00"
-  },
-  {
-    "Tokens": [
-      "russia",
-      "vs",
-      "nigeria",
-      "five",
-      "danger",
-      "men",
-      "super",
-      "eagles",
-      "must",
-      "contain"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8790958+00:00"
-  },
-  {
-    "Tokens": [
-      "military",
-      "aircraft",
-      "crash",
-      "how",
-      "naval",
-      "personnel",
-      "residents",
-      "try",
-      "rescue",
-      "victims",
-      "gov",
-      "aiyedatiwa",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8791827+00:00"
-  },
-  {
-    "Tokens": [
-      "four",
-      "african",
-      "countries",
-      "call",
-      "de",
-      "escalation",
-      "tension",
-      "ethiopia"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8791951+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "threat",
-      "led",
-      "us",
-      "pull",
-      "bombers",
-      "raf",
-      "fairford",
-      "why",
-      "did",
-      "rush",
-      "withdraw",
-      "latest"
-    ],
-    "SentAt": "2026-10-06T10:31:11.8792288+00:00"
-  },
-  {
-    "Tokens": [
-      "kenya",
-      "confirms",
-      "first",
-      "ebola",
       "case",
       "virus",
       "surges",
@@ -1085,5 +946,151 @@
       "houthis"
     ],
     "SentAt": "2026-10-12T11:03:56.6046197+00:00"
+  },
+  {
+    "Tokens": [
+      "breaking",
+      "bad",
+      "actor",
+      "rj",
+      "mitte",
+      "dies",
+      "aged",
+      "34",
+      "best",
+      "known",
+      "disability",
+      "activist"
+    ],
+    "SentAt": "2026-10-13T10:47:01.8376207+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "leo",
+      "cancels",
+      "all",
+      "public",
+      "events",
+      "ahead",
+      "lung",
+      "surgery",
+      "go",
+      "hospital",
+      "tuesday",
+      "nodule",
+      "admitted",
+      "announces",
+      "rare",
+      "move",
+      "pontiff",
+      "xiv"
+    ],
+    "SentAt": "2026-10-13T10:47:01.83769+00:00"
+  },
+  {
+    "Tokens": [
+      "immigration",
+      "agents",
+      "search",
+      "congresswoman",
+      "ilhan",
+      "omar",
+      "home",
+      "us",
+      "authorities",
+      "raid",
+      "democratic",
+      "trump",
+      "critic"
+    ],
+    "SentAt": "2026-10-13T10:47:01.8377102+00:00"
+  },
+  {
+    "Tokens": [
+      "one",
+      "dead",
+      "several",
+      "hurt",
+      "rollercoaster",
+      "incident",
+      "six",
+      "flags",
+      "killed",
+      "injured",
+      "georgia"
+    ],
+    "SentAt": "2026-10-13T10:47:01.8377485+00:00"
+  },
+  {
+    "Tokens": [
+      "activist",
+      "greta",
+      "thunberg",
+      "joins",
+      "french",
+      "student",
+      "protests",
+      "live",
+      "ahead",
+      "nationwide",
+      "rallies",
+      "students",
+      "day"
+    ],
+    "SentAt": "2026-10-13T10:47:01.8377685+00:00"
+  },
+  {
+    "Tokens": [
+      "hurricane",
+      "simon",
+      "hitting",
+      "western",
+      "mexico",
+      "tropical",
+      "systems",
+      "kill",
+      "storm",
+      "rachel",
+      "five",
+      "people",
+      "pacific",
+      "coast"
+    ],
+    "SentAt": "2026-10-13T10:47:01.8377822+00:00"
+  },
+  {
+    "Tokens": [
+      "ship",
+      "sinks",
+      "drone",
+      "attack",
+      "off",
+      "bulgaria",
+      "pm",
+      "summons",
+      "russian",
+      "ambassador",
+      "black",
+      "sea",
+      "coast"
+    ],
+    "SentAt": "2026-10-13T10:47:01.8377943+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "diesel",
+      "deal",
+      "putin",
+      "angers",
+      "europe",
+      "recoil",
+      "russian",
+      "faces",
+      "crisis",
+      "ukraine"
+    ],
+    "SentAt": "2026-10-13T10:47:01.8378048+00:00"
   }
 ]

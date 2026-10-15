@@ -1,172 +1,6 @@
 [
   {
     "Tokens": [
-      "kenya",
-      "confirms",
-      "first",
-      "ebola",
-      "case",
-      "virus",
-      "surges",
-      "dr",
-      "congo",
-      "province",
-      "records",
-      "time",
-      "ncdc",
-      "warns",
-      "importation",
-      "risk",
-      "kmpdu",
-      "demands",
-      "urgent",
-      "protection",
-      "health",
-      "workers"
-    ],
-    "SentAt": "2026-10-07T10:24:29.4134591+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "speak",
-      "putin",
-      "about",
-      "plague",
-      "lab",
-      "worker",
-      "death",
-      "russia",
-      "what",
-      "know",
-      "reports",
-      "russian",
-      "we",
-      "rubio",
-      "calls",
-      "more",
-      "open",
-      "us",
-      "un",
-      "urge",
-      "transparency",
-      "will",
-      "reported"
-    ],
-    "SentAt": "2026-10-07T10:24:29.4136205+00:00"
-  },
-  {
-    "Tokens": [
-      "messi",
-      "scores",
-      "emotional",
-      "farewell",
-      "game",
-      "argentina",
-      "head",
-      "coach",
-      "scaloni",
-      "irreplaceable",
-      "lionel",
-      "beat",
-      "benin",
-      "his",
-      "last",
-      "international",
-      "bids",
-      "fans",
-      "finale"
-    ],
-    "SentAt": "2026-10-07T10:24:29.4136577+00:00"
-  },
-  {
-    "Tokens": [
-      "france",
-      "halts",
-      "use",
-      "stun",
-      "grenades",
-      "boy",
-      "hand",
-      "blown",
-      "off",
-      "student",
-      "protests",
-      "police"
-    ],
-    "SentAt": "2026-10-07T10:24:29.41368+00:00"
-  },
-  {
-    "Tokens": [
-      "henri",
-      "kagan",
-      "kenso",
-      "soai",
-      "win",
-      "nobel",
-      "prize",
-      "chemistry",
-      "awarded",
-      "france",
-      "japan"
-    ],
-    "SentAt": "2026-10-07T10:24:29.4137068+00:00"
-  },
-  {
-    "Tokens": [
-      "what",
-      "does",
-      "year",
-      "long",
-      "ceasefire",
-      "gaza",
-      "look",
-      "like",
-      "life",
-      "now"
-    ],
-    "SentAt": "2026-10-07T10:24:29.413716+00:00"
-  },
-  {
-    "Tokens": [
-      "yemen",
-      "houthis",
-      "attack",
-      "aden",
-      "airport",
-      "saudi",
-      "forces",
-      "down",
-      "missile",
-      "near",
-      "riyadh",
-      "fighting",
-      "intensifies"
-    ],
-    "SentAt": "2026-10-07T10:24:29.413735+00:00"
-  },
-  {
-    "Tokens": [
-      "former",
-      "australian",
-      "bishop",
-      "jailed",
-      "sexually",
-      "abusing",
-      "young",
-      "men",
-      "sentenced",
-      "more",
-      "than",
-      "six",
-      "years",
-      "prison",
-      "aboriginal"
-    ],
-    "SentAt": "2026-10-07T10:24:29.4137489+00:00"
-  },
-  {
-    "Tokens": [
       "british",
       "consulate",
       "jerusalem",
@@ -1262,5 +1096,144 @@
       "nigeria"
     ],
     "SentAt": "2026-10-14T08:51:09.7570318+00:00"
+  },
+  {
+    "Tokens": [
+      "kenya",
+      "confirms",
+      "second",
+      "ebola",
+      "case",
+      "relative",
+      "first",
+      "victim",
+      "reports"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1966143+00:00"
+  },
+  {
+    "Tokens": [
+      "school",
+      "roof",
+      "collapse",
+      "kills",
+      "least",
+      "29",
+      "injures",
+      "more",
+      "than",
+      "dozen",
+      "pakistan",
+      "dozens",
+      "pupils",
+      "teacher",
+      "peshawar"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1967373+00:00"
+  },
+  {
+    "Tokens": [
+      "least",
+      "28",
+      "children",
+      "killed",
+      "pakistan",
+      "school",
+      "collapse",
+      "20",
+      "dead",
+      "roof",
+      "collapses"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1967914+00:00"
+  },
+  {
+    "Tokens": [
+      "2027",
+      "tinubu",
+      "skip",
+      "some",
+      "apc",
+      "campaign",
+      "rallies",
+      "cites",
+      "governance",
+      "demands",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1968124+00:00"
+  },
+  {
+    "Tokens": [
+      "musk",
+      "us",
+      "government",
+      "may",
+      "behind",
+      "slowdown",
+      "ukraine",
+      "drone",
+      "speeds",
+      "elon",
+      "suggests",
+      "starlink",
+      "restrictions",
+      "europe",
+      "live"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1968867+00:00"
+  },
+  {
+    "Tokens": [
+      "11th",
+      "senate",
+      "race",
+      "akpabio",
+      "courts",
+      "tinubu",
+      "warns",
+      "uzodimma",
+      "ambition",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1969071+00:00"
+  },
+  {
+    "Tokens": [
+      "north",
+      "korea",
+      "tests",
+      "two",
+      "submarine",
+      "launched",
+      "missiles",
+      "state",
+      "media",
+      "reports",
+      "test",
+      "fires",
+      "cruise",
+      "rising",
+      "tensions"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1969247+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "chicagoans",
+      "show",
+      "outpouring",
+      "support",
+      "pope",
+      "leo",
+      "cancer",
+      "diagnosis",
+      "surgery",
+      "draws",
+      "world",
+      "leaders"
+    ],
+    "SentAt": "2026-10-15T08:26:27.1969377+00:00"
   }
 ]

@@ -1,162 +1,6 @@
 [
   {
     "Tokens": [
-      "nobel",
-      "peace",
-      "prize",
-      "awarded",
-      "former",
-      "icc",
-      "judge",
-      "navanethem",
-      "navi",
-      "pillay",
-      "icj",
-      "wins",
-      "promoting",
-      "international",
-      "law",
-      "south",
-      "african",
-      "human",
-      "rights",
-      "lawyer",
-      "live",
-      "updates",
-      "africa",
-      "2026"
-    ],
-    "SentAt": "2026-10-09T10:43:24.6321618+00:00"
-  },
-  {
-    "Tokens": [
-      "nobel",
-      "peace",
-      "prize",
-      "goes",
-      "navi",
-      "pillay",
-      "wins",
-      "2026",
-      "awarded",
-      "how",
-      "epstein",
-      "files",
-      "forced",
-      "reckon",
-      "impartiality",
-      "replay",
-      "navanethem",
-      "south",
-      "africa"
-    ],
-    "SentAt": "2026-10-09T10:43:24.6323172+00:00"
-  },
-  {
-    "Tokens": [
-      "ice",
-      "agent",
-      "shoots",
-      "man",
-      "york",
-      "city",
-      "uproar",
-      "ny",
-      "child",
-      "car",
-      "five",
-      "year",
-      "old",
-      "reportedly"
-    ],
-    "SentAt": "2026-10-09T10:43:24.6323431+00:00"
-  },
-  {
-    "Tokens": [
-      "venezuela",
-      "nicolas",
-      "maduro",
-      "wife",
-      "face",
-      "charges",
-      "torture",
-      "charge",
-      "indictment",
-      "us",
-      "files",
-      "against",
-      "cilia",
-      "flores"
-    ],
-    "SentAt": "2026-10-09T10:43:24.6323601+00:00"
-  },
-  {
-    "Tokens": [
-      "bold",
-      "inventive",
-      "canadian",
-      "poet",
-      "anne",
-      "carson",
-      "wins",
-      "nobel",
-      "literature",
-      "prize",
-      "2026",
-      "author"
-    ],
-    "SentAt": "2026-10-09T10:43:24.6323811+00:00"
-  },
-  {
-    "Tokens": [
-      "three",
-      "saudi",
-      "nationals",
-      "killed",
-      "houthi",
-      "attacks",
-      "riyadh",
-      "airport",
-      "saudis",
-      "attack",
-      "claimed",
-      "houthis"
-    ],
-    "SentAt": "2026-10-09T10:43:24.6323945+00:00"
-  },
-  {
-    "Tokens": [
-      "firing",
-      "squad",
-      "execution",
-      "livestreamed",
-      "pentagon",
-      "fort",
-      "hood",
-      "shooter"
-    ],
-    "SentAt": "2026-10-09T10:43:24.6324087+00:00"
-  },
-  {
-    "Tokens": [
-      "cars",
-      "torched",
-      "shops",
-      "looted",
-      "anti",
-      "migrant",
-      "violence",
-      "erupts",
-      "south",
-      "africa",
-      "ten",
-      "xenophobic",
-      "soweto"
-    ],
-    "SentAt": "2026-10-09T10:43:24.632432+00:00"
-  },
-  {
-    "Tokens": [
       "stain",
       "country",
       "trump",
@@ -1208,5 +1052,155 @@
       "case"
     ],
     "SentAt": "2026-10-16T08:19:19.4048379+00:00"
+  },
+  {
+    "Tokens": [
+      "palestinians",
+      "us",
+      "journalist",
+      "injured",
+      "israeli",
+      "settlers",
+      "west",
+      "bank",
+      "harvest",
+      "attack",
+      "during",
+      "olive",
+      "american",
+      "clashes",
+      "farmers",
+      "washington",
+      "post",
+      "beat",
+      "photojournalist",
+      "attacks",
+      "settler"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6803416+00:00"
+  },
+  {
+    "Tokens": [
+      "three",
+      "men",
+      "jailed",
+      "158",
+      "years",
+      "each",
+      "murdering",
+      "australian",
+      "us",
+      "surfers",
+      "mexico",
+      "mexicans",
+      "killing",
+      "mexican",
+      "judge",
+      "sentences",
+      "prison",
+      "murders"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6805032+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "waives",
+      "several",
+      "russia",
+      "sanctions",
+      "row",
+      "zelensky",
+      "intensifies",
+      "rift",
+      "zelenskyy",
+      "widens"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6805206+00:00"
+  },
+  {
+    "Tokens": [
+      "albania",
+      "pm",
+      "blames",
+      "foreign",
+      "hands",
+      "protests",
+      "albanian",
+      "unrest",
+      "student",
+      "intensify",
+      "clashes",
+      "grip",
+      "tirana",
+      "mounting"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6805385+00:00"
+  },
+  {
+    "Tokens": [
+      "brazil",
+      "sees",
+      "record",
+      "fall",
+      "amazon",
+      "deforestation",
+      "key",
+      "election",
+      "looms",
+      "hits",
+      "lowest",
+      "level"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6805543+00:00"
+  },
+  {
+    "Tokens": [
+      "oregon",
+      "school",
+      "shooter",
+      "former",
+      "special",
+      "needs",
+      "student",
+      "police",
+      "say",
+      "fatal",
+      "bend",
+      "shooting",
+      "there"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6805737+00:00"
+  },
+  {
+    "Tokens": [
+      "kenya",
+      "confirms",
+      "third",
+      "ebola",
+      "case",
+      "records",
+      "continues",
+      "contact",
+      "tracing"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6805818+00:00"
+  },
+  {
+    "Tokens": [
+      "what",
+      "pope",
+      "putin",
+      "call",
+      "days",
+      "lung",
+      "cancer",
+      "surgery",
+      "leo",
+      "recovering",
+      "vatican",
+      "know"
+    ],
+    "SentAt": "2026-10-17T07:54:44.6805979+00:00"
   }
 ]

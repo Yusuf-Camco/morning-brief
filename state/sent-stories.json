@@ -1,170 +1,6 @@
 [
   {
     "Tokens": [
-      "time",
-      "ukraine",
-      "get",
-      "president",
-      "trump",
-      "zelensky",
-      "condemns",
-      "diesel",
-      "deal",
-      "watch",
-      "needs",
-      "blames",
-      "zelenskyy",
-      "prices",
-      "leader",
-      "russia",
-      "rebuking",
-      "oil",
-      "strikes",
-      "should"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8955637+00:00"
-  },
-  {
-    "Tokens": [
-      "twelve",
-      "killed",
-      "more",
-      "than",
-      "300",
-      "injured",
-      "riyadh",
-      "airport",
-      "attack",
-      "least",
-      "12",
-      "hurt",
-      "strike",
-      "saudi",
-      "officials",
-      "say",
-      "people",
-      "wounded",
-      "authorities",
-      "multiple"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8957589+00:00"
-  },
-  {
-    "Tokens": [
-      "world",
-      "condemns",
-      "deadly",
-      "houthi",
-      "attack",
-      "saudi",
-      "arabia",
-      "riyadh",
-      "airport",
-      "twelve",
-      "killed",
-      "hundreds",
-      "injured",
-      "attacked",
-      "again",
-      "days",
-      "strikes"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8957905+00:00"
-  },
-  {
-    "Tokens": [
-      "man",
-      "dies",
-      "entering",
-      "tiger",
-      "enclosure",
-      "england",
-      "wildlife",
-      "park",
-      "attacked",
-      "attack",
-      "yorkshire"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8958133+00:00"
-  },
-  {
-    "Tokens": [
-      "middle",
-      "east",
-      "crisis",
-      "live",
-      "houthis",
-      "warn",
-      "passengers",
-      "against",
-      "using",
-      "saudi",
-      "airport",
-      "deadly",
-      "attack",
-      "riyadh",
-      "renew",
-      "threats",
-      "airports",
-      "prompts",
-      "wave",
-      "condemnation"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8958371+00:00"
-  },
-  {
-    "Tokens": [
-      "delhi",
-      "sees",
-      "more",
-      "protests",
-      "cockroach",
-      "group",
-      "leaders",
-      "released",
-      "india",
-      "braces"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8958485+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "justice",
-      "department",
-      "investigates",
-      "tv",
-      "networks",
-      "trump",
-      "pool",
-      "coverage",
-      "opens",
-      "antitrust",
-      "probe",
-      "halting"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8958679+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "may",
-      "join",
-      "saudi",
-      "strikes",
-      "houthis",
-      "riyadh",
-      "airport",
-      "attack",
-      "weighs",
-      "joining",
-      "fight",
-      "against"
-    ],
-    "SentAt": "2026-10-11T10:08:41.8958895+00:00"
-  },
-  {
-    "Tokens": [
       "children",
       "among",
       "139",
@@ -1215,5 +1051,160 @@
       "massive"
     ],
     "SentAt": "2026-10-18T08:10:04.5127471+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "macron",
+      "declines",
+      "minister",
+      "resignation",
+      "violent",
+      "protests",
+      "live",
+      "admits",
+      "failures",
+      "days",
+      "unrest",
+      "refuses",
+      "huge",
+      "rock",
+      "europe",
+      "watch",
+      "address",
+      "day",
+      "nationwide"
+    ],
+    "SentAt": "2026-10-19T09:04:49.7370962+00:00"
+  },
+  {
+    "Tokens": [
+      "funding",
+      "shortages",
+      "force",
+      "world",
+      "food",
+      "programme",
+      "cut",
+      "aid",
+      "gaza",
+      "life",
+      "absolutely",
+      "brutal",
+      "head",
+      "end",
+      "half",
+      "million",
+      "due",
+      "shortfall"
+    ],
+    "SentAt": "2026-10-19T09:04:49.7372046+00:00"
+  },
+  {
+    "Tokens": [
+      "flight",
+      "tel",
+      "aviv",
+      "vienna",
+      "makes",
+      "emergency",
+      "landing",
+      "bomb",
+      "threat",
+      "forces",
+      "israel",
+      "austria",
+      "bulgaria"
+    ],
+    "SentAt": "2026-10-19T09:04:49.7372318+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "addresses",
+      "faithful",
+      "cancer",
+      "surgery",
+      "leo",
+      "he",
+      "will",
+      "resume",
+      "activities",
+      "day",
+      "leaving",
+      "hospital",
+      "leaves",
+      "days",
+      "lung"
+    ],
+    "SentAt": "2026-10-19T09:04:49.7372683+00:00"
+  },
+  {
+    "Tokens": [
+      "anthropic",
+      "will",
+      "commit",
+      "shares",
+      "public",
+      "benefit",
+      "fund",
+      "ai",
+      "giant",
+      "commits"
+    ],
+    "SentAt": "2026-10-19T09:04:49.7372929+00:00"
+  },
+  {
+    "Tokens": [
+      "mali",
+      "military",
+      "armed",
+      "groups",
+      "committing",
+      "abuses",
+      "against",
+      "civilians",
+      "hrw",
+      "attacks",
+      "insurgent"
+    ],
+    "SentAt": "2026-10-19T09:04:49.7373058+00:00"
+  },
+  {
+    "Tokens": [
+      "dangote",
+      "foundation",
+      "gift",
+      "refinery",
+      "shares",
+      "778",
+      "000",
+      "women",
+      "15",
+      "states",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-19T09:04:49.737324+00:00"
+  },
+  {
+    "Tokens": [
+      "arrests",
+      "israeli",
+      "settler",
+      "attacks",
+      "us",
+      "photojournalist",
+      "european",
+      "diplomats",
+      "west",
+      "bank",
+      "ambassador",
+      "israel",
+      "calls",
+      "attack",
+      "american",
+      "terror"
+    ],
+    "SentAt": "2026-10-19T09:04:49.7373445+00:00"
   }
 ]

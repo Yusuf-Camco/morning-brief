@@ -1,183 +1,6 @@
 [
   {
     "Tokens": [
-      "children",
-      "among",
-      "139",
-      "dead",
-      "boat",
-      "capsizes",
-      "off",
-      "djibouti",
-      "un",
-      "least",
-      "migrant",
-      "yemen",
-      "people",
-      "including",
-      "15",
-      "100",
-      "migrants",
-      "near"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6044199+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "leo",
-      "have",
-      "surgery",
-      "lump",
-      "found",
-      "lung",
-      "undergo",
-      "nodular",
-      "lesion",
-      "vatican",
-      "xiv",
-      "week",
-      "will",
-      "remove",
-      "growth"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6045038+00:00"
-  },
-  {
-    "Tokens": [
-      "north",
-      "korea",
-      "fires",
-      "multiple",
-      "ballistic",
-      "missiles",
-      "towards",
-      "sea",
-      "continued",
-      "weapons",
-      "tests",
-      "off",
-      "east",
-      "coast",
-      "seoul"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6045288+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "announces",
-      "russia",
-      "ukraine",
-      "energy",
-      "ceasefire",
-      "criticizing",
-      "zelenskyy",
-      "signals",
-      "surprise",
-      "claim",
-      "would",
-      "back",
-      "if",
-      "moscow",
-      "does",
-      "happened",
-      "zelensky",
-      "surprised",
-      "hear",
-      "about",
-      "between",
-      "live",
-      "refuses",
-      "say",
-      "touted",
-      "place"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6045675+00:00"
-  },
-  {
-    "Tokens": [
-      "one",
-      "killed",
-      "when",
-      "riyadh",
-      "airport",
-      "hit",
-      "again",
-      "day",
-      "deadly",
-      "strike",
-      "13",
-      "middle",
-      "east",
-      "crisis",
-      "houthis",
-      "claim",
-      "attacks",
-      "including",
-      "12",
-      "happened"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6045866+00:00"
-  },
-  {
-    "Tokens": [
-      "melbourne",
-      "man",
-      "linked",
-      "flydubai",
-      "attack",
-      "suspect",
-      "rejects",
-      "false",
-      "accusations",
-      "islamic",
-      "leader",
-      "suspected",
-      "hijacker",
-      "condemns"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6045989+00:00"
-  },
-  {
-    "Tokens": [
-      "indian",
-      "opposition",
-      "leaders",
-      "march",
-      "top",
-      "court",
-      "demand",
-      "election",
-      "chief",
-      "resign",
-      "india",
-      "plans",
-      "delhi",
-      "protest"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6046079+00:00"
-  },
-  {
-    "Tokens": [
-      "saudi",
-      "arabia",
-      "dead",
-      "11",
-      "injured",
-      "latest",
-      "attack",
-      "riyadh",
-      "airport",
-      "struck",
-      "again",
-      "yemen",
-      "houthis"
-    ],
-    "SentAt": "2026-10-12T11:03:56.6046197+00:00"
-  },
-  {
-    "Tokens": [
       "breaking",
       "bad",
       "actor",
@@ -1206,5 +1029,160 @@
       "terror"
     ],
     "SentAt": "2026-10-19T09:04:49.7373445+00:00"
+  },
+  {
+    "Tokens": [
+      "alberta",
+      "voters",
+      "reject",
+      "separation",
+      "canada",
+      "early",
+      "results",
+      "show",
+      "referendum",
+      "plan",
+      "leave",
+      "cbc",
+      "projects",
+      "weigh",
+      "future",
+      "oil",
+      "rich",
+      "leaving"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4470433+00:00"
+  },
+  {
+    "Tokens": [
+      "japan",
+      "launches",
+      "mission",
+      "mars",
+      "bring",
+      "back",
+      "samples",
+      "moon",
+      "historic",
+      "ambitious",
+      "robotic",
+      "martian",
+      "phobos",
+      "explore",
+      "moons"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4471614+00:00"
+  },
+  {
+    "Tokens": [
+      "french",
+      "cities",
+      "calm",
+      "overnight",
+      "curfews",
+      "imposed",
+      "quell",
+      "violence",
+      "pm",
+      "targeted",
+      "prime",
+      "minister",
+      "europe",
+      "live",
+      "paris",
+      "other",
+      "helped",
+      "keep",
+      "peace"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4472528+00:00"
+  },
+  {
+    "Tokens": [
+      "object",
+      "thought",
+      "amelia",
+      "earhart",
+      "missing",
+      "plane",
+      "likely",
+      "just",
+      "large",
+      "trees",
+      "researchers",
+      "find",
+      "possible",
+      "wreckage",
+      "say",
+      "expedition",
+      "comes",
+      "up",
+      "empty"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4472856+00:00"
+  },
+  {
+    "Tokens": [
+      "doomsday",
+      "cult",
+      "leader",
+      "found",
+      "guilty",
+      "murdering",
+      "190",
+      "children",
+      "one",
+      "adult",
+      "starvation",
+      "murder",
+      "kenyan"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4473231+00:00"
+  },
+  {
+    "Tokens": [
+      "alberta",
+      "votes",
+      "remain",
+      "part",
+      "canada",
+      "victory",
+      "pm",
+      "carney"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4473347+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "ukraine",
+      "relations",
+      "sour",
+      "trump",
+      "zelenskyy",
+      "clash",
+      "talks",
+      "arms",
+      "russia",
+      "exchange",
+      "strikes",
+      "between"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4473553+00:00"
+  },
+  {
+    "Tokens": [
+      "fourteen",
+      "dead",
+      "illegal",
+      "colombian",
+      "gold",
+      "mine",
+      "collapse",
+      "14",
+      "collapses",
+      "colombia"
+    ],
+    "SentAt": "2026-10-20T08:41:48.4473694+00:00"
   }
 ]

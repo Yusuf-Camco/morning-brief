@@ -1,152 +1,6 @@
 [
   {
     "Tokens": [
-      "breaking",
-      "bad",
-      "actor",
-      "rj",
-      "mitte",
-      "dies",
-      "aged",
-      "34",
-      "best",
-      "known",
-      "disability",
-      "activist"
-    ],
-    "SentAt": "2026-10-13T10:47:01.8376207+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "leo",
-      "cancels",
-      "all",
-      "public",
-      "events",
-      "ahead",
-      "lung",
-      "surgery",
-      "go",
-      "hospital",
-      "tuesday",
-      "nodule",
-      "admitted",
-      "announces",
-      "rare",
-      "move",
-      "pontiff",
-      "xiv"
-    ],
-    "SentAt": "2026-10-13T10:47:01.83769+00:00"
-  },
-  {
-    "Tokens": [
-      "immigration",
-      "agents",
-      "search",
-      "congresswoman",
-      "ilhan",
-      "omar",
-      "home",
-      "us",
-      "authorities",
-      "raid",
-      "democratic",
-      "trump",
-      "critic"
-    ],
-    "SentAt": "2026-10-13T10:47:01.8377102+00:00"
-  },
-  {
-    "Tokens": [
-      "one",
-      "dead",
-      "several",
-      "hurt",
-      "rollercoaster",
-      "incident",
-      "six",
-      "flags",
-      "killed",
-      "injured",
-      "georgia"
-    ],
-    "SentAt": "2026-10-13T10:47:01.8377485+00:00"
-  },
-  {
-    "Tokens": [
-      "activist",
-      "greta",
-      "thunberg",
-      "joins",
-      "french",
-      "student",
-      "protests",
-      "live",
-      "ahead",
-      "nationwide",
-      "rallies",
-      "students",
-      "day"
-    ],
-    "SentAt": "2026-10-13T10:47:01.8377685+00:00"
-  },
-  {
-    "Tokens": [
-      "hurricane",
-      "simon",
-      "hitting",
-      "western",
-      "mexico",
-      "tropical",
-      "systems",
-      "kill",
-      "storm",
-      "rachel",
-      "five",
-      "people",
-      "pacific",
-      "coast"
-    ],
-    "SentAt": "2026-10-13T10:47:01.8377822+00:00"
-  },
-  {
-    "Tokens": [
-      "ship",
-      "sinks",
-      "drone",
-      "attack",
-      "off",
-      "bulgaria",
-      "pm",
-      "summons",
-      "russian",
-      "ambassador",
-      "black",
-      "sea",
-      "coast"
-    ],
-    "SentAt": "2026-10-13T10:47:01.8377943+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "diesel",
-      "deal",
-      "putin",
-      "angers",
-      "europe",
-      "recoil",
-      "russian",
-      "faces",
-      "crisis",
-      "ukraine"
-    ],
-    "SentAt": "2026-10-13T10:47:01.8378048+00:00"
-  },
-  {
-    "Tokens": [
       "trump",
       "massive",
       "oil",
@@ -1184,5 +1038,144 @@
       "colombia"
     ],
     "SentAt": "2026-10-20T08:41:48.4473694+00:00"
+  },
+  {
+    "Tokens": [
+      "uganda",
+      "reacts",
+      "angrily",
+      "nigeria",
+      "confirms",
+      "first",
+      "ebola",
+      "case",
+      "outbreak",
+      "spreads",
+      "western",
+      "africa",
+      "abuja",
+      "woman",
+      "arriving",
+      "tests",
+      "positive",
+      "announces",
+      "current",
+      "records",
+      "across",
+      "no",
+      "active",
+      "cases",
+      "infection",
+      "12",
+      "years",
+      "fresh"
+    ],
+    "SentAt": "2026-10-21T08:42:33.9694839+00:00"
+  },
+  {
+    "Tokens": [
+      "zelensky",
+      "intelligence",
+      "sharing",
+      "works",
+      "now",
+      "us",
+      "envoy",
+      "meet",
+      "putin",
+      "russia",
+      "witkoff",
+      "positive",
+      "talks"
+    ],
+    "SentAt": "2026-10-21T08:42:33.9696185+00:00"
+  },
+  {
+    "Tokens": [
+      "faan",
+      "steps",
+      "up",
+      "airport",
+      "surveillance",
+      "nigeria",
+      "confirms",
+      "ebola",
+      "case",
+      "abuja",
+      "ogun",
+      "fct"
+    ],
+    "SentAt": "2026-10-21T08:42:33.9696368+00:00"
+  },
+  {
+    "Tokens": [
+      "elon",
+      "musk",
+      "confirms",
+      "talks",
+      "merge",
+      "tesla",
+      "spacex",
+      "why",
+      "plotting",
+      "mega",
+      "merger",
+      "exploring",
+      "largest",
+      "history"
+    ],
+    "SentAt": "2026-10-21T08:42:33.9696657+00:00"
+  },
+  {
+    "Tokens": [
+      "drone",
+      "strike",
+      "abyei",
+      "market",
+      "near",
+      "sudan",
+      "south",
+      "border",
+      "kills",
+      "150",
+      "more",
+      "than",
+      "killed",
+      "disputed",
+      "region"
+    ],
+    "SentAt": "2026-10-21T08:42:33.9696859+00:00"
+  },
+  {
+    "Tokens": [
+      "uk",
+      "deploy",
+      "fighter",
+      "jets",
+      "protect",
+      "saudi",
+      "arabia",
+      "houthi",
+      "attacks",
+      "send",
+      "help",
+      "defend"
+    ],
+    "SentAt": "2026-10-21T08:42:33.9697033+00:00"
+  },
+  {
+    "Tokens": [
+      "swimmer",
+      "killed",
+      "shark",
+      "attack",
+      "south",
+      "africa",
+      "65",
+      "off",
+      "east",
+      "coast"
+    ],
+    "SentAt": "2026-10-21T08:42:33.9697149+00:00"
   }
 ]

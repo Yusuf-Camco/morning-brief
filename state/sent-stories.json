@@ -1,315 +1,6 @@
 [
   {
     "Tokens": [
-      "trump",
-      "massive",
-      "oil",
-      "gas",
-      "mineral",
-      "exploration",
-      "will",
-      "begin",
-      "greenland",
-      "getting",
-      "ready"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7565636+00:00"
-  },
-  {
-    "Tokens": [
-      "japanese",
-      "journalist",
-      "arrested",
-      "russia",
-      "suspicion",
-      "spying",
-      "arrests",
-      "charges",
-      "allegations",
-      "detains",
-      "alleged",
-      "espionage"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7567019+00:00"
-  },
-  {
-    "Tokens": [
-      "russian",
-      "strikes",
-      "leave",
-      "600",
-      "000",
-      "without",
-      "power",
-      "ukraine",
-      "zelensky",
-      "attacks",
-      "zelenskyy",
-      "moscow",
-      "disrespecting",
-      "us",
-      "europe",
-      "live",
-      "russia",
-      "targeted",
-      "energy"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7568097+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "leo",
-      "diagnosed",
-      "lung",
-      "cancer",
-      "undergoing",
-      "surgery",
-      "details",
-      "xiv",
-      "diagnosis",
-      "nodule",
-      "completed",
-      "successfully",
-      "vatican",
-      "set",
-      "has",
-      "draws",
-      "outpouring",
-      "world",
-      "leaders",
-      "what",
-      "we",
-      "know",
-      "about",
-      "cancerous",
-      "went",
-      "well"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7569139+00:00"
-  },
-  {
-    "Tokens": [
-      "germany",
-      "puts",
-      "ukrainian",
-      "trial",
-      "accused",
-      "blowing",
-      "up",
-      "nord",
-      "stream",
-      "pipelines",
-      "ex",
-      "officer",
-      "goes",
-      "blasts",
-      "soldier",
-      "go",
-      "sabotage",
-      "gas"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7569406+00:00"
-  },
-  {
-    "Tokens": [
-      "ex",
-      "gang",
-      "boss",
-      "sentenced",
-      "40",
-      "years",
-      "orchestrating",
-      "tupac",
-      "shakur",
-      "murder",
-      "duane",
-      "keffe",
-      "davis",
-      "life",
-      "former",
-      "leader",
-      "minimum",
-      "killing"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7569719+00:00"
-  },
-  {
-    "Tokens": [
-      "ex",
-      "drc",
-      "president",
-      "kabila",
-      "alliance",
-      "m23",
-      "rebels",
-      "why",
-      "matters",
-      "congo",
-      "kinshasa",
-      "dr",
-      "lead",
-      "politico",
-      "military"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7569963+00:00"
-  },
-  {
-    "Tokens": [
-      "special",
-      "report",
-      "insecurity",
-      "exposes",
-      "zamfara",
-      "communities",
-      "recurring",
-      "cholera",
-      "outbreaks",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-14T08:51:09.7570318+00:00"
-  },
-  {
-    "Tokens": [
-      "kenya",
-      "confirms",
-      "second",
-      "ebola",
-      "case",
-      "relative",
-      "first",
-      "victim",
-      "reports"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1966143+00:00"
-  },
-  {
-    "Tokens": [
-      "school",
-      "roof",
-      "collapse",
-      "kills",
-      "least",
-      "29",
-      "injures",
-      "more",
-      "than",
-      "dozen",
-      "pakistan",
-      "dozens",
-      "pupils",
-      "teacher",
-      "peshawar"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1967373+00:00"
-  },
-  {
-    "Tokens": [
-      "least",
-      "28",
-      "children",
-      "killed",
-      "pakistan",
-      "school",
-      "collapse",
-      "20",
-      "dead",
-      "roof",
-      "collapses"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1967914+00:00"
-  },
-  {
-    "Tokens": [
-      "2027",
-      "tinubu",
-      "skip",
-      "some",
-      "apc",
-      "campaign",
-      "rallies",
-      "cites",
-      "governance",
-      "demands",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1968124+00:00"
-  },
-  {
-    "Tokens": [
-      "musk",
-      "us",
-      "government",
-      "may",
-      "behind",
-      "slowdown",
-      "ukraine",
-      "drone",
-      "speeds",
-      "elon",
-      "suggests",
-      "starlink",
-      "restrictions",
-      "europe",
-      "live"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1968867+00:00"
-  },
-  {
-    "Tokens": [
-      "11th",
-      "senate",
-      "race",
-      "akpabio",
-      "courts",
-      "tinubu",
-      "warns",
-      "uzodimma",
-      "ambition",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1969071+00:00"
-  },
-  {
-    "Tokens": [
-      "north",
-      "korea",
-      "tests",
-      "two",
-      "submarine",
-      "launched",
-      "missiles",
-      "state",
-      "media",
-      "reports",
-      "test",
-      "fires",
-      "cruise",
-      "rising",
-      "tensions"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1969247+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "chicagoans",
-      "show",
-      "outpouring",
-      "support",
-      "pope",
-      "leo",
-      "cancer",
-      "diagnosis",
-      "surgery",
-      "draws",
-      "world",
-      "leaders"
-    ],
-    "SentAt": "2026-10-15T08:26:27.1969377+00:00"
-  },
-  {
-    "Tokens": [
       "houthi",
       "missile",
       "attack",
@@ -1177,5 +868,136 @@
       "coast"
     ],
     "SentAt": "2026-10-21T08:42:33.9697149+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "leo",
+      "doctors",
+      "say",
+      "tests",
+      "show",
+      "he",
+      "needs",
+      "no",
+      "further",
+      "treatment",
+      "lung",
+      "cancer",
+      "won",
+      "need",
+      "more",
+      "surgery",
+      "xiv",
+      "vatican"
+    ],
+    "SentAt": "2026-10-22T08:44:56.6176211+00:00"
+  },
+  {
+    "Tokens": [
+      "north",
+      "korea",
+      "resume",
+      "propaganda",
+      "broadcasts",
+      "south",
+      "urges",
+      "dialogue",
+      "prepares",
+      "restart",
+      "loudspeakers",
+      "ties",
+      "sour",
+      "will",
+      "across",
+      "border"
+    ],
+    "SentAt": "2026-10-22T08:44:56.6177178+00:00"
+  },
+  {
+    "Tokens": [
+      "son",
+      "stephen",
+      "hubbard",
+      "american",
+      "freed",
+      "russian",
+      "jail",
+      "speaks",
+      "out",
+      "putin",
+      "releases",
+      "prison",
+      "who",
+      "james",
+      "released"
+    ],
+    "SentAt": "2026-10-22T08:44:56.6177531+00:00"
+  },
+  {
+    "Tokens": [
+      "ukraine",
+      "access",
+      "starlink",
+      "decision",
+      "elon",
+      "musk",
+      "rubio",
+      "starshield",
+      "what",
+      "they",
+      "mean"
+    ],
+    "SentAt": "2026-10-22T08:44:56.6177701+00:00"
+  },
+  {
+    "Tokens": [
+      "el",
+      "salvador",
+      "bukele",
+      "threatens",
+      "haitian",
+      "gangs",
+      "abducted",
+      "soldiers",
+      "president",
+      "issues",
+      "harsh",
+      "warning"
+    ],
+    "SentAt": "2026-10-22T08:44:56.6177893+00:00"
+  },
+  {
+    "Tokens": [
+      "russia",
+      "frees",
+      "american",
+      "stephen",
+      "hubbard",
+      "years",
+      "behind",
+      "bars",
+      "released",
+      "trump",
+      "confirms",
+      "prison"
+    ],
+    "SentAt": "2026-10-22T08:44:56.6178111+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "orders",
+      "some",
+      "diplomats",
+      "leave",
+      "saudi",
+      "arabia",
+      "houthi",
+      "attacks",
+      "escalate",
+      "told"
+    ],
+    "SentAt": "2026-10-22T08:44:56.6178223+00:00"
   }
 ]

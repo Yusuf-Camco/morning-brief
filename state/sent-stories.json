@@ -1,156 +1,6 @@
 [
   {
     "Tokens": [
-      "palestinians",
-      "us",
-      "journalist",
-      "injured",
-      "israeli",
-      "settlers",
-      "west",
-      "bank",
-      "harvest",
-      "attack",
-      "during",
-      "olive",
-      "american",
-      "clashes",
-      "farmers",
-      "washington",
-      "post",
-      "beat",
-      "photojournalist",
-      "attacks",
-      "settler"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6803416+00:00"
-  },
-  {
-    "Tokens": [
-      "three",
-      "men",
-      "jailed",
-      "158",
-      "years",
-      "each",
-      "murdering",
-      "australian",
-      "us",
-      "surfers",
-      "mexico",
-      "mexicans",
-      "killing",
-      "mexican",
-      "judge",
-      "sentences",
-      "prison",
-      "murders"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6805032+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "waives",
-      "several",
-      "russia",
-      "sanctions",
-      "row",
-      "zelensky",
-      "intensifies",
-      "rift",
-      "zelenskyy",
-      "widens"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6805206+00:00"
-  },
-  {
-    "Tokens": [
-      "albania",
-      "pm",
-      "blames",
-      "foreign",
-      "hands",
-      "protests",
-      "albanian",
-      "unrest",
-      "student",
-      "intensify",
-      "clashes",
-      "grip",
-      "tirana",
-      "mounting"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6805385+00:00"
-  },
-  {
-    "Tokens": [
-      "brazil",
-      "sees",
-      "record",
-      "fall",
-      "amazon",
-      "deforestation",
-      "key",
-      "election",
-      "looms",
-      "hits",
-      "lowest",
-      "level"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6805543+00:00"
-  },
-  {
-    "Tokens": [
-      "oregon",
-      "school",
-      "shooter",
-      "former",
-      "special",
-      "needs",
-      "student",
-      "police",
-      "say",
-      "fatal",
-      "bend",
-      "shooting",
-      "there"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6805737+00:00"
-  },
-  {
-    "Tokens": [
-      "kenya",
-      "confirms",
-      "third",
-      "ebola",
-      "case",
-      "records",
-      "continues",
-      "contact",
-      "tracing"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6805818+00:00"
-  },
-  {
-    "Tokens": [
-      "what",
-      "pope",
-      "putin",
-      "call",
-      "days",
-      "lung",
-      "cancer",
-      "surgery",
-      "leo",
-      "recovering",
-      "vatican",
-      "know"
-    ],
-    "SentAt": "2026-10-17T07:54:44.6805979+00:00"
-  },
-  {
-    "Tokens": [
       "israeli",
       "settlers",
       "attack",
@@ -992,5 +842,165 @@
       "eu"
     ],
     "SentAt": "2026-10-23T08:40:30.8070251+00:00"
+  },
+  {
+    "Tokens": [
+      "suspect",
+      "arrested",
+      "fire",
+      "hitler",
+      "eagle",
+      "nest",
+      "retreat",
+      "arrest",
+      "made",
+      "famed",
+      "man",
+      "breaks",
+      "out",
+      "former",
+      "alpine",
+      "one",
+      "mountain",
+      "blaze",
+      "engulfs",
+      "bavaria"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4485453+00:00"
+  },
+  {
+    "Tokens": [
+      "deadly",
+      "shooting",
+      "near",
+      "paris",
+      "racist",
+      "terrorist",
+      "attack",
+      "macron",
+      "condemns",
+      "racism",
+      "one",
+      "killed",
+      "live",
+      "france",
+      "arrives",
+      "trappes",
+      "west",
+      "clearly",
+      "french",
+      "interior",
+      "minister"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4486467+00:00"
+  },
+  {
+    "Tokens": [
+      "seven",
+      "dead",
+      "34",
+      "injured",
+      "shooting",
+      "church",
+      "jordan",
+      "shot",
+      "gunmen",
+      "funeral",
+      "officials",
+      "say",
+      "killed",
+      "40",
+      "open",
+      "fire"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4486642+00:00"
+  },
+  {
+    "Tokens": [
+      "paris",
+      "museums",
+      "close",
+      "shops",
+      "build",
+      "barricades",
+      "ahead",
+      "more",
+      "protests",
+      "french",
+      "police",
+      "deploy",
+      "large",
+      "numbers",
+      "major"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4486746+00:00"
+  },
+  {
+    "Tokens": [
+      "pentagon",
+      "designates",
+      "confucius",
+      "institutes",
+      "national",
+      "security",
+      "threat",
+      "china",
+      "backed",
+      "campus",
+      "cultural",
+      "centers",
+      "us"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4486873+00:00"
+  },
+  {
+    "Tokens": [
+      "australian",
+      "mp",
+      "condition",
+      "improves",
+      "alleged",
+      "car",
+      "attack",
+      "helen",
+      "haines",
+      "days",
+      "losing",
+      "both",
+      "legs"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4486954+00:00"
+  },
+  {
+    "Tokens": [
+      "argentina",
+      "drops",
+      "investigation",
+      "president",
+      "milei",
+      "crypto",
+      "fraud",
+      "argentinian",
+      "judge",
+      "scandal"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4487053+00:00"
+  },
+  {
+    "Tokens": [
+      "gunmen",
+      "kill",
+      "least",
+      "attack",
+      "jordan",
+      "church",
+      "authorities",
+      "say",
+      "open",
+      "fire",
+      "killing",
+      "seven"
+    ],
+    "SentAt": "2026-10-24T08:15:49.4487134+00:00"
   }
 ]

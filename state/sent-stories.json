@@ -1,161 +1,6 @@
 [
   {
     "Tokens": [
-      "france",
-      "macron",
-      "declines",
-      "minister",
-      "resignation",
-      "violent",
-      "protests",
-      "live",
-      "admits",
-      "failures",
-      "days",
-      "unrest",
-      "refuses",
-      "huge",
-      "rock",
-      "europe",
-      "watch",
-      "address",
-      "day",
-      "nationwide"
-    ],
-    "SentAt": "2026-10-19T09:04:49.7370962+00:00"
-  },
-  {
-    "Tokens": [
-      "funding",
-      "shortages",
-      "force",
-      "world",
-      "food",
-      "programme",
-      "cut",
-      "aid",
-      "gaza",
-      "life",
-      "absolutely",
-      "brutal",
-      "head",
-      "end",
-      "half",
-      "million",
-      "due",
-      "shortfall"
-    ],
-    "SentAt": "2026-10-19T09:04:49.7372046+00:00"
-  },
-  {
-    "Tokens": [
-      "flight",
-      "tel",
-      "aviv",
-      "vienna",
-      "makes",
-      "emergency",
-      "landing",
-      "bomb",
-      "threat",
-      "forces",
-      "israel",
-      "austria",
-      "bulgaria"
-    ],
-    "SentAt": "2026-10-19T09:04:49.7372318+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "addresses",
-      "faithful",
-      "cancer",
-      "surgery",
-      "leo",
-      "he",
-      "will",
-      "resume",
-      "activities",
-      "day",
-      "leaving",
-      "hospital",
-      "leaves",
-      "days",
-      "lung"
-    ],
-    "SentAt": "2026-10-19T09:04:49.7372683+00:00"
-  },
-  {
-    "Tokens": [
-      "anthropic",
-      "will",
-      "commit",
-      "shares",
-      "public",
-      "benefit",
-      "fund",
-      "ai",
-      "giant",
-      "commits"
-    ],
-    "SentAt": "2026-10-19T09:04:49.7372929+00:00"
-  },
-  {
-    "Tokens": [
-      "mali",
-      "military",
-      "armed",
-      "groups",
-      "committing",
-      "abuses",
-      "against",
-      "civilians",
-      "hrw",
-      "attacks",
-      "insurgent"
-    ],
-    "SentAt": "2026-10-19T09:04:49.7373058+00:00"
-  },
-  {
-    "Tokens": [
-      "dangote",
-      "foundation",
-      "gift",
-      "refinery",
-      "shares",
-      "778",
-      "000",
-      "women",
-      "15",
-      "states",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-19T09:04:49.737324+00:00"
-  },
-  {
-    "Tokens": [
-      "arrests",
-      "israeli",
-      "settler",
-      "attacks",
-      "us",
-      "photojournalist",
-      "european",
-      "diplomats",
-      "west",
-      "bank",
-      "ambassador",
-      "israel",
-      "calls",
-      "attack",
-      "american",
-      "terror"
-    ],
-    "SentAt": "2026-10-19T09:04:49.7373445+00:00"
-  },
-  {
-    "Tokens": [
       "alberta",
       "voters",
       "reject",
@@ -981,5 +826,152 @@
       "say"
     ],
     "SentAt": "2026-10-25T08:33:36.2130431+00:00"
+  },
+  {
+    "Tokens": [
+      "lula",
+      "wins",
+      "4th",
+      "term",
+      "brazil",
+      "president",
+      "bolsonaro",
+      "rejects",
+      "results",
+      "historic",
+      "fourth",
+      "brazilian",
+      "defeat",
+      "far",
+      "right",
+      "fl\u00E1vio",
+      "left",
+      "wing",
+      "elected",
+      "re",
+      "election",
+      "result",
+      "da",
+      "silva"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6549883+00:00"
+  },
+  {
+    "Tokens": [
+      "venezuelan",
+      "opposition",
+      "leader",
+      "mar\u00EDa",
+      "machado",
+      "returns",
+      "months",
+      "exile",
+      "venezuela",
+      "corina",
+      "country",
+      "10"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6551205+00:00"
+  },
+  {
+    "Tokens": [
+      "rapper",
+      "nicki",
+      "minaj",
+      "joins",
+      "trump",
+      "onstage",
+      "michigan",
+      "rally",
+      "makes",
+      "explicit",
+      "remarks",
+      "about",
+      "midterm",
+      "rallies",
+      "mike",
+      "rogers",
+      "derriere"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6551497+00:00"
+  },
+  {
+    "Tokens": [
+      "uganda",
+      "imposes",
+      "21",
+      "day",
+      "quarantine",
+      "citizens",
+      "returning",
+      "dr",
+      "congo",
+      "kenya",
+      "orders",
+      "drc",
+      "ebola",
+      "concerns"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6551682+00:00"
+  },
+  {
+    "Tokens": [
+      "jordan",
+      "arrests",
+      "three",
+      "suspects",
+      "deadly",
+      "church",
+      "attack",
+      "arrested",
+      "greek",
+      "orthodox"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6551809+00:00"
+  },
+  {
+    "Tokens": [
+      "why",
+      "brazil",
+      "presidential",
+      "election",
+      "result",
+      "such",
+      "surprise",
+      "bolsonaro",
+      "calls",
+      "annulled"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6551952+00:00"
+  },
+  {
+    "Tokens": [
+      "nigerian",
+      "govt",
+      "disburses",
+      "n38",
+      "93",
+      "billion",
+      "166",
+      "tertiary",
+      "institutions",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6552074+00:00"
+  },
+  {
+    "Tokens": [
+      "aleksandar",
+      "vucic",
+      "serbian",
+      "leader",
+      "brought",
+      "down",
+      "students",
+      "concedes",
+      "defeat",
+      "election"
+    ],
+    "SentAt": "2026-10-26T09:07:35.6552221+00:00"
   }
 ]

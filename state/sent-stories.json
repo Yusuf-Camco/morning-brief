@@ -1,145 +1,6 @@
 [
   {
     "Tokens": [
-      "uganda",
-      "reacts",
-      "angrily",
-      "nigeria",
-      "confirms",
-      "first",
-      "ebola",
-      "case",
-      "outbreak",
-      "spreads",
-      "western",
-      "africa",
-      "abuja",
-      "woman",
-      "arriving",
-      "tests",
-      "positive",
-      "announces",
-      "current",
-      "records",
-      "across",
-      "no",
-      "active",
-      "cases",
-      "infection",
-      "12",
-      "years",
-      "fresh"
-    ],
-    "SentAt": "2026-10-21T08:42:33.9694839+00:00"
-  },
-  {
-    "Tokens": [
-      "zelensky",
-      "intelligence",
-      "sharing",
-      "works",
-      "now",
-      "us",
-      "envoy",
-      "meet",
-      "putin",
-      "russia",
-      "witkoff",
-      "positive",
-      "talks"
-    ],
-    "SentAt": "2026-10-21T08:42:33.9696185+00:00"
-  },
-  {
-    "Tokens": [
-      "faan",
-      "steps",
-      "up",
-      "airport",
-      "surveillance",
-      "nigeria",
-      "confirms",
-      "ebola",
-      "case",
-      "abuja",
-      "ogun",
-      "fct"
-    ],
-    "SentAt": "2026-10-21T08:42:33.9696368+00:00"
-  },
-  {
-    "Tokens": [
-      "elon",
-      "musk",
-      "confirms",
-      "talks",
-      "merge",
-      "tesla",
-      "spacex",
-      "why",
-      "plotting",
-      "mega",
-      "merger",
-      "exploring",
-      "largest",
-      "history"
-    ],
-    "SentAt": "2026-10-21T08:42:33.9696657+00:00"
-  },
-  {
-    "Tokens": [
-      "drone",
-      "strike",
-      "abyei",
-      "market",
-      "near",
-      "sudan",
-      "south",
-      "border",
-      "kills",
-      "150",
-      "more",
-      "than",
-      "killed",
-      "disputed",
-      "region"
-    ],
-    "SentAt": "2026-10-21T08:42:33.9696859+00:00"
-  },
-  {
-    "Tokens": [
-      "uk",
-      "deploy",
-      "fighter",
-      "jets",
-      "protect",
-      "saudi",
-      "arabia",
-      "houthi",
-      "attacks",
-      "send",
-      "help",
-      "defend"
-    ],
-    "SentAt": "2026-10-21T08:42:33.9697033+00:00"
-  },
-  {
-    "Tokens": [
-      "swimmer",
-      "killed",
-      "shark",
-      "attack",
-      "south",
-      "africa",
-      "65",
-      "off",
-      "east",
-      "coast"
-    ],
-    "SentAt": "2026-10-21T08:42:33.9697149+00:00"
-  },
-  {
-    "Tokens": [
       "pope",
       "leo",
       "doctors",
@@ -948,5 +809,163 @@
       "cataclysm"
     ],
     "SentAt": "2026-10-27T09:09:36.5437265+00:00"
+  },
+  {
+    "Tokens": [
+      "no",
+      "clear",
+      "winner",
+      "israeli",
+      "election",
+      "polls",
+      "suggest",
+      "stalemate",
+      "israel",
+      "results",
+      "live",
+      "vote",
+      "count",
+      "continues",
+      "exit",
+      "voting",
+      "ends",
+      "strong",
+      "turnout",
+      "there"
+    ],
+    "SentAt": "2026-10-28T09:50:18.3018145+00:00"
+  },
+  {
+    "Tokens": [
+      "flavio",
+      "bolsonaro",
+      "flies",
+      "argentina",
+      "brazil",
+      "election",
+      "defeat",
+      "fl\u00E1vio",
+      "heading",
+      "ecuador",
+      "party",
+      "accepts",
+      "he",
+      "refuses",
+      "concede",
+      "leaves"
+    ],
+    "SentAt": "2026-10-28T09:50:18.3019323+00:00"
+  },
+  {
+    "Tokens": [
+      "least",
+      "10",
+      "dead",
+      "two",
+      "trains",
+      "crash",
+      "spain",
+      "authorities",
+      "say",
+      "train",
+      "feared",
+      "collision",
+      "toledo",
+      "province"
+    ],
+    "SentAt": "2026-10-28T09:50:18.3019527+00:00"
+  },
+  {
+    "Tokens": [
+      "injuries",
+      "reported",
+      "two",
+      "trains",
+      "collide",
+      "spain",
+      "high",
+      "speed",
+      "halting",
+      "traffic",
+      "madrid",
+      "andalusia",
+      "line"
+    ],
+    "SentAt": "2026-10-28T09:50:18.3019703+00:00"
+  },
+  {
+    "Tokens": [
+      "luxury",
+      "cruise",
+      "passengers",
+      "stranded",
+      "cambodia",
+      "due",
+      "soaring",
+      "fuel",
+      "costs",
+      "ship",
+      "ends",
+      "voyage",
+      "lose",
+      "their",
+      "homes"
+    ],
+    "SentAt": "2026-10-28T09:50:18.3019872+00:00"
+  },
+  {
+    "Tokens": [
+      "senator",
+      "questions",
+      "tinubu",
+      "fresh",
+      "loan",
+      "request",
+      "use",
+      "previous",
+      "borrowings",
+      "nigeria"
+    ],
+    "SentAt": "2026-10-28T09:50:18.30202+00:00"
+  },
+  {
+    "Tokens": [
+      "king",
+      "charles",
+      "faces",
+      "high",
+      "stakes",
+      "test",
+      "caribbean",
+      "tour",
+      "confronts",
+      "calls",
+      "slavery",
+      "apology",
+      "during"
+    ],
+    "SentAt": "2026-10-28T09:50:18.3020318+00:00"
+  },
+  {
+    "Tokens": [
+      "israel",
+      "election",
+      "too",
+      "close",
+      "call",
+      "exit",
+      "polls",
+      "give",
+      "netanyahu",
+      "bloc",
+      "slightly",
+      "fewer",
+      "seats",
+      "parliamentary",
+      "seeks",
+      "another",
+      "term"
+    ],
+    "SentAt": "2026-10-28T09:50:18.3020529+00:00"
   }
 ]

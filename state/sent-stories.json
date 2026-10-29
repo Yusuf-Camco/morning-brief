@@ -1,137 +1,6 @@
 [
   {
     "Tokens": [
-      "pope",
-      "leo",
-      "doctors",
-      "say",
-      "tests",
-      "show",
-      "he",
-      "needs",
-      "no",
-      "further",
-      "treatment",
-      "lung",
-      "cancer",
-      "won",
-      "need",
-      "more",
-      "surgery",
-      "xiv",
-      "vatican"
-    ],
-    "SentAt": "2026-10-22T08:44:56.6176211+00:00"
-  },
-  {
-    "Tokens": [
-      "north",
-      "korea",
-      "resume",
-      "propaganda",
-      "broadcasts",
-      "south",
-      "urges",
-      "dialogue",
-      "prepares",
-      "restart",
-      "loudspeakers",
-      "ties",
-      "sour",
-      "will",
-      "across",
-      "border"
-    ],
-    "SentAt": "2026-10-22T08:44:56.6177178+00:00"
-  },
-  {
-    "Tokens": [
-      "son",
-      "stephen",
-      "hubbard",
-      "american",
-      "freed",
-      "russian",
-      "jail",
-      "speaks",
-      "out",
-      "putin",
-      "releases",
-      "prison",
-      "who",
-      "james",
-      "released"
-    ],
-    "SentAt": "2026-10-22T08:44:56.6177531+00:00"
-  },
-  {
-    "Tokens": [
-      "ukraine",
-      "access",
-      "starlink",
-      "decision",
-      "elon",
-      "musk",
-      "rubio",
-      "starshield",
-      "what",
-      "they",
-      "mean"
-    ],
-    "SentAt": "2026-10-22T08:44:56.6177701+00:00"
-  },
-  {
-    "Tokens": [
-      "el",
-      "salvador",
-      "bukele",
-      "threatens",
-      "haitian",
-      "gangs",
-      "abducted",
-      "soldiers",
-      "president",
-      "issues",
-      "harsh",
-      "warning"
-    ],
-    "SentAt": "2026-10-22T08:44:56.6177893+00:00"
-  },
-  {
-    "Tokens": [
-      "russia",
-      "frees",
-      "american",
-      "stephen",
-      "hubbard",
-      "years",
-      "behind",
-      "bars",
-      "released",
-      "trump",
-      "confirms",
-      "prison"
-    ],
-    "SentAt": "2026-10-22T08:44:56.6178111+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "orders",
-      "some",
-      "diplomats",
-      "leave",
-      "saudi",
-      "arabia",
-      "houthi",
-      "attacks",
-      "escalate",
-      "told"
-    ],
-    "SentAt": "2026-10-22T08:44:56.6178223+00:00"
-  },
-  {
-    "Tokens": [
       "powerful",
       "earthquake",
       "hits",
@@ -967,5 +836,170 @@
       "term"
     ],
     "SentAt": "2026-10-28T09:50:18.3020529+00:00"
+  },
+  {
+    "Tokens": [
+      "watch",
+      "scene",
+      "spain",
+      "deadly",
+      "train",
+      "crash",
+      "what",
+      "we",
+      "know",
+      "so",
+      "far",
+      "about",
+      "reckons",
+      "2nd",
+      "year",
+      "ahead",
+      "national",
+      "election",
+      "kills",
+      "least",
+      "68",
+      "desolation",
+      "despair",
+      "begins",
+      "three",
+      "days",
+      "mourning"
+    ],
+    "SentAt": "2026-10-29T10:10:52.924794+00:00"
+  },
+  {
+    "Tokens": [
+      "fl\u00E1vio",
+      "bolsonaro",
+      "denies",
+      "fleeing",
+      "brazil",
+      "landing",
+      "miami",
+      "calls",
+      "himself",
+      "leader",
+      "leaves",
+      "election",
+      "defeat"
+    ],
+    "SentAt": "2026-10-29T10:10:52.925048+00:00"
+  },
+  {
+    "Tokens": [
+      "high",
+      "speed",
+      "train",
+      "crash",
+      "spain",
+      "kills",
+      "least",
+      "68",
+      "dozens",
+      "injured",
+      "death",
+      "toll",
+      "rises",
+      "collision",
+      "happened",
+      "injures",
+      "100"
+    ],
+    "SentAt": "2026-10-29T10:10:52.9250827+00:00"
+  },
+  {
+    "Tokens": [
+      "defiant",
+      "bolsonaro",
+      "breaks",
+      "silence",
+      "fleeing",
+      "brazil",
+      "us",
+      "fl\u00E1vio",
+      "lands",
+      "miami",
+      "flavio",
+      "claims",
+      "he",
+      "true",
+      "leader",
+      "flees",
+      "election",
+      "defeat"
+    ],
+    "SentAt": "2026-10-29T10:10:52.9251116+00:00"
+  },
+  {
+    "Tokens": [
+      "north",
+      "korea",
+      "fires",
+      "ballistic",
+      "missiles",
+      "off",
+      "east",
+      "coast",
+      "tensions",
+      "south",
+      "rise",
+      "around",
+      "dozen",
+      "rising"
+    ],
+    "SentAt": "2026-10-29T10:10:52.9251288+00:00"
+  },
+  {
+    "Tokens": [
+      "hello",
+      "kitty",
+      "maker",
+      "cuts",
+      "ties",
+      "japanese",
+      "spy",
+      "drama",
+      "china",
+      "backlash",
+      "company",
+      "show",
+      "outcry"
+    ],
+    "SentAt": "2026-10-29T10:10:52.9251383+00:00"
+  },
+  {
+    "Tokens": [
+      "nigeria",
+      "other",
+      "countries",
+      "demand",
+      "end",
+      "us",
+      "blockade",
+      "cuba"
+    ],
+    "SentAt": "2026-10-29T10:10:52.9251531+00:00"
+  },
+  {
+    "Tokens": [
+      "el",
+      "salvador",
+      "sends",
+      "000",
+      "troops",
+      "haiti",
+      "rescue",
+      "four",
+      "missing",
+      "soldiers",
+      "pledges",
+      "more",
+      "than",
+      "delays",
+      "elections"
+    ],
+    "SentAt": "2026-10-29T10:10:52.9251844+00:00"
   }
 ]

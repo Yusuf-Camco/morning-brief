@@ -1,166 +1,6 @@
 [
   {
     "Tokens": [
-      "suspect",
-      "arrested",
-      "fire",
-      "hitler",
-      "eagle",
-      "nest",
-      "retreat",
-      "arrest",
-      "made",
-      "famed",
-      "man",
-      "breaks",
-      "out",
-      "former",
-      "alpine",
-      "one",
-      "mountain",
-      "blaze",
-      "engulfs",
-      "bavaria"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4485453+00:00"
-  },
-  {
-    "Tokens": [
-      "deadly",
-      "shooting",
-      "near",
-      "paris",
-      "racist",
-      "terrorist",
-      "attack",
-      "macron",
-      "condemns",
-      "racism",
-      "one",
-      "killed",
-      "live",
-      "france",
-      "arrives",
-      "trappes",
-      "west",
-      "clearly",
-      "french",
-      "interior",
-      "minister"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4486467+00:00"
-  },
-  {
-    "Tokens": [
-      "seven",
-      "dead",
-      "34",
-      "injured",
-      "shooting",
-      "church",
-      "jordan",
-      "shot",
-      "gunmen",
-      "funeral",
-      "officials",
-      "say",
-      "killed",
-      "40",
-      "open",
-      "fire"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4486642+00:00"
-  },
-  {
-    "Tokens": [
-      "paris",
-      "museums",
-      "close",
-      "shops",
-      "build",
-      "barricades",
-      "ahead",
-      "more",
-      "protests",
-      "french",
-      "police",
-      "deploy",
-      "large",
-      "numbers",
-      "major"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4486746+00:00"
-  },
-  {
-    "Tokens": [
-      "pentagon",
-      "designates",
-      "confucius",
-      "institutes",
-      "national",
-      "security",
-      "threat",
-      "china",
-      "backed",
-      "campus",
-      "cultural",
-      "centers",
-      "us"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4486873+00:00"
-  },
-  {
-    "Tokens": [
-      "australian",
-      "mp",
-      "condition",
-      "improves",
-      "alleged",
-      "car",
-      "attack",
-      "helen",
-      "haines",
-      "days",
-      "losing",
-      "both",
-      "legs"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4486954+00:00"
-  },
-  {
-    "Tokens": [
-      "argentina",
-      "drops",
-      "investigation",
-      "president",
-      "milei",
-      "crypto",
-      "fraud",
-      "argentinian",
-      "judge",
-      "scandal"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4487053+00:00"
-  },
-  {
-    "Tokens": [
-      "gunmen",
-      "kill",
-      "least",
-      "attack",
-      "jordan",
-      "church",
-      "authorities",
-      "say",
-      "open",
-      "fire",
-      "killing",
-      "seven"
-    ],
-    "SentAt": "2026-10-24T08:15:49.4487134+00:00"
-  },
-  {
-    "Tokens": [
       "israel",
       "close",
       "west",
@@ -1023,5 +863,112 @@
       "deliberately"
     ],
     "SentAt": "2026-10-30T10:12:58.3053844+00:00"
+  },
+  {
+    "Tokens": [
+      "hundreds",
+      "evacuated",
+      "russian",
+      "occupied",
+      "oleshky",
+      "during",
+      "rare",
+      "ukraine",
+      "ceasefire",
+      "how",
+      "has",
+      "unfolding",
+      "melania",
+      "brokered",
+      "town",
+      "war",
+      "evacuations",
+      "under",
+      "way"
+    ],
+    "SentAt": "2026-10-31T09:48:16.7433849+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "approves",
+      "sale",
+      "500",
+      "patriot",
+      "missiles",
+      "ukraine",
+      "greenlights",
+      "1bn",
+      "missile"
+    ],
+    "SentAt": "2026-10-31T09:48:16.7434818+00:00"
+  },
+  {
+    "Tokens": [
+      "spain",
+      "train",
+      "disaster",
+      "clouds",
+      "s\u00E1nchez",
+      "chances",
+      "re",
+      "election",
+      "blow",
+      "leader",
+      "already",
+      "underdog"
+    ],
+    "SentAt": "2026-10-31T09:48:16.7435033+00:00"
+  },
+  {
+    "Tokens": [
+      "police",
+      "deployed",
+      "during",
+      "stand",
+      "off",
+      "control",
+      "top",
+      "poland",
+      "court",
+      "riot",
+      "constitutional",
+      "judge",
+      "suspended"
+    ],
+    "SentAt": "2026-10-31T09:48:16.7435188+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "inmate",
+      "christa",
+      "pike",
+      "she",
+      "woke",
+      "up",
+      "confused",
+      "pain",
+      "failed",
+      "execution",
+      "survivor",
+      "now",
+      "constant"
+    ],
+    "SentAt": "2026-10-31T09:48:16.743551+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "leo",
+      "xiv",
+      "becomes",
+      "first",
+      "pontiff",
+      "vote",
+      "us",
+      "election"
+    ],
+    "SentAt": "2026-10-31T09:48:16.7435637+00:00"
   }
 ]

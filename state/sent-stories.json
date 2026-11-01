@@ -1,137 +1,6 @@
 [
   {
     "Tokens": [
-      "israel",
-      "close",
-      "west",
-      "bank",
-      "crossings",
-      "election",
-      "day",
-      "crackdown",
-      "escalates",
-      "occupied",
-      "hebron",
-      "lockdown",
-      "continues",
-      "all",
-      "land"
-    ],
-    "SentAt": "2026-10-25T08:33:36.2128852+00:00"
-  },
-  {
-    "Tokens": [
-      "bahamas",
-      "police",
-      "investigate",
-      "british",
-      "woman",
-      "dies",
-      "trying",
-      "rescue",
-      "sons",
-      "swept",
-      "away",
-      "sea",
-      "save",
-      "snorkelling",
-      "trip"
-    ],
-    "SentAt": "2026-10-25T08:33:36.2129726+00:00"
-  },
-  {
-    "Tokens": [
-      "musk",
-      "spacex",
-      "restricted",
-      "ukraine",
-      "starlink",
-      "connection",
-      "service",
-      "restored",
-      "elon",
-      "throttled",
-      "speeds",
-      "drone",
-      "strikes"
-    ],
-    "SentAt": "2026-10-25T08:33:36.2129893+00:00"
-  },
-  {
-    "Tokens": [
-      "kim",
-      "jon",
-      "un",
-      "visits",
-      "china",
-      "open",
-      "bridge",
-      "reaffirm",
-      "ties",
-      "jong",
-      "crosses",
-      "newly",
-      "opened"
-    ],
-    "SentAt": "2026-10-25T08:33:36.213001+00:00"
-  },
-  {
-    "Tokens": [
-      "photos",
-      "clashes",
-      "erupt",
-      "france",
-      "during",
-      "protests",
-      "rising",
-      "living",
-      "costs",
-      "sweep",
-      "across",
-      "cities"
-    ],
-    "SentAt": "2026-10-25T08:33:36.2130155+00:00"
-  },
-  {
-    "Tokens": [
-      "serbia",
-      "votes",
-      "election",
-      "pitting",
-      "longtime",
-      "leader",
-      "against",
-      "student",
-      "movement",
-      "holds",
-      "parliamentary",
-      "populist",
-      "vucic",
-      "faces"
-    ],
-    "SentAt": "2026-10-25T08:33:36.21303+00:00"
-  },
-  {
-    "Tokens": [
-      "gunmen",
-      "kill",
-      "least",
-      "10",
-      "villagers",
-      "loot",
-      "shops",
-      "north",
-      "east",
-      "nigeria",
-      "people",
-      "eastern",
-      "police",
-      "say"
-    ],
-    "SentAt": "2026-10-25T08:33:36.2130431+00:00"
-  },
-  {
-    "Tokens": [
       "lula",
       "wins",
       "4th",
@@ -970,5 +839,107 @@
       "election"
     ],
     "SentAt": "2026-10-31T09:48:16.7435637+00:00"
+  },
+  {
+    "Tokens": [
+      "youth",
+      "olympic",
+      "games",
+      "kick",
+      "off",
+      "dakar",
+      "2026",
+      "nigeria",
+      "joins",
+      "historic",
+      "opening"
+    ],
+    "SentAt": "2026-11-01T10:38:11.1373157+00:00"
+  },
+  {
+    "Tokens": [
+      "crypto",
+      "firm",
+      "binance",
+      "covers",
+      "90",
+      "losses",
+      "3bn",
+      "hack",
+      "covered",
+      "fbi",
+      "north",
+      "korea",
+      "behind",
+      "attack"
+    ],
+    "SentAt": "2026-11-01T10:38:11.1374097+00:00"
+  },
+  {
+    "Tokens": [
+      "india",
+      "opposition",
+      "holds",
+      "mega",
+      "rally",
+      "seeking",
+      "election",
+      "chief",
+      "resignation",
+      "indian",
+      "parties",
+      "stage"
+    ],
+    "SentAt": "2026-11-01T10:38:11.1374798+00:00"
+  },
+  {
+    "Tokens": [
+      "police",
+      "clash",
+      "masked",
+      "rioters",
+      "largely",
+      "peaceful",
+      "protests",
+      "across",
+      "france",
+      "some",
+      "320",
+      "000",
+      "demonstrators",
+      "take",
+      "part"
+    ],
+    "SentAt": "2026-11-01T10:38:11.1374953+00:00"
+  },
+  {
+    "Tokens": [
+      "judge",
+      "dismisses",
+      "trump",
+      "wall",
+      "street",
+      "journal",
+      "lawsuit",
+      "against",
+      "epstein",
+      "birthday",
+      "book"
+    ],
+    "SentAt": "2026-11-01T10:38:11.1375295+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "seethes",
+      "again",
+      "youth",
+      "led",
+      "protests",
+      "sweep",
+      "europe",
+      "rallies"
+    ],
+    "SentAt": "2026-11-01T10:38:11.1375415+00:00"
   }
 ]

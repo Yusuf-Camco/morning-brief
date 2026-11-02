@@ -1,153 +1,6 @@
 [
   {
     "Tokens": [
-      "lula",
-      "wins",
-      "4th",
-      "term",
-      "brazil",
-      "president",
-      "bolsonaro",
-      "rejects",
-      "results",
-      "historic",
-      "fourth",
-      "brazilian",
-      "defeat",
-      "far",
-      "right",
-      "fl\u00E1vio",
-      "left",
-      "wing",
-      "elected",
-      "re",
-      "election",
-      "result",
-      "da",
-      "silva"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6549883+00:00"
-  },
-  {
-    "Tokens": [
-      "venezuelan",
-      "opposition",
-      "leader",
-      "mar\u00EDa",
-      "machado",
-      "returns",
-      "months",
-      "exile",
-      "venezuela",
-      "corina",
-      "country",
-      "10"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6551205+00:00"
-  },
-  {
-    "Tokens": [
-      "rapper",
-      "nicki",
-      "minaj",
-      "joins",
-      "trump",
-      "onstage",
-      "michigan",
-      "rally",
-      "makes",
-      "explicit",
-      "remarks",
-      "about",
-      "midterm",
-      "rallies",
-      "mike",
-      "rogers",
-      "derriere"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6551497+00:00"
-  },
-  {
-    "Tokens": [
-      "uganda",
-      "imposes",
-      "21",
-      "day",
-      "quarantine",
-      "citizens",
-      "returning",
-      "dr",
-      "congo",
-      "kenya",
-      "orders",
-      "drc",
-      "ebola",
-      "concerns"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6551682+00:00"
-  },
-  {
-    "Tokens": [
-      "jordan",
-      "arrests",
-      "three",
-      "suspects",
-      "deadly",
-      "church",
-      "attack",
-      "arrested",
-      "greek",
-      "orthodox"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6551809+00:00"
-  },
-  {
-    "Tokens": [
-      "why",
-      "brazil",
-      "presidential",
-      "election",
-      "result",
-      "such",
-      "surprise",
-      "bolsonaro",
-      "calls",
-      "annulled"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6551952+00:00"
-  },
-  {
-    "Tokens": [
-      "nigerian",
-      "govt",
-      "disburses",
-      "n38",
-      "93",
-      "billion",
-      "166",
-      "tertiary",
-      "institutions",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6552074+00:00"
-  },
-  {
-    "Tokens": [
-      "aleksandar",
-      "vucic",
-      "serbian",
-      "leader",
-      "brought",
-      "down",
-      "students",
-      "concedes",
-      "defeat",
-      "election"
-    ],
-    "SentAt": "2026-10-26T09:07:35.6552221+00:00"
-  },
-  {
-    "Tokens": [
       "israel",
       "election",
       "2026",
@@ -941,5 +794,139 @@
       "rallies"
     ],
     "SentAt": "2026-11-01T10:38:11.1375415+00:00"
+  },
+  {
+    "Tokens": [
+      "tinubu",
+      "granted",
+      "rare",
+      "access",
+      "inside",
+      "ka",
+      "abah",
+      "reaffirms",
+      "commitment",
+      "nigeria"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4299052+00:00"
+  },
+  {
+    "Tokens": [
+      "nass",
+      "roundup",
+      "rising",
+      "school",
+      "fees",
+      "insecurity",
+      "poor",
+      "telecom",
+      "network",
+      "other",
+      "stories",
+      "house",
+      "reps",
+      "nigeria"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4299687+00:00"
+  },
+  {
+    "Tokens": [
+      "nine",
+      "killed",
+      "small",
+      "jet",
+      "crashes",
+      "florida",
+      "street",
+      "business",
+      "south",
+      "neighbourhood"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4299789+00:00"
+  },
+  {
+    "Tokens": [
+      "popular",
+      "australian",
+      "children",
+      "author",
+      "jailed",
+      "child",
+      "exploitation",
+      "offences",
+      "award",
+      "winning",
+      "craig",
+      "silvey",
+      "material"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4299938+00:00"
+  },
+  {
+    "Tokens": [
+      "binance",
+      "users",
+      "withdraw",
+      "6bn",
+      "largest",
+      "ever",
+      "crypto",
+      "hack",
+      "billion",
+      "record",
+      "heist"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4300055+00:00"
+  },
+  {
+    "Tokens": [
+      "un",
+      "peacekeeping",
+      "mission",
+      "disputed",
+      "western",
+      "sahara",
+      "ends",
+      "35",
+      "years"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4300191+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "makes",
+      "final",
+      "campaign",
+      "push",
+      "weekend",
+      "before",
+      "election",
+      "controversial",
+      "claims",
+      "republican",
+      "rallies"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4300383+00:00"
+  },
+  {
+    "Tokens": [
+      "americans",
+      "among",
+      "dozens",
+      "killed",
+      "train",
+      "crash",
+      "spain",
+      "officials",
+      "say",
+      "us",
+      "japan",
+      "canada",
+      "citizens",
+      "dead",
+      "authorities"
+    ],
+    "SentAt": "2026-11-02T11:25:38.4300504+00:00"
   }
 ]

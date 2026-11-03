@@ -1,136 +1,6 @@
 [
   {
     "Tokens": [
-      "israel",
-      "election",
-      "2026",
-      "live",
-      "polls",
-      "open",
-      "netanyahu",
-      "faces",
-      "tough",
-      "test",
-      "most",
-      "consequential",
-      "vote",
-      "country",
-      "history",
-      "israeli",
-      "seen",
-      "referendum"
-    ],
-    "SentAt": "2026-10-27T09:09:36.543508+00:00"
-  },
-  {
-    "Tokens": [
-      "sixty",
-      "christians",
-      "killed",
-      "ethiopia",
-      "oromia",
-      "region",
-      "least",
-      "48",
-      "civilians",
-      "weekend",
-      "attacks",
-      "once",
-      "again"
-    ],
-    "SentAt": "2026-10-27T09:09:36.5436376+00:00"
-  },
-  {
-    "Tokens": [
-      "israel",
-      "heads",
-      "polls",
-      "pivotal",
-      "election",
-      "defined",
-      "security",
-      "democracy",
-      "shift",
-      "right",
-      "dominates",
-      "critical"
-    ],
-    "SentAt": "2026-10-27T09:09:36.5436582+00:00"
-  },
-  {
-    "Tokens": [
-      "jordan",
-      "carries",
-      "out",
-      "deadly",
-      "strike",
-      "syria",
-      "retaliation",
-      "church",
-      "attack",
-      "attacks",
-      "militants",
-      "last",
-      "week"
-    ],
-    "SentAt": "2026-10-27T09:09:36.5436735+00:00"
-  },
-  {
-    "Tokens": [
-      "ex",
-      "fbi",
-      "chief",
-      "james",
-      "comey",
-      "faces",
-      "federal",
-      "charges",
-      "third",
-      "time",
-      "defiant",
-      "face",
-      "prosecution"
-    ],
-    "SentAt": "2026-10-27T09:09:36.5436913+00:00"
-  },
-  {
-    "Tokens": [
-      "lula",
-      "comeback",
-      "brazil",
-      "dents",
-      "trump",
-      "ambitions",
-      "latin",
-      "america",
-      "defeats",
-      "bolsonaro",
-      "presidency",
-      "blow",
-      "right"
-    ],
-    "SentAt": "2026-10-27T09:09:36.5437042+00:00"
-  },
-  {
-    "Tokens": [
-      "fall",
-      "el",
-      "fasher",
-      "one",
-      "year",
-      "sudan",
-      "later",
-      "rsf",
-      "continue",
-      "detentions",
-      "torture",
-      "civilians",
-      "cataclysm"
-    ],
-    "SentAt": "2026-10-27T09:09:36.5437265+00:00"
-  },
-  {
-    "Tokens": [
       "no",
       "clear",
       "winner",
@@ -928,5 +798,165 @@
       "authorities"
     ],
     "SentAt": "2026-11-02T11:25:38.4300504+00:00"
+  },
+  {
+    "Tokens": [
+      "major",
+      "test",
+      "australia",
+      "social",
+      "media",
+      "ban",
+      "begins",
+      "high",
+      "court",
+      "hears",
+      "bid",
+      "overturn",
+      "under",
+      "16s",
+      "ill",
+      "thought",
+      "out",
+      "reddit",
+      "argues",
+      "challenge",
+      "australian"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3432298+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "strikes",
+      "iranian",
+      "island",
+      "ahead",
+      "midterm",
+      "elections",
+      "unclear",
+      "what",
+      "comes",
+      "next",
+      "strait",
+      "hormuz",
+      "attacks",
+      "iran",
+      "america"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3433061+00:00"
+  },
+  {
+    "Tokens": [
+      "spanish",
+      "footballer",
+      "dies",
+      "field",
+      "collision",
+      "tenerife",
+      "striker",
+      "de",
+      "miguel",
+      "jesus",
+      "goalkeeper"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3433254+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "carries",
+      "out",
+      "limited",
+      "strikes",
+      "qeshm",
+      "island",
+      "iran",
+      "vance",
+      "voices",
+      "optimism",
+      "about",
+      "deal",
+      "trump",
+      "signals",
+      "progress",
+      "talks"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3433446+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "remove",
+      "rwanda",
+      "south",
+      "africa",
+      "us",
+      "trade",
+      "deal",
+      "drop",
+      "agoa",
+      "duty",
+      "free",
+      "initiative"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3433603+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "midterm",
+      "elections",
+      "live",
+      "polls",
+      "due",
+      "open",
+      "test",
+      "trump",
+      "2026",
+      "americans",
+      "go",
+      "referendum",
+      "agenda",
+      "head",
+      "seen"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3433919+00:00"
+  },
+  {
+    "Tokens": [
+      "russian",
+      "bombing",
+      "kills",
+      "29",
+      "people",
+      "ukraine",
+      "aid",
+      "centre",
+      "kyiv",
+      "russia",
+      "bombs",
+      "shelter",
+      "killing",
+      "least"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3434066+00:00"
+  },
+  {
+    "Tokens": [
+      "asian",
+      "cup",
+      "postponed",
+      "wake",
+      "attacks",
+      "saudi",
+      "arabia",
+      "afc",
+      "reschedules",
+      "2027",
+      "regional",
+      "conflict"
+    ],
+    "SentAt": "2026-11-03T11:02:12.3434172+00:00"
   }
 ]

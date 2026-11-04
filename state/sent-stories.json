@@ -1,164 +1,6 @@
 [
   {
     "Tokens": [
-      "no",
-      "clear",
-      "winner",
-      "israeli",
-      "election",
-      "polls",
-      "suggest",
-      "stalemate",
-      "israel",
-      "results",
-      "live",
-      "vote",
-      "count",
-      "continues",
-      "exit",
-      "voting",
-      "ends",
-      "strong",
-      "turnout",
-      "there"
-    ],
-    "SentAt": "2026-10-28T09:50:18.3018145+00:00"
-  },
-  {
-    "Tokens": [
-      "flavio",
-      "bolsonaro",
-      "flies",
-      "argentina",
-      "brazil",
-      "election",
-      "defeat",
-      "fl\u00E1vio",
-      "heading",
-      "ecuador",
-      "party",
-      "accepts",
-      "he",
-      "refuses",
-      "concede",
-      "leaves"
-    ],
-    "SentAt": "2026-10-28T09:50:18.3019323+00:00"
-  },
-  {
-    "Tokens": [
-      "least",
-      "10",
-      "dead",
-      "two",
-      "trains",
-      "crash",
-      "spain",
-      "authorities",
-      "say",
-      "train",
-      "feared",
-      "collision",
-      "toledo",
-      "province"
-    ],
-    "SentAt": "2026-10-28T09:50:18.3019527+00:00"
-  },
-  {
-    "Tokens": [
-      "injuries",
-      "reported",
-      "two",
-      "trains",
-      "collide",
-      "spain",
-      "high",
-      "speed",
-      "halting",
-      "traffic",
-      "madrid",
-      "andalusia",
-      "line"
-    ],
-    "SentAt": "2026-10-28T09:50:18.3019703+00:00"
-  },
-  {
-    "Tokens": [
-      "luxury",
-      "cruise",
-      "passengers",
-      "stranded",
-      "cambodia",
-      "due",
-      "soaring",
-      "fuel",
-      "costs",
-      "ship",
-      "ends",
-      "voyage",
-      "lose",
-      "their",
-      "homes"
-    ],
-    "SentAt": "2026-10-28T09:50:18.3019872+00:00"
-  },
-  {
-    "Tokens": [
-      "senator",
-      "questions",
-      "tinubu",
-      "fresh",
-      "loan",
-      "request",
-      "use",
-      "previous",
-      "borrowings",
-      "nigeria"
-    ],
-    "SentAt": "2026-10-28T09:50:18.30202+00:00"
-  },
-  {
-    "Tokens": [
-      "king",
-      "charles",
-      "faces",
-      "high",
-      "stakes",
-      "test",
-      "caribbean",
-      "tour",
-      "confronts",
-      "calls",
-      "slavery",
-      "apology",
-      "during"
-    ],
-    "SentAt": "2026-10-28T09:50:18.3020318+00:00"
-  },
-  {
-    "Tokens": [
-      "israel",
-      "election",
-      "too",
-      "close",
-      "call",
-      "exit",
-      "polls",
-      "give",
-      "netanyahu",
-      "bloc",
-      "slightly",
-      "fewer",
-      "seats",
-      "parliamentary",
-      "seeks",
-      "another",
-      "term"
-    ],
-    "SentAt": "2026-10-28T09:50:18.3020529+00:00"
-  },
-  {
-    "Tokens": [
       "watch",
       "scene",
       "spain",
@@ -958,5 +800,146 @@
       "conflict"
     ],
     "SentAt": "2026-11-03T11:02:12.3434172+00:00"
+  },
+  {
+    "Tokens": [
+      "spain",
+      "transport",
+      "minister",
+      "resign",
+      "train",
+      "crash",
+      "killed",
+      "69",
+      "people",
+      "spanish",
+      "resigns",
+      "days",
+      "deadly"
+    ],
+    "SentAt": "2026-11-04T11:10:00.4308158+00:00"
+  },
+  {
+    "Tokens": [
+      "abdul",
+      "el",
+      "sayed",
+      "defeats",
+      "mike",
+      "rogers",
+      "win",
+      "us",
+      "senate",
+      "seat",
+      "michigan",
+      "progressive",
+      "wins",
+      "race",
+      "become",
+      "first",
+      "muslim",
+      "senator",
+      "set"
+    ],
+    "SentAt": "2026-11-04T11:10:00.4309085+00:00"
+  },
+  {
+    "Tokens": [
+      "sss",
+      "replies",
+      "atiku",
+      "speaks",
+      "attacks",
+      "sowore",
+      "adc",
+      "governorship",
+      "candidate",
+      "nigeria"
+    ],
+    "SentAt": "2026-11-04T11:10:00.430924+00:00"
+  },
+  {
+    "Tokens": [
+      "pdp",
+      "state",
+      "chairpersons",
+      "leader",
+      "alleges",
+      "intimidation",
+      "harassment",
+      "candidates",
+      "apc",
+      "governor",
+      "ebonyi",
+      "nigeria"
+    ],
+    "SentAt": "2026-11-04T11:10:00.4309702+00:00"
+  },
+  {
+    "Tokens": [
+      "blue",
+      "wave",
+      "turning",
+      "tsunami",
+      "democrats",
+      "take",
+      "control",
+      "congress",
+      "huge",
+      "loss",
+      "trump"
+    ],
+    "SentAt": "2026-11-04T11:10:00.4309818+00:00"
+  },
+  {
+    "Tokens": [
+      "florida",
+      "republicans",
+      "fend",
+      "off",
+      "democrats",
+      "state",
+      "elects",
+      "first",
+      "black",
+      "governor",
+      "georgia",
+      "woman",
+      "us"
+    ],
+    "SentAt": "2026-11-04T11:10:00.4309905+00:00"
+  },
+  {
+    "Tokens": [
+      "democrats",
+      "win",
+      "big",
+      "talarico",
+      "power",
+      "belongs",
+      "people",
+      "texas"
+    ],
+    "SentAt": "2026-11-04T11:10:00.4309999+00:00"
+  },
+  {
+    "Tokens": [
+      "james",
+      "talarico",
+      "becomes",
+      "first",
+      "democrat",
+      "win",
+      "texas",
+      "senate",
+      "seat",
+      "since",
+      "1988",
+      "we",
+      "defeated",
+      "goliath",
+      "wins"
+    ],
+    "SentAt": "2026-11-04T11:10:00.4310084+00:00"
   }
 ]

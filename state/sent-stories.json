@@ -1,113 +1,6 @@
 [
   {
     "Tokens": [
-      "hundreds",
-      "evacuated",
-      "russian",
-      "occupied",
-      "oleshky",
-      "during",
-      "rare",
-      "ukraine",
-      "ceasefire",
-      "how",
-      "has",
-      "unfolding",
-      "melania",
-      "brokered",
-      "town",
-      "war",
-      "evacuations",
-      "under",
-      "way"
-    ],
-    "SentAt": "2026-10-31T09:48:16.7433849+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "approves",
-      "sale",
-      "500",
-      "patriot",
-      "missiles",
-      "ukraine",
-      "greenlights",
-      "1bn",
-      "missile"
-    ],
-    "SentAt": "2026-10-31T09:48:16.7434818+00:00"
-  },
-  {
-    "Tokens": [
-      "spain",
-      "train",
-      "disaster",
-      "clouds",
-      "s\u00E1nchez",
-      "chances",
-      "re",
-      "election",
-      "blow",
-      "leader",
-      "already",
-      "underdog"
-    ],
-    "SentAt": "2026-10-31T09:48:16.7435033+00:00"
-  },
-  {
-    "Tokens": [
-      "police",
-      "deployed",
-      "during",
-      "stand",
-      "off",
-      "control",
-      "top",
-      "poland",
-      "court",
-      "riot",
-      "constitutional",
-      "judge",
-      "suspended"
-    ],
-    "SentAt": "2026-10-31T09:48:16.7435188+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "inmate",
-      "christa",
-      "pike",
-      "she",
-      "woke",
-      "up",
-      "confused",
-      "pain",
-      "failed",
-      "execution",
-      "survivor",
-      "now",
-      "constant"
-    ],
-    "SentAt": "2026-10-31T09:48:16.743551+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "leo",
-      "xiv",
-      "becomes",
-      "first",
-      "pontiff",
-      "vote",
-      "us",
-      "election"
-    ],
-    "SentAt": "2026-10-31T09:48:16.7435637+00:00"
-  },
-  {
-    "Tokens": [
       "youth",
       "olympic",
       "games",
@@ -925,5 +818,163 @@
       "say"
     ],
     "SentAt": "2026-11-06T11:07:55.1341684+00:00"
+  },
+  {
+    "Tokens": [
+      "paraguay",
+      "president",
+      "impeached",
+      "under",
+      "house",
+      "arrest",
+      "bank",
+      "collapse",
+      "pena",
+      "military",
+      "protection",
+      "chaos",
+      "arrested",
+      "places",
+      "ousted",
+      "pe\u00F1a"
+    ],
+    "SentAt": "2026-11-07T10:26:03.6216846+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "leo",
+      "begins",
+      "12",
+      "day",
+      "south",
+      "america",
+      "trip",
+      "following",
+      "cancer",
+      "surgery",
+      "country",
+      "tour",
+      "his",
+      "arrives",
+      "uruguay",
+      "first",
+      "stop"
+    ],
+    "SentAt": "2026-11-07T10:26:03.6217579+00:00"
+  },
+  {
+    "Tokens": [
+      "wave",
+      "bomb",
+      "threats",
+      "hit",
+      "european",
+      "airlines",
+      "flights",
+      "broadcasters",
+      "targeted",
+      "another",
+      "chaos",
+      "within",
+      "aviation",
+      "industry",
+      "air",
+      "traffic"
+    ],
+    "SentAt": "2026-11-07T10:26:03.6217745+00:00"
+  },
+  {
+    "Tokens": [
+      "kenyan",
+      "doomsday",
+      "sect",
+      "leader",
+      "jailed",
+      "200",
+      "years",
+      "murder",
+      "190",
+      "children",
+      "cult",
+      "sentenced",
+      "prison"
+    ],
+    "SentAt": "2026-11-07T10:26:03.6217911+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "faces",
+      "criticism",
+      "dangerous",
+      "stephen",
+      "miller",
+      "appointment",
+      "white",
+      "house",
+      "chief",
+      "staff",
+      "architect",
+      "immigration",
+      "crackdown",
+      "become",
+      "announces",
+      "hardliner"
+    ],
+    "SentAt": "2026-11-07T10:26:03.6218193+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "confirms",
+      "us",
+      "strikes",
+      "iran",
+      "insists",
+      "not",
+      "war",
+      "qeshm",
+      "island",
+      "carries",
+      "out",
+      "another",
+      "round",
+      "minor"
+    ],
+    "SentAt": "2026-11-07T10:26:03.6218368+00:00"
+  },
+  {
+    "Tokens": [
+      "meghan",
+      "father",
+      "court",
+      "charged",
+      "possessing",
+      "child",
+      "abuse",
+      "material",
+      "markle",
+      "arrested",
+      "sex",
+      "charges"
+    ],
+    "SentAt": "2026-11-07T10:26:03.621849+00:00"
+  },
+  {
+    "Tokens": [
+      "tanzania",
+      "opposition",
+      "leader",
+      "gets",
+      "four",
+      "year",
+      "sentence",
+      "tundu",
+      "lissu",
+      "jailed",
+      "years"
+    ],
+    "SentAt": "2026-11-07T10:26:03.6218579+00:00"
   }
 ]

@@ -1,166 +1,6 @@
 [
   {
     "Tokens": [
-      "major",
-      "test",
-      "australia",
-      "social",
-      "media",
-      "ban",
-      "begins",
-      "high",
-      "court",
-      "hears",
-      "bid",
-      "overturn",
-      "under",
-      "16s",
-      "ill",
-      "thought",
-      "out",
-      "reddit",
-      "argues",
-      "challenge",
-      "australian"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3432298+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "strikes",
-      "iranian",
-      "island",
-      "ahead",
-      "midterm",
-      "elections",
-      "unclear",
-      "what",
-      "comes",
-      "next",
-      "strait",
-      "hormuz",
-      "attacks",
-      "iran",
-      "america"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3433061+00:00"
-  },
-  {
-    "Tokens": [
-      "spanish",
-      "footballer",
-      "dies",
-      "field",
-      "collision",
-      "tenerife",
-      "striker",
-      "de",
-      "miguel",
-      "jesus",
-      "goalkeeper"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3433254+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "carries",
-      "out",
-      "limited",
-      "strikes",
-      "qeshm",
-      "island",
-      "iran",
-      "vance",
-      "voices",
-      "optimism",
-      "about",
-      "deal",
-      "trump",
-      "signals",
-      "progress",
-      "talks"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3433446+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "remove",
-      "rwanda",
-      "south",
-      "africa",
-      "us",
-      "trade",
-      "deal",
-      "drop",
-      "agoa",
-      "duty",
-      "free",
-      "initiative"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3433603+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "midterm",
-      "elections",
-      "live",
-      "polls",
-      "due",
-      "open",
-      "test",
-      "trump",
-      "2026",
-      "americans",
-      "go",
-      "referendum",
-      "agenda",
-      "head",
-      "seen"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3433919+00:00"
-  },
-  {
-    "Tokens": [
-      "russian",
-      "bombing",
-      "kills",
-      "29",
-      "people",
-      "ukraine",
-      "aid",
-      "centre",
-      "kyiv",
-      "russia",
-      "bombs",
-      "shelter",
-      "killing",
-      "least"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3434066+00:00"
-  },
-  {
-    "Tokens": [
-      "asian",
-      "cup",
-      "postponed",
-      "wake",
-      "attacks",
-      "saudi",
-      "arabia",
-      "afc",
-      "reschedules",
-      "2027",
-      "regional",
-      "conflict"
-    ],
-    "SentAt": "2026-11-03T11:02:12.3434172+00:00"
-  },
-  {
-    "Tokens": [
       "spain",
       "transport",
       "minister",
@@ -1046,5 +886,161 @@
       "miller"
     ],
     "SentAt": "2026-11-09T11:47:55.2351981+00:00"
+  },
+  {
+    "Tokens": [
+      "fbi",
+      "investigating",
+      "nvidia",
+      "ceo",
+      "affair",
+      "alleged",
+      "chinese",
+      "spy",
+      "trump",
+      "boss",
+      "shares",
+      "drop",
+      "jensen",
+      "huang",
+      "suspected",
+      "rocks",
+      "tech",
+      "world",
+      "sued",
+      "shareholders",
+      "slide",
+      "board",
+      "probes"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8344641+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "accuses",
+      "iran",
+      "supermarket",
+      "fridge",
+      "hacking",
+      "summons",
+      "ambassador",
+      "sabotage",
+      "cyber",
+      "attacks",
+      "threatens",
+      "actions",
+      "against",
+      "cyberattacks"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8345856+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "moves",
+      "aircraft",
+      "second",
+      "uk",
+      "base",
+      "threat",
+      "iran",
+      "reported",
+      "sees",
+      "planes",
+      "reportedly",
+      "evacuates",
+      "raf",
+      "mildenhall"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8346202+00:00"
+  },
+  {
+    "Tokens": [
+      "france",
+      "blames",
+      "iran",
+      "massive",
+      "cyber",
+      "attack",
+      "supermarket",
+      "fridges",
+      "cyberattack",
+      "cyberattacks"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8346399+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "iran",
+      "war",
+      "status",
+      "quo",
+      "warns",
+      "locked",
+      "loaded",
+      "effectively"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8346519+00:00"
+  },
+  {
+    "Tokens": [
+      "uk",
+      "author",
+      "john",
+      "harrison",
+      "end",
+      "everything",
+      "wins",
+      "booker",
+      "prize",
+      "writer",
+      "ai",
+      "tinged",
+      "apocalyptic",
+      "novel"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8346682+00:00"
+  },
+  {
+    "Tokens": [
+      "russell",
+      "brand",
+      "sentenced",
+      "10",
+      "years",
+      "rape",
+      "sex",
+      "assault",
+      "set",
+      "sexual",
+      "convictions",
+      "british",
+      "comedian"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8346962+00:00"
+  },
+  {
+    "Tokens": [
+      "russia",
+      "ukraine",
+      "start",
+      "talks",
+      "aimed",
+      "ending",
+      "war",
+      "mediated",
+      "begin",
+      "abu",
+      "dhabi",
+      "kushner",
+      "witkoff",
+      "renew",
+      "peace",
+      "end",
+      "between"
+    ],
+    "SentAt": "2026-11-10T11:24:38.8347117+00:00"
   }
 ]

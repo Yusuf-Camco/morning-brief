@@ -1,147 +1,6 @@
 [
   {
     "Tokens": [
-      "joshua",
-      "wong",
-      "face",
-      "hong",
-      "kong",
-      "pro",
-      "democracy",
-      "protests",
-      "jailed",
-      "10",
-      "years",
-      "activist",
-      "sentenced",
-      "jail",
-      "ten",
-      "prison",
-      "national",
-      "security",
-      "case",
-      "gets",
-      "more",
-      "foreign",
-      "collusion"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8421714+00:00"
-  },
-  {
-    "Tokens": [
-      "mother",
-      "daughter",
-      "die",
-      "suspected",
-      "grizzly",
-      "bear",
-      "attack",
-      "canada",
-      "dead",
-      "killed",
-      "canadian",
-      "authorities",
-      "confirm"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8422786+00:00"
-  },
-  {
-    "Tokens": [
-      "serbian",
-      "officers",
-      "arrested",
-      "using",
-      "excessive",
-      "force",
-      "against",
-      "protesters",
-      "serbia",
-      "detains",
-      "police",
-      "alleged",
-      "use"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8423604+00:00"
-  },
-  {
-    "Tokens": [
-      "cristiano",
-      "ronaldo",
-      "retires",
-      "international",
-      "football",
-      "legend",
-      "announces",
-      "retirement"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8423887+00:00"
-  },
-  {
-    "Tokens": [
-      "bomb",
-      "threat",
-      "diverts",
-      "dublin",
-      "rome",
-      "flight",
-      "france",
-      "diverted",
-      "french",
-      "military",
-      "base"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8424026+00:00"
-  },
-  {
-    "Tokens": [
-      "south",
-      "korea",
-      "plans",
-      "expand",
-      "anti",
-      "piracy",
-      "operations",
-      "closer",
-      "hormuz",
-      "strait",
-      "will",
-      "naval"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8424181+00:00"
-  },
-  {
-    "Tokens": [
-      "champions",
-      "league",
-      "liverpool",
-      "suffer",
-      "loss",
-      "fenerbahce",
-      "como",
-      "thump",
-      "lens",
-      "historic",
-      "defeat",
-      "against"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8424294+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "leo",
-      "hosts",
-      "bob",
-      "dylan",
-      "official",
-      "residence",
-      "rome",
-      "meets"
-    ],
-    "SentAt": "2026-11-05T11:10:26.8424439+00:00"
-  },
-  {
-    "Tokens": [
       "paraguay",
       "president",
       "santiago",
@@ -1053,5 +912,172 @@
       "secretary"
     ],
     "SentAt": "2026-11-11T11:11:36.5517061+00:00"
+  },
+  {
+    "Tokens": [
+      "fiery",
+      "clashes",
+      "erupt",
+      "spain",
+      "millions",
+      "join",
+      "general",
+      "strike",
+      "barcelona",
+      "thousands",
+      "first",
+      "14",
+      "years",
+      "protest",
+      "housing",
+      "costs",
+      "anger",
+      "leads"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9217713+00:00"
+  },
+  {
+    "Tokens": [
+      "democrat",
+      "scott",
+      "colom",
+      "makes",
+      "history",
+      "mississippi",
+      "first",
+      "black",
+      "senator",
+      "since",
+      "19th",
+      "century",
+      "elects",
+      "1874",
+      "more",
+      "than",
+      "140",
+      "years",
+      "state",
+      "post",
+      "civil",
+      "war"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9219371+00:00"
+  },
+  {
+    "Tokens": [
+      "israeli",
+      "strike",
+      "gaza",
+      "hospital",
+      "kills",
+      "six",
+      "palestinians",
+      "health",
+      "ministry",
+      "authorities",
+      "say",
+      "people"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9219782+00:00"
+  },
+  {
+    "Tokens": [
+      "indonesia",
+      "vice",
+      "president",
+      "resigns",
+      "signs",
+      "ruling",
+      "alliance",
+      "fraying",
+      "dispute",
+      "eligibility",
+      "gibran"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9220018+00:00"
+  },
+  {
+    "Tokens": [
+      "nvidia",
+      "board",
+      "preparing",
+      "oust",
+      "ceo",
+      "jensen",
+      "huang",
+      "sources",
+      "say",
+      "reportedly",
+      "deciding",
+      "whether",
+      "stock",
+      "price",
+      "plunges",
+      "weighing",
+      "up",
+      "not",
+      "who",
+      "weighs",
+      "ouster",
+      "spy",
+      "scandal"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9220462+00:00"
+  },
+  {
+    "Tokens": [
+      "kenya",
+      "discharges",
+      "last",
+      "ebola",
+      "patient",
+      "major",
+      "milestone",
+      "towards",
+      "virus",
+      "free",
+      "status",
+      "42",
+      "day",
+      "countdown",
+      "begins",
+      "leaves",
+      "hospital"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9220697+00:00"
+  },
+  {
+    "Tokens": [
+      "york",
+      "building",
+      "collapse",
+      "kills",
+      "least",
+      "two",
+      "officials",
+      "say",
+      "brooklyn",
+      "injures",
+      "more",
+      "than",
+      "dozen"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9220877+00:00"
+  },
+  {
+    "Tokens": [
+      "china",
+      "us",
+      "fabricating",
+      "nvidia",
+      "spy",
+      "claims",
+      "justify",
+      "tech",
+      "blockade",
+      "accuses",
+      "push"
+    ],
+    "SentAt": "2026-11-12T11:29:33.9221002+00:00"
   }
 ]

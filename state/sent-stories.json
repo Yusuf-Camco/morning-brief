@@ -3,148 +3,6 @@
     "Tokens": [
       "paraguay",
       "president",
-      "santiago",
-      "pe\u00F1a",
-      "resigns",
-      "bank",
-      "collapse",
-      "impeached",
-      "crisis",
-      "minutes",
-      "resigning",
-      "following",
-      "quits",
-      "ueno",
-      "scandal"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1340223+00:00"
-  },
-  {
-    "Tokens": [
-      "global",
-      "tech",
-      "stocks",
-      "plunge",
-      "fears",
-      "ai",
-      "curbs",
-      "us",
-      "slowdown",
-      "democrats",
-      "midterm",
-      "triumph",
-      "results",
-      "fuel",
-      "tighter",
-      "rules"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1340803+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "begins",
-      "lengthy",
-      "trip",
-      "latin",
-      "america",
-      "weeks",
-      "lung",
-      "cancer",
-      "surgery",
-      "leo",
-      "embarks",
-      "12",
-      "planes",
-      "days",
-      "major",
-      "tour",
-      "what",
-      "know"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1341041+00:00"
-  },
-  {
-    "Tokens": [
-      "uncertainty",
-      "nigeria",
-      "vote",
-      "court",
-      "bars",
-      "opposition",
-      "leader",
-      "running"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1341141+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "signs",
-      "order",
-      "preserve",
-      "oval",
-      "office",
-      "national",
-      "monument",
-      "issues",
-      "proclamation",
-      "declaring"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1341346+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "judge",
-      "halts",
-      "construction",
-      "trump",
-      "triumphal",
-      "arch",
-      "washington",
-      "dc",
-      "temporarily",
-      "building",
-      "work"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1341498+00:00"
-  },
-  {
-    "Tokens": [
-      "israel",
-      "president",
-      "herzog",
-      "name",
-      "candidate",
-      "form",
-      "government",
-      "sunday",
-      "announce",
-      "who",
-      "will"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1341571+00:00"
-  },
-  {
-    "Tokens": [
-      "two",
-      "dead",
-      "bus",
-      "carrying",
-      "school",
-      "children",
-      "crashes",
-      "france",
-      "officials",
-      "say"
-    ],
-    "SentAt": "2026-11-06T11:07:55.1341684+00:00"
-  },
-  {
-    "Tokens": [
-      "paraguay",
-      "president",
       "impeached",
       "under",
       "house",
@@ -1079,5 +937,81 @@
       "push"
     ],
     "SentAt": "2026-11-12T11:29:33.9221002+00:00"
+  },
+  {
+    "Tokens": [
+      "microsoft",
+      "battling",
+      "major",
+      "worldwide",
+      "outage",
+      "faces",
+      "outlook",
+      "no",
+      "signs",
+      "cyberattack"
+    ],
+    "SentAt": "2026-11-13T11:13:34.7339726+00:00"
+  },
+  {
+    "Tokens": [
+      "pope",
+      "leo",
+      "meets",
+      "clergy",
+      "abuse",
+      "survivors",
+      "peru",
+      "calls",
+      "justice",
+      "xiv",
+      "victims",
+      "church",
+      "must",
+      "make",
+      "amends"
+    ],
+    "SentAt": "2026-11-13T11:13:34.7340531+00:00"
+  },
+  {
+    "Tokens": [
+      "zelensky",
+      "welcomes",
+      "us",
+      "bringing",
+      "europe",
+      "russia",
+      "ukraine",
+      "peace",
+      "talks",
+      "say",
+      "join",
+      "putin",
+      "sticks",
+      "hardline",
+      "stance",
+      "big",
+      "development",
+      "negotiations"
+    ],
+    "SentAt": "2026-11-13T11:13:34.7340824+00:00"
+  },
+  {
+    "Tokens": [
+      "zimbabwean",
+      "author",
+      "simbarashe",
+      "kundizeza",
+      "cleared",
+      "using",
+      "ai",
+      "write",
+      "prize",
+      "winning",
+      "story",
+      "africa",
+      "allegations"
+    ],
+    "SentAt": "2026-11-13T11:13:34.7341002+00:00"
   }
 ]

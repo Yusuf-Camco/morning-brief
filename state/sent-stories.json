@@ -1,144 +1,6 @@
 [
   {
     "Tokens": [
-      "blow",
-      "netanyahu",
-      "opposition",
-      "rival",
-      "asked",
-      "form",
-      "government",
-      "israel",
-      "president",
-      "tasks",
-      "leader",
-      "eisenkot",
-      "forming",
-      "taps",
-      "candidate",
-      "israeli",
-      "invites",
-      "broker",
-      "not",
-      "tapped",
-      "try",
-      "picks"
-    ],
-    "SentAt": "2026-11-08T10:34:02.4511216+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "asks",
-      "ufc",
-      "boss",
-      "dana",
-      "white",
-      "his",
-      "press",
-      "secretary",
-      "chief",
-      "house",
-      "violent",
-      "fighter",
-      "warrior",
-      "offers",
-      "role"
-    ],
-    "SentAt": "2026-11-08T10:34:02.4512551+00:00"
-  },
-  {
-    "Tokens": [
-      "paraguay",
-      "former",
-      "president",
-      "charged",
-      "bank",
-      "collapse",
-      "prosecutors",
-      "charge",
-      "corruption",
-      "impeached"
-    ],
-    "SentAt": "2026-11-08T10:34:02.4512854+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "launches",
-      "task",
-      "force",
-      "disrupt",
-      "iran",
-      "land",
-      "based",
-      "supply",
-      "routes",
-      "iranian",
-      "ground",
-      "shipping"
-    ],
-    "SentAt": "2026-11-08T10:34:02.451304+00:00"
-  },
-  {
-    "Tokens": [
-      "briton",
-      "among",
-      "six",
-      "killed",
-      "far",
-      "right",
-      "gunman",
-      "krakow",
-      "rampage",
-      "who",
-      "least",
-      "fascinated",
-      "ideologies",
-      "government"
-    ],
-    "SentAt": "2026-11-08T10:34:02.4513186+00:00"
-  },
-  {
-    "Tokens": [
-      "nz",
-      "election",
-      "2026",
-      "zealand",
-      "faces",
-      "weeks",
-      "uncertainty",
-      "results",
-      "too",
-      "close",
-      "call",
-      "voters",
-      "turn",
-      "minor",
-      "parties"
-    ],
-    "SentAt": "2026-11-08T10:34:02.4513351+00:00"
-  },
-  {
-    "Tokens": [
-      "stephen",
-      "miller",
-      "trump",
-      "incoming",
-      "chief",
-      "staff",
-      "pledges",
-      "total",
-      "devotion",
-      "president",
-      "named",
-      "white",
-      "house"
-    ],
-    "SentAt": "2026-11-08T10:34:02.4513603+00:00"
-  },
-  {
-    "Tokens": [
       "krakow",
       "shooting",
       "suspect",
@@ -947,5 +809,92 @@
       "upgrade"
     ],
     "SentAt": "2026-11-14T10:39:32.8175327+00:00"
+  },
+  {
+    "Tokens": [
+      "three",
+      "men",
+      "sentenced",
+      "death",
+      "jordan",
+      "fatal",
+      "church",
+      "mass",
+      "shooting",
+      "sentences",
+      "hanging",
+      "deadly",
+      "attack"
+    ],
+    "SentAt": "2026-11-15T11:12:57.8010385+00:00"
+  },
+  {
+    "Tokens": [
+      "philippines",
+      "wins",
+      "first",
+      "eurovision",
+      "song",
+      "contest",
+      "asia",
+      "carmelle",
+      "philippine",
+      "star",
+      "asian",
+      "edition"
+    ],
+    "SentAt": "2026-11-15T11:12:57.8011399+00:00"
+  },
+  {
+    "Tokens": [
+      "fifth",
+      "canadian",
+      "soldier",
+      "dies",
+      "injuries",
+      "caused",
+      "large",
+      "fire",
+      "military",
+      "base",
+      "5th",
+      "weeks"
+    ],
+    "SentAt": "2026-11-15T11:12:57.8011586+00:00"
+  },
+  {
+    "Tokens": [
+      "italy",
+      "fines",
+      "meta",
+      "805m",
+      "accessing",
+      "users",
+      "photos",
+      "880",
+      "million"
+    ],
+    "SentAt": "2026-11-15T11:12:57.8011731+00:00"
+  },
+  {
+    "Tokens": [
+      "us",
+      "asked",
+      "if",
+      "ukraine",
+      "would",
+      "give",
+      "up",
+      "parts",
+      "donbas",
+      "nato",
+      "membership",
+      "zelenskyy",
+      "has",
+      "floated",
+      "ceding",
+      "zelensky"
+    ],
+    "SentAt": "2026-11-15T11:12:57.8011998+00:00"
   }
 ]

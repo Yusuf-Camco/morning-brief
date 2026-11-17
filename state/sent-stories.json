@@ -1,330 +1,6 @@
 [
   {
     "Tokens": [
-      "krakow",
-      "shooting",
-      "suspect",
-      "has",
-      "died",
-      "hospital",
-      "police",
-      "say",
-      "poland",
-      "mass",
-      "assailant",
-      "dies",
-      "man",
-      "who",
-      "carried",
-      "out",
-      "krak\u00F3w",
-      "killed",
-      "six",
-      "polish"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2350639+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "he",
-      "kidding",
-      "about",
-      "dana",
-      "white",
-      "press",
-      "secretary",
-      "offer",
-      "only",
-      "role",
-      "joke",
-      "test",
-      "why",
-      "floated",
-      "ufc",
-      "his",
-      "making",
-      "next"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2351213+00:00"
-  },
-  {
-    "Tokens": [
-      "ai",
-      "giant",
-      "nvidia",
-      "launches",
-      "investigation",
-      "ceo",
-      "affair",
-      "chinese",
-      "spy",
-      "what",
-      "do",
-      "we",
-      "know",
-      "about",
-      "suspected",
-      "probing",
-      "he",
-      "admitted",
-      "alleged"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2351393+00:00"
-  },
-  {
-    "Tokens": [
-      "israel",
-      "president",
-      "picks",
-      "yashar",
-      "leader",
-      "gadi",
-      "eisenkot",
-      "form",
-      "government",
-      "who",
-      "opposition",
-      "has",
-      "six",
-      "weeks"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2351502+00:00"
-  },
-  {
-    "Tokens": [
-      "russell",
-      "brand",
-      "sentenced",
-      "rape",
-      "sexual",
-      "assault",
-      "today",
-      "latest",
-      "updates",
-      "learn",
-      "sentence",
-      "being",
-      "found",
-      "guilty"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2351613+00:00"
-  },
-  {
-    "Tokens": [
-      "least",
-      "34",
-      "dead",
-      "europe",
-      "bound",
-      "migrant",
-      "boat",
-      "sinks",
-      "off",
-      "senegal",
-      "many",
-      "killed"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2351779+00:00"
-  },
-  {
-    "Tokens": [
-      "french",
-      "police",
-      "officers",
-      "face",
-      "trial",
-      "beating",
-      "black",
-      "man",
-      "they",
-      "accused",
-      "not",
-      "wearing",
-      "covid",
-      "mask",
-      "paris",
-      "go",
-      "2020"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2351857+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "his",
-      "immigration",
-      "policy",
-      "too",
-      "tough",
-      "voters",
-      "admits",
-      "deportation",
-      "despite",
-      "promotion",
-      "stephen",
-      "miller"
-    ],
-    "SentAt": "2026-11-09T11:47:55.2351981+00:00"
-  },
-  {
-    "Tokens": [
-      "fbi",
-      "investigating",
-      "nvidia",
-      "ceo",
-      "affair",
-      "alleged",
-      "chinese",
-      "spy",
-      "trump",
-      "boss",
-      "shares",
-      "drop",
-      "jensen",
-      "huang",
-      "suspected",
-      "rocks",
-      "tech",
-      "world",
-      "sued",
-      "shareholders",
-      "slide",
-      "board",
-      "probes"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8344641+00:00"
-  },
-  {
-    "Tokens": [
-      "france",
-      "accuses",
-      "iran",
-      "supermarket",
-      "fridge",
-      "hacking",
-      "summons",
-      "ambassador",
-      "sabotage",
-      "cyber",
-      "attacks",
-      "threatens",
-      "actions",
-      "against",
-      "cyberattacks"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8345856+00:00"
-  },
-  {
-    "Tokens": [
-      "us",
-      "moves",
-      "aircraft",
-      "second",
-      "uk",
-      "base",
-      "threat",
-      "iran",
-      "reported",
-      "sees",
-      "planes",
-      "reportedly",
-      "evacuates",
-      "raf",
-      "mildenhall"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8346202+00:00"
-  },
-  {
-    "Tokens": [
-      "france",
-      "blames",
-      "iran",
-      "massive",
-      "cyber",
-      "attack",
-      "supermarket",
-      "fridges",
-      "cyberattack",
-      "cyberattacks"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8346399+00:00"
-  },
-  {
-    "Tokens": [
-      "trump",
-      "iran",
-      "war",
-      "status",
-      "quo",
-      "warns",
-      "locked",
-      "loaded",
-      "effectively"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8346519+00:00"
-  },
-  {
-    "Tokens": [
-      "uk",
-      "author",
-      "john",
-      "harrison",
-      "end",
-      "everything",
-      "wins",
-      "booker",
-      "prize",
-      "writer",
-      "ai",
-      "tinged",
-      "apocalyptic",
-      "novel"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8346682+00:00"
-  },
-  {
-    "Tokens": [
-      "russell",
-      "brand",
-      "sentenced",
-      "10",
-      "years",
-      "rape",
-      "sex",
-      "assault",
-      "set",
-      "sexual",
-      "convictions",
-      "british",
-      "comedian"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8346962+00:00"
-  },
-  {
-    "Tokens": [
-      "russia",
-      "ukraine",
-      "start",
-      "talks",
-      "aimed",
-      "ending",
-      "war",
-      "mediated",
-      "begin",
-      "abu",
-      "dhabi",
-      "kushner",
-      "witkoff",
-      "renew",
-      "peace",
-      "end",
-      "between"
-    ],
-    "SentAt": "2026-11-10T11:24:38.8347117+00:00"
-  },
-  {
-    "Tokens": [
       "us",
       "army",
       "soldier",
@@ -1037,5 +713,151 @@
       "wrongdoing"
     ],
     "SentAt": "2026-11-16T11:42:39.2782287+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "arrives",
+      "philippines",
+      "kick",
+      "off",
+      "asia",
+      "trip",
+      "live",
+      "updates",
+      "whirlwind",
+      "begins"
+    ],
+    "SentAt": "2026-11-17T12:04:12.004282+00:00"
+  },
+  {
+    "Tokens": [
+      "why",
+      "five",
+      "eu",
+      "countries",
+      "reviving",
+      "plans",
+      "deport",
+      "migrants",
+      "rwanda",
+      "european",
+      "plan",
+      "announce",
+      "migration",
+      "partnership"
+    ],
+    "SentAt": "2026-11-17T12:04:12.0043388+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "asia",
+      "putin",
+      "xi",
+      "summit",
+      "possible",
+      "kim",
+      "meeting",
+      "hold",
+      "during",
+      "trip",
+      "what",
+      "know"
+    ],
+    "SentAt": "2026-11-17T12:04:12.0043479+00:00"
+  },
+  {
+    "Tokens": [
+      "putin",
+      "crimea",
+      "bridge",
+      "partly",
+      "collapses",
+      "zelensky",
+      "hails",
+      "unprecedented",
+      "attack",
+      "ukraine",
+      "vital",
+      "kerch",
+      "linking",
+      "russia",
+      "europe",
+      "live"
+    ],
+    "SentAt": "2026-11-17T12:04:12.0043615+00:00"
+  },
+  {
+    "Tokens": [
+      "european",
+      "countries",
+      "aim",
+      "send",
+      "rejected",
+      "asylum",
+      "seekers",
+      "rwanda",
+      "eu",
+      "plan",
+      "deportation",
+      "centre"
+    ],
+    "SentAt": "2026-11-17T12:04:12.0043738+00:00"
+  },
+  {
+    "Tokens": [
+      "ukraine",
+      "critically",
+      "damages",
+      "kerch",
+      "bridge",
+      "linking",
+      "occupied",
+      "crimea",
+      "russia",
+      "hits",
+      "between",
+      "attacks"
+    ],
+    "SentAt": "2026-11-17T12:04:12.0043867+00:00"
+  },
+  {
+    "Tokens": [
+      "will",
+      "president",
+      "trump",
+      "meet",
+      "kim",
+      "jong",
+      "un",
+      "he",
+      "may",
+      "north",
+      "korea",
+      "china"
+    ],
+    "SentAt": "2026-11-17T12:04:12.0044068+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "meet",
+      "chinese",
+      "leader",
+      "xi",
+      "jinping",
+      "russia",
+      "vladimir",
+      "putin",
+      "joint",
+      "summit",
+      "ukraine",
+      "hit",
+      "key",
+      "bridges",
+      "ahead"
+    ],
+    "SentAt": "2026-11-17T12:04:12.0044161+00:00"
   }
 ]

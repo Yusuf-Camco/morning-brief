@@ -1,173 +1,6 @@
 [
   {
     "Tokens": [
-      "fiery",
-      "clashes",
-      "erupt",
-      "spain",
-      "millions",
-      "join",
-      "general",
-      "strike",
-      "barcelona",
-      "thousands",
-      "first",
-      "14",
-      "years",
-      "protest",
-      "housing",
-      "costs",
-      "anger",
-      "leads"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9217713+00:00"
-  },
-  {
-    "Tokens": [
-      "democrat",
-      "scott",
-      "colom",
-      "makes",
-      "history",
-      "mississippi",
-      "first",
-      "black",
-      "senator",
-      "since",
-      "19th",
-      "century",
-      "elects",
-      "1874",
-      "more",
-      "than",
-      "140",
-      "years",
-      "state",
-      "post",
-      "civil",
-      "war"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9219371+00:00"
-  },
-  {
-    "Tokens": [
-      "israeli",
-      "strike",
-      "gaza",
-      "hospital",
-      "kills",
-      "six",
-      "palestinians",
-      "health",
-      "ministry",
-      "authorities",
-      "say",
-      "people"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9219782+00:00"
-  },
-  {
-    "Tokens": [
-      "indonesia",
-      "vice",
-      "president",
-      "resigns",
-      "signs",
-      "ruling",
-      "alliance",
-      "fraying",
-      "dispute",
-      "eligibility",
-      "gibran"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9220018+00:00"
-  },
-  {
-    "Tokens": [
-      "nvidia",
-      "board",
-      "preparing",
-      "oust",
-      "ceo",
-      "jensen",
-      "huang",
-      "sources",
-      "say",
-      "reportedly",
-      "deciding",
-      "whether",
-      "stock",
-      "price",
-      "plunges",
-      "weighing",
-      "up",
-      "not",
-      "who",
-      "weighs",
-      "ouster",
-      "spy",
-      "scandal"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9220462+00:00"
-  },
-  {
-    "Tokens": [
-      "kenya",
-      "discharges",
-      "last",
-      "ebola",
-      "patient",
-      "major",
-      "milestone",
-      "towards",
-      "virus",
-      "free",
-      "status",
-      "42",
-      "day",
-      "countdown",
-      "begins",
-      "leaves",
-      "hospital"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9220697+00:00"
-  },
-  {
-    "Tokens": [
-      "york",
-      "building",
-      "collapse",
-      "kills",
-      "least",
-      "two",
-      "officials",
-      "say",
-      "brooklyn",
-      "injures",
-      "more",
-      "than",
-      "dozen"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9220877+00:00"
-  },
-  {
-    "Tokens": [
-      "china",
-      "us",
-      "fabricating",
-      "nvidia",
-      "spy",
-      "claims",
-      "justify",
-      "tech",
-      "blockade",
-      "accuses",
-      "push"
-    ],
-    "SentAt": "2026-11-12T11:29:33.9221002+00:00"
-  },
-  {
-    "Tokens": [
       "microsoft",
       "battling",
       "major",
@@ -870,5 +703,182 @@
       "soar"
     ],
     "SentAt": "2026-11-18T11:55:42.5732944+00:00"
+  },
+  {
+    "Tokens": [
+      "denmark",
+      "parliament",
+      "approves",
+      "security",
+      "deal",
+      "greenland",
+      "us",
+      "danish",
+      "lawmakers",
+      "ok",
+      "ratifies",
+      "months",
+      "pressure",
+      "trump"
+    ],
+    "SentAt": "2026-11-19T11:52:45.8997405+00:00"
+  },
+  {
+    "Tokens": [
+      "un",
+      "top",
+      "court",
+      "convicts",
+      "myanmar",
+      "genocidal",
+      "intent",
+      "against",
+      "rohingya",
+      "committed",
+      "acts",
+      "genocide",
+      "minority",
+      "world",
+      "rules",
+      "muslim",
+      "finds"
+    ],
+    "SentAt": "2026-11-19T11:52:45.8998703+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "meets",
+      "putin",
+      "xi",
+      "trilateral",
+      "us",
+      "russia",
+      "china",
+      "talks",
+      "apec",
+      "meet",
+      "historic",
+      "joint",
+      "meeting",
+      "live",
+      "summit",
+      "ends",
+      "shenzhen"
+    ],
+    "SentAt": "2026-11-19T11:52:45.8999039+00:00"
+  },
+  {
+    "Tokens": [
+      "xi",
+      "putin",
+      "trump",
+      "summit",
+      "will",
+      "not",
+      "yalta",
+      "shadow",
+      "hangs",
+      "china",
+      "historic",
+      "ends",
+      "outcome",
+      "unclear",
+      "apec",
+      "hold",
+      "meeting",
+      "jinping",
+      "donald",
+      "vladimir",
+      "begin",
+      "unprecedented",
+      "arrives",
+      "start",
+      "shortly"
+    ],
+    "SentAt": "2026-11-19T11:52:45.8999449+00:00"
+  },
+  {
+    "Tokens": [
+      "icj",
+      "rule",
+      "rohingya",
+      "genocide",
+      "case",
+      "against",
+      "myanmar",
+      "what",
+      "stake",
+      "know",
+      "about",
+      "world",
+      "court",
+      "how",
+      "does",
+      "define"
+    ],
+    "SentAt": "2026-11-19T11:52:45.8999689+00:00"
+  },
+  {
+    "Tokens": [
+      "florida",
+      "pastor",
+      "convicted",
+      "plot",
+      "kill",
+      "haitian",
+      "president",
+      "found",
+      "guilty",
+      "2021",
+      "assassination",
+      "man",
+      "haiti"
+    ],
+    "SentAt": "2026-11-19T11:52:45.8999884+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "xi",
+      "putin",
+      "sit",
+      "down",
+      "rare",
+      "three",
+      "way",
+      "meeting",
+      "china",
+      "what",
+      "know",
+      "about",
+      "lands",
+      "ahead",
+      "historic",
+      "summit",
+      "between",
+      "starts",
+      "shenzhen"
+    ],
+    "SentAt": "2026-11-19T11:52:45.9000156+00:00"
+  },
+  {
+    "Tokens": [
+      "cheating",
+      "scandal",
+      "south",
+      "korea",
+      "adopts",
+      "restrictions",
+      "grueling",
+      "college",
+      "entrance",
+      "exam",
+      "tightens",
+      "security",
+      "national",
+      "ai"
+    ],
+    "SentAt": "2026-11-19T11:52:45.9000295+00:00"
   }
 ]

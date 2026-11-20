@@ -1,82 +1,6 @@
 [
   {
     "Tokens": [
-      "microsoft",
-      "battling",
-      "major",
-      "worldwide",
-      "outage",
-      "faces",
-      "outlook",
-      "no",
-      "signs",
-      "cyberattack"
-    ],
-    "SentAt": "2026-11-13T11:13:34.7339726+00:00"
-  },
-  {
-    "Tokens": [
-      "pope",
-      "leo",
-      "meets",
-      "clergy",
-      "abuse",
-      "survivors",
-      "peru",
-      "calls",
-      "justice",
-      "xiv",
-      "victims",
-      "church",
-      "must",
-      "make",
-      "amends"
-    ],
-    "SentAt": "2026-11-13T11:13:34.7340531+00:00"
-  },
-  {
-    "Tokens": [
-      "zelensky",
-      "welcomes",
-      "us",
-      "bringing",
-      "europe",
-      "russia",
-      "ukraine",
-      "peace",
-      "talks",
-      "say",
-      "join",
-      "putin",
-      "sticks",
-      "hardline",
-      "stance",
-      "big",
-      "development",
-      "negotiations"
-    ],
-    "SentAt": "2026-11-13T11:13:34.7340824+00:00"
-  },
-  {
-    "Tokens": [
-      "zimbabwean",
-      "author",
-      "simbarashe",
-      "kundizeza",
-      "cleared",
-      "using",
-      "ai",
-      "write",
-      "prize",
-      "winning",
-      "story",
-      "africa",
-      "allegations"
-    ],
-    "SentAt": "2026-11-13T11:13:34.7341002+00:00"
-  },
-  {
-    "Tokens": [
       "us",
       "air",
       "travel",
@@ -880,5 +804,151 @@
       "ai"
     ],
     "SentAt": "2026-11-19T11:52:45.9000295+00:00"
+  },
+  {
+    "Tokens": [
+      "myanmar",
+      "rejects",
+      "un",
+      "court",
+      "genocide",
+      "ruling",
+      "unfair",
+      "committed",
+      "against",
+      "rohingya",
+      "minority",
+      "top",
+      "rules",
+      "everyone",
+      "struggled",
+      "justice",
+      "tears",
+      "vindicated",
+      "sets",
+      "up",
+      "fight",
+      "israel",
+      "gaza"
+    ],
+    "SentAt": "2026-11-20T11:53:59.2976898+00:00"
+  },
+  {
+    "Tokens": [
+      "eu",
+      "uk",
+      "seal",
+      "reset",
+      "deal",
+      "agreed",
+      "talks",
+      "will",
+      "continue",
+      "some",
+      "areas",
+      "live",
+      "brussels",
+      "london",
+      "eye",
+      "burnham",
+      "summit"
+    ],
+    "SentAt": "2026-11-20T11:53:59.297792+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "putin",
+      "xi",
+      "release",
+      "peace",
+      "declaration",
+      "historic",
+      "meeting",
+      "china",
+      "appears",
+      "achieve",
+      "little",
+      "sits",
+      "down",
+      "jinping",
+      "vladimir",
+      "behind",
+      "share",
+      "vision",
+      "usurping",
+      "power"
+    ],
+    "SentAt": "2026-11-20T11:53:59.2978264+00:00"
+  },
+  {
+    "Tokens": [
+      "fiona",
+      "hippo",
+      "dies",
+      "swallowing",
+      "hat",
+      "cincinnati",
+      "zoo",
+      "ingesting",
+      "knitted"
+    ],
+    "SentAt": "2026-11-20T11:53:59.2978381+00:00"
+  },
+  {
+    "Tokens": [
+      "california",
+      "targets",
+      "nvidia",
+      "china",
+      "ai",
+      "chip",
+      "probe",
+      "investigates",
+      "whether",
+      "exports",
+      "ended",
+      "up"
+    ],
+    "SentAt": "2026-11-20T11:53:59.2978511+00:00"
+  },
+  {
+    "Tokens": [
+      "thomas",
+      "markle",
+      "fit",
+      "stand",
+      "trial",
+      "child",
+      "abuse",
+      "images",
+      "us",
+      "court",
+      "rules",
+      "judge",
+      "finds",
+      "mentally",
+      "charges"
+    ],
+    "SentAt": "2026-11-20T11:53:59.2978658+00:00"
+  },
+  {
+    "Tokens": [
+      "burnham",
+      "europe",
+      "ready",
+      "enter",
+      "negotiations",
+      "help",
+      "end",
+      "russia",
+      "war",
+      "ukraine",
+      "talks",
+      "ending",
+      "leaders",
+      "say"
+    ],
+    "SentAt": "2026-11-20T11:53:59.2978792+00:00"
   }
 ]

@@ -1,98 +1,6 @@
 [
   {
     "Tokens": [
-      "us",
-      "air",
-      "travel",
-      "thrown",
-      "chaos",
-      "nationwide",
-      "ground",
-      "stop",
-      "halts",
-      "flights",
-      "slowly",
-      "resume",
-      "aviation",
-      "agency",
-      "lifts",
-      "faa",
-      "all",
-      "lifted"
-    ],
-    "SentAt": "2026-11-14T10:39:32.8173384+00:00"
-  },
-  {
-    "Tokens": [
-      "microsoft",
-      "services",
-      "fully",
-      "restored",
-      "day",
-      "long",
-      "global",
-      "outage",
-      "all",
-      "recovered"
-    ],
-    "SentAt": "2026-11-14T10:39:32.8174639+00:00"
-  },
-  {
-    "Tokens": [
-      "miracle",
-      "mississippi",
-      "all",
-      "passengers",
-      "rescued",
-      "orleans",
-      "cruise",
-      "ship",
-      "collision",
-      "watch",
-      "seen",
-      "sinking",
-      "cargo",
-      "crew",
-      "accounted",
-      "boat",
-      "crash"
-    ],
-    "SentAt": "2026-11-14T10:39:32.817501+00:00"
-  },
-  {
-    "Tokens": [
-      "eisenkot",
-      "accuses",
-      "netanyahu",
-      "racist",
-      "campaign",
-      "against",
-      "israel",
-      "arab",
-      "minority",
-      "fueling",
-      "hostility",
-      "arabs"
-    ],
-    "SentAt": "2026-11-14T10:39:32.8175166+00:00"
-  },
-  {
-    "Tokens": [
-      "microsoft",
-      "global",
-      "outage",
-      "fixes",
-      "what",
-      "we",
-      "know",
-      "blames",
-      "network",
-      "upgrade"
-    ],
-    "SentAt": "2026-11-14T10:39:32.8175327+00:00"
-  },
-  {
-    "Tokens": [
       "three",
       "men",
       "sentenced",
@@ -950,5 +858,165 @@
       "say"
     ],
     "SentAt": "2026-11-20T11:53:59.2978792+00:00"
+  },
+  {
+    "Tokens": [
+      "russian",
+      "missiles",
+      "hit",
+      "poland",
+      "what",
+      "happened",
+      "could",
+      "nato",
+      "respond",
+      "pummel",
+      "ukraine",
+      "soil",
+      "projectiles",
+      "tensions",
+      "rise"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6478784+00:00"
+  },
+  {
+    "Tokens": [
+      "denmark",
+      "thwarted",
+      "russian",
+      "plot",
+      "kill",
+      "us",
+      "ukrainian",
+      "rapper",
+      "accuses",
+      "russia",
+      "plotting",
+      "assassinate",
+      "unacceptable",
+      "eu",
+      "chief",
+      "condemns",
+      "alleged",
+      "citizen"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6480217+00:00"
+  },
+  {
+    "Tokens": [
+      "french",
+      "police",
+      "officers",
+      "sentenced",
+      "beating",
+      "music",
+      "producer",
+      "michel",
+      "zecler",
+      "guilty",
+      "assault",
+      "what",
+      "happens",
+      "now",
+      "found",
+      "racist",
+      "black"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6480586+00:00"
+  },
+  {
+    "Tokens": [
+      "trump",
+      "touts",
+      "meeting",
+      "xi",
+      "putin",
+      "offers",
+      "little",
+      "results",
+      "flaunts",
+      "camaraderie",
+      "has",
+      "show",
+      "watch",
+      "live",
+      "holds",
+      "press",
+      "conference"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6480904+00:00"
+  },
+  {
+    "Tokens": [
+      "fight",
+      "fossil",
+      "fuels",
+      "leaves",
+      "cop31",
+      "climate",
+      "talks",
+      "deadlock",
+      "spill",
+      "overtime",
+      "nations",
+      "quarrel"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6481052+00:00"
+  },
+  {
+    "Tokens": [
+      "white",
+      "police",
+      "officers",
+      "convicted",
+      "beating",
+      "black",
+      "man",
+      "france",
+      "paris",
+      "sentenced",
+      "prison",
+      "2020"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6481203+00:00"
+  },
+  {
+    "Tokens": [
+      "what",
+      "uk",
+      "eu",
+      "deal",
+      "could",
+      "mean",
+      "future",
+      "post",
+      "brexit",
+      "relations",
+      "reach",
+      "reset"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6481345+00:00"
+  },
+  {
+    "Tokens": [
+      "indian",
+      "man",
+      "sentenced",
+      "19",
+      "plus",
+      "years",
+      "plot",
+      "assassinate",
+      "us",
+      "based",
+      "sikh",
+      "separatist",
+      "leader",
+      "prison",
+      "conspiring",
+      "kill",
+      "york"
+    ],
+    "SentAt": "2026-11-21T11:23:35.6481479+00:00"
   }
 ]
